@@ -2,12 +2,14 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
 
 const navItems = [
-  { href: "#about", label: "About" },
-  { href: "#how", label: "How it works" },
-  { href: "#features", label: "Features" },
+  { href: "/about", label: "About" },
+  { href: "/features", label: "Features" },
+  { href: "/roadmap", label: "Roadmap" },
+  { href: "/#how", label: "How it works" },
 ];
 
 const ContactIcon = () => (
@@ -50,9 +52,9 @@ const SiteHeader = () => {
   return (
     <header className="sticky top-0 z-50 border-b border-neutral-200 bg-white/95 backdrop-blur-md">
       <div className="relative mx-auto flex w-full max-w-6xl items-center justify-between gap-8 px-6 py-4">
-        <a
+        <Link
           className="inline-flex items-center gap-2.5 text-xl font-semibold text-neutral-900"
-          href="#"
+          href="/"
         >
           <span
             className="inline-flex items-center justify-center rounded-full bg-[#2563EBBF] p-1"
@@ -70,7 +72,7 @@ const SiteHeader = () => {
             <span className="text-[#040914]">Suara.</span>
             <span className="text-[#2563eb]">ai</span>
           </span>
-        </a>
+        </Link>
 
         <button
           type="button"
@@ -116,33 +118,33 @@ const SiteHeader = () => {
           <ul className="flex flex-col gap-4 md:flex-row md:items-center md:gap-6">
             {navItems.map(({ href, label }) => (
               <li key={href}>
-                <a
+                <Link
                   className="text-neutral-700 transition-colors hover:text-neutral-900 focus-visible:text-neutral-900 focus-visible:outline-none"
                   href={href}
                   onClick={closeMenu}
                 >
                   {label}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
-          <a
+          <Link
             className="inline-flex items-center justify-center gap-2 rounded-full bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 md:hidden"
-            href="#contact"
+            href="/#contact"
             onClick={closeMenu}
           >
             <ContactIcon />
             Contact Us
-          </a>
+          </Link>
         </nav>
 
-        <a
+        <Link
           className="hidden items-center gap-2 rounded-full bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 md:inline-flex"
-          href="#contact"
+          href="/#contact"
         >
           <ContactIcon />
           Contact Us
-        </a>
+        </Link>
       </div>
     </header>
   );
