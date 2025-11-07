@@ -21,7 +21,7 @@ export function HomeFooter() {
                 { href: "#about", label: "About" },
                 { href: "#features", label: "Features" },
                 { href: "#how", label: "How It Works" },
-                { href: "#contact", label: "Contact" },
+                { href: "/contact", label: "Contact" },
               ].map((item) => (
                 <li key={item.href}>
                   <a className="transition hover:text-[#0b1323]" href={item.href}>

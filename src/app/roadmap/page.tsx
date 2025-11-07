@@ -173,10 +173,10 @@ export default function RoadmapPage() {
               </p>
             </div>
             <a
-              href="mailto:hello@suara.ai"
+              href="/contact"
               className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold uppercase tracking-[0.22em] text-[#1d4ed8] shadow-[0_12px_32px_rgba(255,255,255,0.25)] transition hover:bg-[#f1f5ff]"
             >
-              Talk with us
+              Contact Suara
             </a>
           </div>
         </section>

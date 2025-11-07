@@ -55,7 +55,7 @@ export function HeroSection() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
             <a
               className="inline-flex items-center gap-2 rounded-full bg-[#2563eb] px-6 py-3 text-[15px] font-semibold text-white shadow-[0_10px_24px_rgba(37,99,235,0.18)] transition will-change-transform hover:-translate-y-0.5 hover:shadow-[0_12px_26px_rgba(37,99,235,0.22)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#2563eb]"
-              href="#contact"
+              href="/contact"
             >
               <span className="inline-flex text-white" aria-hidden="true">
                 <Image src="/assets/microphone-2.svg" alt="" width={18} height={18} />
@@ -64,7 +64,7 @@ export function HeroSection() {
             </a>
             <a
               className="inline-flex items-center justify-center gap-2 rounded-full bg-[#2563eb24] px-6 py-3 text-[15px] font-semibold text-[#2563eb] transition hover:-translate-y-0.5"
-              href="#learn-more"
+              href="/about"
             >
               Learn More
             </a>

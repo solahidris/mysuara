@@ -130,7 +130,7 @@ const SiteHeader = () => {
           </ul>
           <Link
             className="inline-flex items-center justify-center gap-2 rounded-full bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 md:hidden"
-            href="/#contact"
+            href="/contact"
             onClick={closeMenu}
           >
             <ContactIcon />
@@ -140,7 +140,7 @@ const SiteHeader = () => {
 
         <Link
           className="hidden items-center gap-2 rounded-full bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 md:inline-flex"
-          href="/#contact"
+          href="/contact"
         >
           <ContactIcon />
           Contact Us

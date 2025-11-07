@@ -117,10 +117,10 @@ export default function AboutPage() {
             </p>
             <div className="flex justify-center">
               <a
-                href="#foundation"
+                href="/contact"
                 className="inline-flex items-center justify-center rounded-full bg-[#1d4ed8] px-6 py-3 text-sm font-semibold uppercase tracking-[0.2em] text-white shadow-[0_16px_40px_rgba(29,78,216,0.35)] transition hover:bg-[#153ea8]"
               >
-                Become a Partner
+                Contact Us
               </a>
             </div>
           </div>
@@ -220,10 +220,10 @@ export default function AboutPage() {
               </p>
             </div>
             <a
-              href="mailto:hello@suara.ai"
+              href="/contact"
               className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold uppercase tracking-[0.2em] text-[#1d4ed8] shadow-[0_12px_32px_rgba(255,255,255,0.25)] transition hover:bg-[#f1f5ff]"
             >
-              Contact Us
+              Connect With Us
             </a>
           </div>
         </section>
