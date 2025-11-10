@@ -50,7 +50,7 @@ const SiteHeader = () => {
   const closeMenu = () => setIsOpen(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-neutral-200 bg-white/95 backdrop-blur-md">
+    <header className="sticky top-0 z-50 shadow-2xl shadow-slate-200/70 bg-white/95 backdrop-blur-md">
       <div className="relative mx-auto flex w-full max-w-6xl items-center justify-between gap-8 px-6 py-4">
         <Link
           className="inline-flex items-center gap-2.5 text-xl font-semibold text-neutral-900"

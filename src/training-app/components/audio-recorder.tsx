@@ -6,6 +6,8 @@ import { Mic, RotateCcw, Play, Pause } from "lucide-react"
 import { useToast } from "@/training-app/hooks/use-toast"
 import { LiveWaveform } from "@/training-app/components/ui/live-waveform"
 
+const RECORDING_WAVEFORM_COLOR = "#2563eb"
+
 interface AudioRecorderProps {
   onRecordingComplete: (audioBlob: Blob) => void
   disabled?: boolean
@@ -197,9 +199,9 @@ export function AudioRecorder({ onRecordingComplete, disabled }: AudioRecorderPr
             type="button"
             onClick={startRecording}
             disabled={disabled}
-            className="cursor-pointer group relative w-20 h-20 rounded-full bg-primary hover:bg-primary/50 transition-all duration-300 flex items-center justify-center shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+            className="cursor-pointer group relative w-20 h-20 rounded-full bg-white hover:bg-primary/50 transition-all duration-300 flex items-center justify-center shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            <Mic className="h-8 w-8 text-white hibiscus-text-fill" />
+            <Mic className="h-8 w-8 text-blue-500 hibiscus-text-fill" />
           </button>
         )}
 
@@ -225,7 +227,7 @@ export function AudioRecorder({ onRecordingComplete, disabled }: AudioRecorderPr
                   height={80}
                   barWidth={5}
                   barGap={2}
-                  barColor="teal"
+                  barColor={RECORDING_WAVEFORM_COLOR}
                   sensitivity={0.80}
                   fadeEdges={true}
                   historySize={80}
@@ -239,7 +241,7 @@ export function AudioRecorder({ onRecordingComplete, disabled }: AudioRecorderPr
                   height={80}
                   barWidth={5}
                   barGap={2}
-                  barColor="teal"
+                  barColor={RECORDING_WAVEFORM_COLOR}
                   sensitivity={0.80}
                   fadeEdges={true}
                   historySize={80}

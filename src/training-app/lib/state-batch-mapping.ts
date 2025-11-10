@@ -5,49 +5,63 @@
  * to ensure even distribution of data collection across all stories.
  * 
  * After completing their starting batch, users continue through the remaining
- * batches in sequence until all 280 stories are completed.
+ * batches in sequence until all 773 stories are completed.
  * 
  * Example: Penang starts at Batch 9
- * → Stories 249-280 (Batch 9)
- * → Stories 1-31 (Batch 1)
- * → Stories 32-62 (Batch 2)
+ * → Stories 385-432 (Batch 9)
+ * → Stories 433-480 (Batch 10)
+ * → Stories 481-528 (Batch 11)
  * → ... continues until all batches complete
  */
 
 export const STATE_BATCH_MAPPING: Record<string, number> = {
-  // Batch 1 starters (Stories 1-31)
+  // Batch 1 starters (Stories 1-48)
   "Johor": 1,
-  "Perak": 1,
-  
-  // Batch 2 starters (Stories 32-62)
+
+  // Batch 2 starters (Stories 49-96)
   "Kedah": 2,
-  "Perlis": 2,
-  
-  // Batch 3 starters (Stories 63-93)
+
+  // Batch 3 starters (Stories 97-144)
   "Kelantan": 3,
-  "Putrajaya": 3,
-  
-  // Batch 4 starters (Stories 94-124)
+
+  // Batch 4 starters (Stories 145-192)
   "Kuala Lumpur": 4,
-  "Sabah": 4,
-  
-  // Batch 5 starters (Stories 125-155)
+
+  // Batch 5 starters (Stories 193-240)
   "Labuan": 5,
-  "Sarawak": 5,
-  
-  // Batch 6 starters (Stories 156-186)
+
+  // Batch 6 starters (Stories 241-288)
   "Melaka": 6,
-  "Selangor": 6,
-  
-  // Batch 7 starters (Stories 187-217)
+
+  // Batch 7 starters (Stories 289-336)
   "Negeri Sembilan": 7,
-  "Terengganu": 7,
-  
-  // Batch 8 starters (Stories 218-248)
+
+  // Batch 8 starters (Stories 337-384)
   "Pahang": 8,
-  
-  // Batch 9 starters (Stories 249-280)
+
+  // Batch 9 starters (Stories 385-432)
   "Penang": 9,
+
+  // Batch 10 starters (Stories 433-480)
+  "Perak": 10,
+
+  // Batch 11 starters (Stories 481-528)
+  "Perlis": 11,
+
+  // Batch 12 starters (Stories 529-576)
+  "Putrajaya": 12,
+
+  // Batch 13 starters (Stories 577-624)
+  "Sabah": 13,
+
+  // Batch 14 starters (Stories 625-672)
+  "Sarawak": 14,
+
+  // Batch 15 starters (Stories 673-720)
+  "Selangor": 15,
+
+  // Batch 16 starters (Stories 721-773)
+  "Terengganu": 16,
 }
 
 /**
@@ -66,38 +80,46 @@ export function getStartingBatch(region: string | null | undefined): number {
 }
 
 /**
- * Create a batch sequence starting from the given batch number
- * Example: startingBatch = 9 → [9, 1, 2, 3, 4, 5, 6, 7, 8]
- */
-export function createBatchSequence(startingBatch: number): number[] {
-  const sequence: number[] = []
-  
-  // Start from the starting batch
-  for (let i = startingBatch; i <= 9; i++) {
-    sequence.push(i)
-  }
-  
-  // Continue from batch 1 to the batch before starting batch
-  for (let i = 1; i < startingBatch; i++) {
-    sequence.push(i)
-  }
-  
-  return sequence
-}
-
-/**
  * Get the story ID ranges for each batch
  */
 export const BATCH_RANGES: Record<number, { start: number; end: number; count: number }> = {
-  1: { start: 1, end: 31, count: 31 },
-  2: { start: 32, end: 62, count: 31 },
-  3: { start: 63, end: 93, count: 31 },
-  4: { start: 94, end: 124, count: 31 },
-  5: { start: 125, end: 155, count: 31 },
-  6: { start: 156, end: 186, count: 31 },
-  7: { start: 187, end: 217, count: 31 },
-  8: { start: 218, end: 248, count: 31 },
-  9: { start: 249, end: 280, count: 32 }, // Batch 9 has 32 stories
+  1: { start: 1, end: 48, count: 48 },
+  2: { start: 49, end: 96, count: 48 },
+  3: { start: 97, end: 144, count: 48 },
+  4: { start: 145, end: 192, count: 48 },
+  5: { start: 193, end: 240, count: 48 },
+  6: { start: 241, end: 288, count: 48 },
+  7: { start: 289, end: 336, count: 48 },
+  8: { start: 337, end: 384, count: 48 },
+  9: { start: 385, end: 432, count: 48 },
+  10: { start: 433, end: 480, count: 48 },
+  11: { start: 481, end: 528, count: 48 },
+  12: { start: 529, end: 576, count: 48 },
+  13: { start: 577, end: 624, count: 48 },
+  14: { start: 625, end: 672, count: 48 },
+  15: { start: 673, end: 720, count: 48 },
+  16: { start: 721, end: 773, count: 53 },
+}
+
+const TOTAL_BATCHES = Object.keys(BATCH_RANGES).length
+
+/**
+ * Create a batch sequence starting from the given batch number
+ * Example: startingBatch = 9 → [9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8]
+ */
+export function createBatchSequence(startingBatch: number): number[] {
+  const sequence: number[] = []
+  const normalizedStartingBatch = ((startingBatch - 1 + TOTAL_BATCHES) % TOTAL_BATCHES) + 1
+
+  for (let i = normalizedStartingBatch; i <= TOTAL_BATCHES; i++) {
+    sequence.push(i)
+  }
+
+  for (let i = 1; i < normalizedStartingBatch; i++) {
+    sequence.push(i)
+  }
+
+  return sequence
 }
 
 /**

@@ -59,16 +59,14 @@ export function HistoryModal({ submissions, onDelete }: HistoryModalProps) {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button 
-          variant="outline" 
-          size="sm" 
-          className="cursor-pointer h-10 w-10 p-0" 
+        <button 
+          className="cursor-pointer h-full px-4 py-3 flex items-center gap-2 rounded-xl border border-slate-200 bg-white text-slate-700 shadow-md shadow-slate-200/60 transition hover:bg-slate-50" 
           title="View submission history"
         >
-          <History className="h-4 w-4" />
-        </Button>
+          <History className="h-4 w-4 text-slate-700" />
+        </button>
       </DialogTrigger>
-      <DialogContent className="max-w-2xl max-h-[80vh] overflow-y-auto">
+      <DialogContent className="max-w-2xl max-h-[80vh] overflow-y-auto bg-white">
         <DialogHeader>
           <DialogTitle>Submission History</DialogTitle>
         </DialogHeader>

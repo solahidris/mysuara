@@ -1,157 +1,242 @@
 export const batch7Stories = [
   {
-    id: 187,
-    "title": "Story #187 - Urban Mobility Planning",
-    "content": "[Content unavailable due to document truncation. Likely discusses planning strategies to improve urban mobility and reduce traffic congestion.]"
+    id: 289,
+    title: "Cerita 10 — Menghubungkan Semua Benang Merah (Bahagian 2)",
+    content: "Pasukan penganalisis pasaran dan penganalisis ekonomi menunjukkan impakCSR kepada komuniti, manakala pegawai hubungan awam dan wakil media mengaturnaratif kenyataan dasar."
   },
   {
-    id: 188,
-    "title": "Story #188 - Rural Healthcare Infrastructure",
-    "content": "[Content unavailable due to document truncation. Likely focuses on improving healthcare infrastructure in rural areas.]"
+    id: 290,
+    title: "Cerita 10 — Menghubungkan Semua Benang Merah (Bahagian 3)",
+    content: "HR mengumumkan promosi dalaman tambahan bagi bakat AI—jurutera AI, pakarAI, dan saintis data—serta anugerah anugerah prestasi yang disertai program kebajikankomuniti."
   },
   {
-    id: 189,
-    "title": "Story #189 - Digital Education Initiatives",
-    "content": "[Content unavailable due to document truncation. Likely covers initiatives to integrate digital tools into education systems.]"
+    id: 291,
+    title: "Cerita 10 — Menghubungkan Semua Benang Merah (Bahagian 4)",
+    content: "Dengan tadbir urus kukuh, transformasi digital, dan kelestarian yang nyata,organisasi menutup tahun dengan laporan tahunan yang menyatukan akauntabiliti, inovasi,dan empati."
   },
   {
-    id: 190,
-    "title": "Story #190 - Community Waste Management Systems",
-    "content": "[Content unavailable due to document truncation. Likely discusses systems for managing waste in communities to promote sustainability.]"
+    id: 292,
+    title: "Cerita 1 — Patuh Jalan, Selamat Semua (Bahagian 1)",
+    content: "Untuk menjaga keselamatan awam dan ketenteraman awam, polis meningkatkanrondaan keselamatan dan kawalan trafik."
   },
   {
-    id: 191,
-    "title": "Story #191 - Youth Entrepreneurship Programs",
-    "content": "[Content unavailable due to document truncation. Likely focuses on programs to support young entrepreneurs in starting businesses.]"
+    id: 293,
+    title: "Cerita 1 — Patuh Jalan, Selamat Semua (Bahagian 2)",
+    content: "Unit polis trafik bekerjasama dengan Jabatan Pengangkutan Jalan (JPJ) dalamoperasi bersepadu; saman trafik dikeluarkan ketika operasi keselamatan jalan dan kempenkeselamatan jalan raya."
   },
   {
-    id: 192,
-    "title": "Story #192 - Sustainable Tourism Development",
-    "content": "[Content unavailable due to document truncation. Likely covers initiatives to develop sustainable tourism practices.]"
+    id: 294,
+    title: "Cerita 1 — Patuh Jalan, Selamat Semua (Bahagian 3)",
+    content: "Papan peringatan menekankan pemandu berhemah, had laju, serta pematuhanundang-undang; sesi kaunseling diberi kepada pesalah pelanggaran undang-undang yangmenerima denda kompaun."
   },
   {
-    id: 193,
-    "title": "Story #193 - Public Safety Enhancements",
-    "content": "[Content unavailable due to document truncation. Likely discusses enhancements to public safety through technology and training.]"
+    id: 295,
+    title: "Cerita 2 — Dari Sekolah Memandu ke Jalan Raya (Bahagian 1)",
+    content: "Calon memohon lesen memandu, lulus ujian memandu, bermula dengan lesensementara sebelum memperoleh lesen kompeten."
   },
   {
-    id: 194,
-    "title": "Story #194 - Green Building Projects",
-    "content": "[Content unavailable due to document truncation. Likely focuses on projects to construct environmentally friendly buildings.]"
+    id: 296,
+    title: "Cerita 2 — Dari Sekolah Memandu ke Jalan Raya (Bahagian 2)",
+    content: "Mereka menjalani ujian komputer JPJ, latihan memandu di sekolah memandu,dan proses pengujian kenderaan termasuk pemeriksaan PUSPAKOM."
   },
   {
-    id: 195,
-    "title": "Story #195 - Community Health Education",
-    "content": "[Content unavailable due to document truncation. Likely covers educational programs to promote health awareness in communities.]"
+    id: 297,
+    title: "Cerita 2 — Dari Sekolah Memandu ke Jalan Raya (Bahagian 3)",
+    content: "Syarat jalan meliputi cukai jalan dan insurans kenderaan; untuk kenderaankomersial seperti lori, van, bas sekolah, bas ekspres, teksi, serta e-hailing oleh pemanduGrab, standard keselamatan penumpang dipantau rapi."
   },
   {
-    id: 196,
-    "title": "Story #196 - Rural Electrification Initiatives",
-    "content": "[Content unavailable due to document truncation. Likely discusses initiatives to provide electricity to rural communities.]"
+    id: 298,
+    title: "Cerita 3 — Transit Pintar Bandar (Bahagian 1)",
+    content: "Kota memperluas sistem tambang tanpa tunai seperti MyRapid, Touch ‘n Go, dankad pengangkutan awam."
   },
   {
-    id: 197,
-    "title": "Story #197 - Digital Governance Platforms",
-    "content": "[Content unavailable due to document truncation. Likely focuses on platforms to enhance digital governance and transparency.]"
+    id: 299,
+    title: "Cerita 3 — Transit Pintar Bandar (Bahagian 2)",
+    content: "Kecekapan meningkat di stesen MRT, sepanjang laluan LRT dan laluan monorel,serta perkhidmatan bas awammelalui integrasi pengangkutan dalam sistem transit pintar."
   },
   {
-    id: 198,
-    "title": "Story #198 - Cultural Preservation Projects",
-    "content": "[Content unavailable due to document truncation. Likely covers projects to preserve cultural heritage and traditions.]"
+    id: 300,
+    title: "Cerita 3 — Transit Pintar Bandar (Bahagian 3)",
+    content: "Hasilnya, mobiliti bandar dan jaringan pengangkutan bertambah baik,mengurangkan kesesakan lalu lintas dengan pengurusan trafik dan sistem lampu isyaratdisokong kamera AES."
   },
   {
-    id: 199,
-    "title": "Story #199 - Youth Sports Development",
-    "content": "[Content unavailable due to document truncation. Likely discusses programs to promote sports among youth for physical and social development.]"
+    id: 301,
+    title: "Cerita 4 — Lebuh Raya Musim Perayaan (Bahagian 1)",
+    content: "Di tol, kutipan tol di lebuh raya utama—PLUS, LPT, DASH, SUKE—dipermudahmelalui sistem RFID dan pembayaran tol elektronik, mewujudkan perjalanan lancar."
   },
   {
-    id: 200,
-    "title": "Story #200 - Environmental Policy Research",
-    "content": "[Content unavailable due to document truncation. Likely focuses on research to inform environmental policy development.]"
+    id: 302,
+    title: "Cerita 4 — Lebuh Raya Musim Perayaan (Bahagian 2)",
+    content: "Ketika cuti perayaan, aliran trafik tinggi diurus melalui operasi khas raya dankempen balik kampung; pasukan memastikan keselamatan musim perayaan denganpemantauan polis, bantuan kecemasan, rondaan lebuh raya, dan trak tunda."
   },
   {
-    id: 201,
-    "title": "Story #201 - Community Safety Patrols",
-    "content": "[Content unavailable due to document truncation. Likely covers community-based safety patrols to enhance local security.]"
+    id: 303,
+    title: "Cerita 4 — Lebuh Raya Musim Perayaan (Bahagian 3)",
+    content: "Setiap laporan kemalangandianalisis demi keselamatan pengguna jalan raya danpeningkatan kesedaran awam terhadap peranan pemandu bertanggungjawab."
   },
   {
-    id: 202,
-    "title": "Story #202 - Digital Payment Systems",
-    "content": "[Content unavailable due to document truncation. Likely discusses the expansion of digital payment systems to support economic transactions.]"
+    id: 304,
+    title: "Cerita 5 — Kenderaan Sihat, Nyawa Selamat (Bahagian 1)",
+    content: "Hari pemeriksaan bermula dengan pemeriksaan kenderaan: keadaan tayar,tahap minyak enjin, keberkesanan brek, serta lampu isyarat kenderaan."
   },
   {
-    id: 203,
-    "title": "Story #203 - Public Health Campaigns",
-    "content": "[Content unavailable due to document truncation. Likely covers campaigns to promote public health and disease prevention.]"
+    id: 305,
+    title: "Cerita 5 — Kenderaan Sihat, Nyawa Selamat (Bahagian 2)",
+    content: "Cermin diperiksa—cermin sisi, cermin pandang belakang—dan pengelapcermindiuji."
   },
   {
-    id: 204,
-    "title": "Story #204 - SME Financing Initiatives",
-    "content": "[Content unavailable due to document truncation. Likely discusses financing programs to support small and medium enterprises.]"
+    id: 306,
+    title: "Cerita 5 — Kenderaan Sihat, Nyawa Selamat (Bahagian 3)",
+    content: "Di kabin, tali pinggang keledar dan beg udara diwajibkan; teknologi seperti sistembrek ABS, kawalan kestabilan, amaran jarak, kamera belakang, penderia parkir, dan sistembantuan pemandu mempertingkat keselamatan."
   },
   {
-    id: 205,
-    "title": "Story #205 - Urban Green Spaces",
-    "content": "[Content unavailable due to document truncation. Likely focuses on creating and maintaining green spaces in urban areas.]"
+    id: 307,
+    title: "Cerita 5 — Kenderaan Sihat, Nyawa Selamat (Bahagian 4)",
+    content: "Menuju masa depan kereta pintar dan kenderaan autonomi, piawaiankeselamatan AI untuk teknologi pemanduan sendiri digubal selari dasar kenderaan masadepan dan agenda mobiliti pintar."
   },
   {
-    id: 206,
-    "title": "Story #206 - Rural Education Access",
-    "content": "[Content unavailable due to document truncation. Likely discusses initiatives to improve education access in rural areas.]"
+    id: 308,
+    title: "Cerita 6 — EV untuk Mobiliti Hijau (Bahagian 1)",
+    content: "Bandar melaksanakan pengangkutan elektrik dengan insentif cukai EV, membinapengecas awam dan jaringan pengecas."
   },
   {
-    id: 207,
-    "title": "Story #207 - Community Arts Programs",
-    "content": "[Content unavailable due to document truncation. Likely covers programs to promote arts and creativity within communities.]"
+    id: 309,
+    title: "Cerita 6 — EV untuk Mobiliti Hijau (Bahagian 2)",
+    content: "Pelaksanaan pelan mobiliti hijau menolak emisi, menyokong pengangkutanmampan, dan menyelaras keperluan penetapan tarif serta ruang parkir khusus EV."
   },
   {
-    id: 208,
-    "title": "Story #208 - Renewable Energy Training",
-    "content": "[Content unavailable due to document truncation. Likely discusses training programs for renewable energy technologies.]"
+    id: 310,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 1)",
+    content: "Kerangka dasar tenaga menjamin bekalan elektrik melalui Tenaga NasionalBerhad (TNB) dan grid nasional yang disokong pusat janakuasa."
   },
   {
-    id: 209,
-    "title": "Story #209 - Public Transport Safety",
-    "content": "[Content unavailable due to document truncation. Likely focuses on safety measures for public transportation systems.]"
+    id: 311,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 2)",
+    content: "Campuran bahan api dipelbagaikan: tenaga hidroelektrik, tenaga solar, tenagaangin, tenaga biojisim, disertai storan tenaga berasaskan bateri litium dan pengecaspantas."
   },
   {
-    id: 210,
-    "title": "Story #210 - Environmental Education Programs",
-    "content": "[Content unavailable due to document truncation. Likely covers programs to educate communities about environmental conservation.]"
+    id: 312,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 3)",
+    content: "Peralihan tenaga boleh diperbaharui sejajar dasar hijau negara, pelan tindakantenaga, penjimatan tenaga, dan kecekapan tenaga."
   },
   {
-    id: 211,
-    "title": "Story #211 - Youth Leadership Training",
-    "content": "[Content unavailable due to document truncation. Likely discusses training programs to develop leadership skills among youth.]"
+    id: 313,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 4)",
+    content: "Rakyat memantau penggunaan elektrik, bil elektrik, kadar tarif, serta subsidielektrik bagi penggunaan domestik, penggunaan komersial, dan sektor perindustrian."
   },
   {
-    id: 212,
-    "title": "Story #212 - Digital Marketing for SMEs",
-    "content": "[Content unavailable due to document truncation. Likely covers digital marketing strategies for small and medium enterprises.]"
+    id: 314,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 5)",
+    content: "Bagi menyeimbangkan permintaan tenaga dan keseimbangan bekalan,pengurusan tenaga menilai pilihan tenaga nuklear dengan penekanan keselamatan nuklear;kajian tenaga alternatif, penyelidikan tenaga, dan inovasi tenaga bersih mengukuhkanekonomi tenaga, menarik pelaburan tenaga kepada syarikat tenaga dan agensi tenaga."
   },
   {
-    id: 213,
-    "title": "Story #213 - Community Health Screenings",
-    "content": "[Content unavailable due to document truncation. Likely discusses community health screening programs to detect and prevent diseases.]"
+    id: 315,
+    title: "Cerita 7 — Tenaga untuk Negara (Bahagian 6)",
+    content: "Suruhanjaya Tenaga serta kementerian tenaga menjejak dasar tenaga bolehbaharu, sasaran tenaga hijau, laporan kemajuan tenaga, dan audit tenaga ke arahpengurangan karbon, neutraliti karbon, dan ekonomi rendah karbon dalam kerangka pelantindakan hijau dan pembangunan lestari."
   },
   {
-    id: 214,
-    "title": "Story #214 - Sustainable Agriculture Practices",
-    "content": "[Content unavailable due to document truncation. Likely covers sustainable farming practices to enhance productivity and environmental health.]"
+    id: 316,
+    title: "Cerita 8 — SDG: Ukur, Lapor, Tindak (Bahagian 1)",
+    content: "Negara komited kepada Agenda 2030 dan Matlamat Pembangunan Mampan(SDG), diselaraskan melalui SDG Malaysia, pelaporan SDG, dan pemantauan kemajuanSDG."
   },
   {
-    id: 215,
-    "title": "Story #215 - Consumer Protection and Price Control",
-    "content": "Pasaran memerlukan pengawasan untuk melindungi pengguna daripada kenaikan harga yang tidak munasabah. Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup memantau harga barangan keperluan asas seperti beras, minyak masak, dan gula. Mereka menguatkuasakan Akta Kawalan Harga dan Anti-Pencatutan untuk memastikan peniaga mematuhi garis panduan. Pasukan penguatkuasa menjalankan pemeriksaan di pasar raya dan kedai runcit, memastikan label harga jelas dan tiada penipuan. Pengguna boleh membuat aduan melalui saluran rasmi jika terdapat pelanggaran, dan tindakan diambil berdasarkan laporan serta bukti."
+    id: 317,
+    title: "Cerita 8 — SDG: Ukur, Lapor, Tindak (Bahagian 2)",
+    content: "Antara teras: kemiskinan sifar, tiada kelaparan, kesihatan baik, pendidikanberkualiti, kesamarataan gender, air bersih, tenaga bersih, pekerjaan baik, ekonomi inklusif,industri inovatif, bandar mampan, penggunaan bertanggungjawab, tindakan iklim, kehidupandi darat, kehidupan di laut, keamanan dan keadilan, serta perkongsian global."
   },
   {
-    id: 216,
-    "title": "Story #216 - Software, Data, and Applied AI",
-    "content": "Syarikat teknologi membangunkan perisian dengan data terbuka untuk aplikasi AI. Jurutera data mengintegrasikan algoritma pembelajaran mesin ke dalam sistem pengurusan pelanggan, membantu perniagaan meramal trend pasaran. Mereka menggunakan platform awan untuk menyimpan data dan memastikan keselamatan melalui penyulitan. Pasukan pembangun menguji aplikasi melalui simulasi dan mengemas kini perisian untuk memastikan prestasi optimum."
+    id: 318,
+    title: "Cerita 8 — SDG: Ukur, Lapor, Tindak (Bahagian 3)",
+    content: "Setiap tahun, laporan pembangunandan penilaian kemajuan merujuk indikatornasional berasaskan data pembangunan."
   },
   {
-    id: 217,
-    "title": "Story #217 - National AI Ecosystem Governance",
-    "content": "Kerajaan memperkenalkan rangka tadbir urus AI nasional, melibatkan pelan tindakan AI, dasar etika AI, dan peraturan data. Kementerian Sains, Teknologi dan Inovasi bekerjasama dengan universiti dan industri untuk membangunkan pusat kecemerlangan AI. Mereka melatih bakat tempatan melalui kursus AI dan memastikan projek AI sejajar dengan matlamat pembangunan mampan Malaysia."
+    id: 319,
+    title: "Cerita 9 — Data untuk Dasar (Bahagian 1)",
+    content: "Kementerian ekonomi bersama Unit Perancang Ekonomi (EPU) dan JabatanPerangkaan Malaysia (DOSM) menggunakan bancian penduduk, laporan statistik, indikatorsosial, serta indikator ekonomi untuk menilai indeks pembangunan manusia (IPM)."
+  },
+  {
+    id: 320,
+    title: "Cerita 9 — Data untuk Dasar (Bahagian 2)",
+    content: "Mereka memantau kadar kemiskinan, pendapatan isi rumah, kelompok B40,M40, T20, tahap ketidaksamaan ekonomi, dan jurang pendapatan; dapatan ini memandureka bentuk intervensi yang lebih tepat sasaran."
+  },
+  {
+    id: 321,
+    title: "Cerita 10 — Jaringan Perlindungan Sosial (Bahagian 1)",
+    content: "Kerajaan mengukuhkan jaringan sokongan melalui bantuan kewangan, skimsubsidi, dan skim perlindungan di bawah program bantuan rakyat."
+  },
+  {
+    id: 322,
+    title: "Cerita 10 — Jaringan Perlindungan Sosial (Bahagian 2)",
+    content: "Inisiatif seperti STR dan bantuan tunai langsung membantu keluarga rentanmenampung kos sara hidup, sambil melengkapkan usaha tenaga hijau, pengangkutanselamat, dan pembangunan berasaskan data untuk kesejahteraan nasional yangmenyeluruh."
+  },
+  {
+    id: 323,
+    title: "Cerita 1 — Jaringan Bantuan & Perlindungan Sosial (Bahagian 1)",
+    content: "Selepas banjir, kerajaan melancarkan bantuan khas kerajaan di samping bantuanbulanan untuk keluarga rentan."
+  },
+  {
+    id: 324,
+    title: "Cerita 1 — Jaringan Bantuan & Perlindungan Sosial (Bahagian 2)",
+    content: "Sebuah pusat setempat menyelaras bantuan keluarga, bantuan pendidikan,bantuan perumahan, bantuan kesihatan, bantuan OKU, bantuan warga emas, bantuan ibutunggal, bantuan pelajar miskin, dan bantuan sara hidup."
+  },
+  {
+    id: 325,
+    title: "Cerita 1 — Jaringan Bantuan & Perlindungan Sosial (Bahagian 3)",
+    content: "Bagi krisis mendadak, bantuan bencana diaktifkan melalui tabung kecemasanserta dana khas kerajaan."
+  },
+  {
+    id: 326,
+    title: "Cerita 1 — Jaringan Bantuan & Perlindungan Sosial (Bahagian 4)",
+    content: "Di tempat kerja, skim perlindungan rakyat dan skim insurans sosial olehPERKESO digerakkan berasaskan caruman bulanan dan menyediakan faedahpengangguran kepada pekerja terkesan."
+  },
+  {
+    id: 327,
+    title: "Cerita 2 — Persaraan, Pencen & KWSP (Bahagian 1)",
+    content: "Bagi penjawat yang menamatkan khidmat, pencen pesara diagih sebagaibayaran pencen di bawah skim pencenuntuk pesara kerajaan dan pesara tentera."
+  },
+  {
+    id: 328,
+    title: "Cerita 2 — Persaraan, Pencen & KWSP (Bahagian 2)",
+    content: "Di sektor swasta, pekerja memilih skim persaraan swasta atau menyimpan dalamKWSP melalui akaun simpanan KWSP; ketika perlu, pengeluaran KWSP dibenarkan,namun fokus kekal pada simpanan hari tua yang mampan."
+  },
+  {
+    id: 329,
+    title: "Cerita 3 — Pelaburan Persaraan & Syariah (Bahagian 1)",
+    content: "Agensi nasihat menawarkan pelaburan persaraan dengan menilai kadar dividen,keuntungan tahunan, dan menerbitkan laporan pelaburan."
+  },
+  {
+    id: 330,
+    title: "Cerita 3 — Pelaburan Persaraan & Syariah (Bahagian 2)",
+    content: "Mereka menggubal strategi pelaburan merentasi pelaburan hartanah, pelaburansaham, dan pelaburan bon, termasuk pelaburan patuh syariah melalui dana amanah danunit amanah."
+  },
+  {
+    id: 331,
+    title: "Cerita 3 — Pelaburan Persaraan & Syariah (Bahagian 3)",
+    content: "Seorang pengurus dana membentuk portfolio pelaburan yang menimbang risikopelaburan berbanding pulangan pelaburan demi kestabilan jangka panjang."
+  },
+  {
+    id: 332,
+    title: "Cerita 4 — Pasaran Modal & Isyarat Ekonomi (Bahagian 1)",
+    content: "Di Bursa Malaysia, aktiviti pasaran saham dipandu indeks komposit dan prestasisaham syarikat; peniaga menjalankan perdagangan harian manakala pelabur individu danpelabur institusi meneliti laporan kewangan suku tahunan, penyata pendapatan, nisbahkeuntungan, dan kadar pertumbuhan."
+  },
+  {
+    id: 333,
+    title: "Cerita 4 — Pasaran Modal & Isyarat Ekonomi (Bahagian 2)",
+    content: "Penganalisis menerbitkan ramalan ekonomi, unjuran pasaran, serta mentafsirdata ekonomi seperti inflasi, kadar inflasi, kenaikan harga, dan kesan kepada kos sarahidup."
+  },
+  {
+    id: 334,
+    title: "Cerita 4 — Pasaran Modal & Isyarat Ekonomi (Bahagian 3)",
+    content: "Bank pusat mengurus kadar faedah melalui dasar monetari, sementara kerajaanmenyusun dasar fiskal, bajet tahunan, dan Belanjawan Negara di bawah Menteri Kewanganserta Kementerian Kewangan."
+  },
+  {
+    id: 335,
+    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 1)",
+    content: "Hasil negara disokong Lembaga Hasil Dalam Negeri melalui kutipan cukai seperticukai individu, cukai korporat, dan cukai jualan dan perkhidmatan (SST), di samping dutiimport, duti eksport, cukai tanah, dan cukai pintu."
+  },
+  {
+    id: 336,
+    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 2)",
+    content: "Perniagaan menilai pengecualian cukai, insentif pelaburan, potongan cukai, sertapelepasan cukai."
   }
 ]

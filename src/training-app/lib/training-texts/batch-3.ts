@@ -1,157 +1,242 @@
 export const batch3Stories = [
   {
-    id: 63,
-    "title": "Story #63 - Smart Digital Government",
-    "content": "Kerangka ekonomi digital dipacu e-dagang, transformasi digital, dan inovasi teknologi. Antara inisiatif kerajaan termasuk myGov, MySejahtera, MyDigital, dan eKerajaan yang memanfaatkan data terbuka, keselamatan siber, pusat data, serta analitik masa nyata. Teras kecerdasan buatan (AI) dan pembelajaran mesin memacu algoritma pintar, pemprosesan bahasa semula jadi, pengecaman suara, pengecaman imej, dan chatbot. Dalam pejabat, automasi pejabat dan sistem sokongan keputusan mengukuhkan inovasi sektor awam dan transformasi perkhidmatan awam, berlandaskan tadbir urus digital dan penggunaan data raya serta rantaian blok."
+    id: 97,
+    title: "Cerita 4 — Organisasi & Sumber Manusia (Bahagian 4)",
+    content: "Kewangan dikawal akauntan; operasi dibantu juruteknik; reka bentuk diurusjuruteradan pereka bentuk; hala tuju diperkemas perunding, penyelaras, dan penyelia tapakyang menyelia kontraktorserta pembekal."
   },
   {
-    id: 64,
-    "title": "Story #64 - Fintech and Data Trust",
-    "content": "Ekosistem teknologi kewangan (fintech) mengembang melalui e-dompet, pembayaran tanpa tunai, QR Pay, DuitNow, dan MyDebit. Setiap transaksi elektronik dilindungi dengan keselamatan transaksi, berpaut pada identiti digital seperti MyDigital ID. Kerajaan menegaskan privasi pengguna, peraturan data, etika AI, tadbir urus AI, dan tanggungjawab sosial digital, sambil memupuk literasi digital dan pendidikan digital agar masyarakat celik risiko serta peluang digital."
+    id: 98,
+    title: "Cerita 5 — Pelanggan & Pasaran (Bahagian 1)",
+    content: "Produk baharu dilancar kepada pelanggan dan pengguna, menarik minat pembelidan penjual."
   },
   {
-    id: 65,
-    "title": "Story #65 - TVET and Career Pathways",
-    "content": "Agenda bakat memupuk kemahiran abad ke-21 dan pembelajaran sepanjang hayat melalui TVET, politeknik, kolej komuniti, dan institusi latihan. Pelajar mengasah kemahiran teknikal dan kemahiran vokasional, mengejar pensijilan kemahiran dengan akreditasi daripada agensi akreditasi dan mematuhi standard kemahiran. Jaringan dengan majikan industri menyediakan latihan praktikal dan latihan industri untuk menambah pengalaman kerja, disertai mentor, pembimbing, kaunselor, dan bimbingan kerjaya."
+    id: 99,
+    title: "Cerita 5 — Pelanggan & Pasaran (Bahagian 2)",
+    content: "Pasukan pemasaranmerancang promosi, menyiapkan iklan, membina jenamauntuk produk dan perkhidmatan."
   },
   {
-    id: 66,
-    "title": "Story #66 - From Interview to Promotion",
-    "content": "Graduan menyiapkan resume dan surat permohonan, menghadiri temuduga, menerima tawaran kerja, lalu menandatangani kontrak pekerjaan. Dalam tempoh percubaan, mereka melalui penilaian prestasi yang boleh membawa kenaikan pangkat, ganjaran tahunan, dan faedah perkhidmatan. Majikan menyediakan cuti tahunan, cuti sakit, cuti bersalin, dan menghormati cuti umum. Polisi waktu bekerja fleksibel membenarkan waktu fleksibel, kerja jarak jauh, dan mesyuarat dalam talian. Etos syarikat menuntut komunikasi profesional, etika kerja, tanggungjawab bersama, integriti kerja, dan disiplin organisasi, dipimpin oleh kepimpinan berkesan serta motivasi kakitangan bagi membina suasana tempat kerja positif."
+    id: 100,
+    title: "Cerita 5 — Pelanggan & Pasaran (Bahagian 3)",
+    content: "Bahagian servis pelanggan mengurus jaminan, menyelesaikan aduan,memproses pulangan, dan menyediakan sokongan teknikalyang responsif."
   },
   {
-    id: 67,
-    "title": "Story #67 - Employee Well-Being",
-    "content": "Unit HR menitikberatkan kesejahteraan pekerja, merangkumi kesihatan mental dan keseimbangan kerja-hidup. Program pengurangan tekanan kerja dan pengurusan stres ditawarkan, termasuk bantuan psikologi dan perkhidmatan kaunseling. Majikan mengukur impak melalui tinjauan dalaman dan sesi bimbingan, memastikan produktiviti tidak mengorbankan kemanusiaan."
+    id: 101,
+    title: "Cerita 6 — Infrastruktur Digital Harian (Bahagian 1)",
+    content: "Operasi bergantung pada sistem yang menyepadukan perisian dan perkakasandi atas rangkaian yang stabil."
   },
   {
-    id: 68,
-    "title": "Story #68 - Women and SME Empowerment",
-    "content": "Gerakan pemerkasaan wanita mengangkat kesamarataan gender, memperluas peluang pekerjaan, dan mengukuhkan penglibatan wanita dalam keusahawanan wanita. Ekosistem perniagaan kecil, perusahaan mikro, dan perusahaan sederhana (PKS) diperkasa oleh agensi kerajaan PKS dengan pembiayaan mikro, geran perniagaan, dan bimbingan keusahawanan. Melalui pemasaran digital, usahawan menggerakkan promosi produk tempatan dan membina jenama Malaysia yang menembusi pasaran serantau."
+    id: 102,
+    title: "Cerita 6 — Infrastruktur Digital Harian (Bahagian 2)",
+    content: "Pelayanmenyimpan pangkalan data; transaksi melalui internet dan laman webserta saluran media sosial pada platforminteraktif."
   },
   {
-    id: 69,
-    "title": "Story #69 - Global Halal Economy",
-    "content": "Negara memacu eksport halal melalui industri halal yang dipandu sijil halal oleh Jakim dan piawaian halal antarabangsa. Rantaian nilai merangkumi makanan halal dan logistik halal yang telus. Kerjasama dengan pengeksport memastikan pematuhan piawaian, manakala kempen promosi mengangkat reputasi halal negara di mata dunia."
+    id: 103,
+    title: "Cerita 6 — Infrastruktur Digital Harian (Bahagian 3)",
+    content: "Aplikasi mudah alih di telefon pintar, komputer riba, dan tablet memudahkankerja."
   },
   {
-    id: 70,
-    "title": "Story #70 - Heritage and Tourism",
-    "content": "Sektor pelancongan mempromosi destinasi pelancongan dan tarikan pelancong seperti homestay, hotel, resort, dan chalet. Dalam lawatan rasmi, pemandu pelancong menggunakan peta untuk menerangkan lokasi, tempat bersejarah, muzium, galeri seni, tapak warisan, serta seni bina bangunan bersejarah, monumen, dan mercu tanda. Alam semula jadi dirai di taman rekreasi, taman negara, pantai, gunung, sungai, air terjun, pulau, dan hutan simpan. Setiap lawatan mengukuhkan jati diri, ekonomi setempat, dan hubungan budaya secara lestari."
+    id: 104,
+    title: "Cerita 6 — Infrastruktur Digital Harian (Bahagian 4)",
+    content: "Peranti seperti pengimbas, pencetak, kamera, mikrofon, dan fon telingadisambung wayarles melalui bluetooth."
   },
   {
-    id: 71,
-    "title": "Story #71 - Environmental Framework and Sustainable Energy",
-    "content": "Di kawasan perlindungan dan taman hidupan liar, pasukan menjalankan pemuliharaan alam serta konservasi biodiversiti untuk menyelamatkan flora dan fauna. Di pesisir, pakar memulihara hidupan marin dan terumbu karang; di darat, program penanaman semula hutan memastikan kelestarian alam sejajar pembangunan lestari. Bandar mengguna tenaga boleh diperbaharui seperti tenaga suria, tenaga angin, tenaga hidro, dan tenaga biojisim, di samping penjimatan tenaga. Dasar pengurusan sisa menekankan kitar semula dan pengasingan bahan buangan. Untuk mengurang pencemaran udara, pencemaran air, pencemaran tanah, dan pencemaran bunyi, kota memperkenalkan kesedaran alam sekitar, pendidikan hijau, teknologi hijau, pensijilan hijau, bangunan hijau, dan reka bentuk mampan dalam bandar pintar berteras infrastruktur hijau, sistem pengangkutan hijau, tenaga alternatif, serta mobiliti rendah karbon."
+    id: 105,
+    title: "Cerita 6 — Infrastruktur Digital Harian (Bahagian 5)",
+    content: "Proses sambungan, muat turun, muat naik, log masuk, dan kata laluan diurusrapi bagi pengalaman lancar."
   },
   {
-    id: 72,
-    "title": "Story #72 - Climate and Disaster Response",
-    "content": "Majlis daerah mengaktifkan pelan adaptasi iklim dan mitigasi risiko bencana. Terdapat pengurusan risiko banjir, siren amaran awal bencana, dan sistem pemantauan berasaskan peta risiko serta analisis bencana. Program ketahanan komuniti melatih penduduk menghadapi krisis, menyediakan bantuan kecemasan, dan pelan pemulihan pasca bencana dibiayai dana bencana. Ribuan sukarelawan bencana menyokong agensi pertahanan awam, jabatan bomba dan penyelamat, serta koordinasi bersama polis diraja Malaysia, tentera darat, tentera laut, dan tentera udara demi keselamatan negara."
+    id: 106,
+    title: "Cerita 7 — Keselamatan & Privasi (Bahagian 1)",
+    content: "Pasukan IT menegakkan keselamatan siber, melindungi privasi data danmaklumat peribadi."
   },
   {
-    id: 73,
-    "title": "Story #73 - Regional Security and Defense",
-    "content": "Di sempadan, pasukan melaksana kawalan sempadan dengan kerjasama imigresen dan kastam melalui penguatkuasaan undang-undang, rondaan keselamatan, dan operasi khas. Latihan berkala memperkukuh latihan ketenteraan, ..."
+    id: 107,
+    title: "Cerita 7 — Keselamatan & Privasi (Bahagian 2)",
+    content: "Mereka mengaktifkan penyulitan, menjadual sandaran ke awan digital, danmengoptimumkan storan serta pemprosesan."
   },
   {
-    id: 74,
-    "title": "Story #74 - Border Management and Immigration",
-    "content": "[Content unavailable due to document truncation. Likely focuses on immigration policies, border control operations, and coordination with customs and law enforcement to ensure secure and legal cross-border movements.]"
+    id: 108,
+    title: "Cerita 7 — Keselamatan & Privasi (Bahagian 3)",
+    content: "Insiden diuji melalui simulasi pencerobohan untuk menambah baik kawalanakses dan respons kecemasan."
   },
   {
-    id: 75,
-    "title": "Story #75 - Military Training and Readiness",
-    "content": "[Content unavailable due to document truncation. Likely discusses ongoing military training programs, readiness exercises, and strategies to enhance national defense capabilities.]"
+    id: 109,
+    title: "Cerita 8 — Kecerdasan Buatan di Tempat Kerja (Bahagian 1)",
+    content: "Algoritma algoritma dipilih untuk projek kecerdasan buatan; modul pembelajaranmesin memacu automasi dan menyokong sel robot robotik di kilang."
   },
   {
-    id: 76,
-    "title": "Story #76 - Cybersecurity in National Defense",
-    "content": "[Content unavailable due to document truncation. Likely explores the role of cybersecurity in protecting national infrastructure and defense systems from digital threats.]"
+    id: 110,
+    title: "Cerita 8 — Kecerdasan Buatan di Tempat Kerja (Bahagian 2)",
+    content: "Melalui inovasi digital, organisasi membina keupayaan analitik data danvisualisasi data untuk memantau KPI."
   },
   {
-    id: 77,
-    "title": "Story #77 - Community Safety Initiatives",
-    "content": "[Content unavailable due to document truncation. Likely covers community-based safety programs, collaboration with local authorities, and public awareness campaigns for crime prevention.]"
+    id: 111,
+    title: "Cerita 8 — Kecerdasan Buatan di Tempat Kerja (Bahagian 3)",
+    content: "Jurutera menulis pengaturcaraan dalam kod dan skrip yang serasi dengan sistemoperasi; integrasi ke aplikasi web diselaraskan bagi menyokong pembangunan perisianberterusan."
   },
   {
-    id: 78,
-    "title": "Story #78 - Urban Planning and Development",
-    "content": "[Content unavailable due to document truncation. Likely addresses urban planning strategies, infrastructure development, and sustainable city growth initiatives.]"
+    id: 112,
+    title: "Cerita 9 — Dari Bengkel Kod ke Pasaran (Bahagian 1)",
+    content: "Sebuah skuad lincah menukar prototaip kepada produk."
   },
   {
-    id: 79,
-    "title": "Story #79 - Rural Infrastructure Upgrades",
-    "content": "[Content unavailable due to document truncation. Likely focuses on improving rural infrastructure, such as roads, utilities, and community facilities, to enhance connectivity and quality of life.]"
+    id: 113,
+    title: "Cerita 9 — Dari Bengkel Kod ke Pasaran (Bahagian 2)",
+    content: "Mereka menggabungkan prinsip reka bentuk, ujian pengguna, dan tadbir datapada pangkalan data teras."
   },
   {
-    id: 80,
-    "title": "Story #80 - Public Transport Enhancements",
-    "content": "[Content unavailable due to document truncation. Likely discusses upgrades to public transportation systems, including buses, trains, and urban transit solutions.]"
+    id: 114,
+    title: "Cerita 9 — Dari Bengkel Kod ke Pasaran (Bahagian 3)",
+    content: "Setiap sprint didokumenkan, isu ditutup dengan fakta, bukti, serta metrik yangjelas."
   },
   {
-    id: 81,
-    "title": "Story #81 - Education Technology Integration",
-    "content": "[Content unavailable due to document truncation. Likely explores the integration of technology in classrooms, such as e-learning platforms and digital tools for education.]"
+    id: 115,
+    title: "Cerita 9 — Dari Bengkel Kod ke Pasaran (Bahagian 4)",
+    content: "Aplikasi dilancarkan, pelanggan mencuba, sokongan memantau aduan; jikaperlu, pasukan kembali ke fasa pembaikan untuk memastikan peningkatan kualitiberterusan."
   },
   {
-    id: 82,
-    "title": "Story #82 - Vocational Training Expansion",
-    "content": "[Content unavailable due to document truncation. Likely covers the expansion of vocational training programs to support skill development and employability.]"
+    id: 116,
+    title: "Cerita 10 — Penutup Projek & Pembelajaran (Bahagian 1)",
+    content: "Pada akhir tahun, pasukan menulis laporan impak."
   },
   {
-    id: 83,
-    "title": "Story #83 - Healthcare Access Improvements",
-    "content": "[Content unavailable due to document truncation. Likely addresses initiatives to improve healthcare access, including mobile clinics and telemedicine services.]"
+    id: 117,
+    title: "Cerita 10 — Penutup Projek & Pembelajaran (Bahagian 2)",
+    content: "Mereka menilai kejayaan dan kelemahan, menyusun ringkasan, rujukan, danbibliografi; pembentangan dibuat kepada lembaga."
   },
   {
-    id: 84,
-    "title": "Story #84 - Mental Health Awareness Programs",
-    "content": "[Content unavailable due to document truncation. Likely focuses on campaigns to raise awareness about mental health and provide community support services.]"
+    id: 118,
+    title: "Cerita 10 — Penutup Projek & Pembelajaran (Bahagian 3)",
+    content: "Refleksi menegaskan bahawa kegagalan awal ialah guru yang memacukemajuan, bahawa inovasi berpaut pada etika dan akauntabiliti, dan bahawa ilmu hanyabermakna apabila disampaikan dengan jelas serta ditadbir dengan beramanah."
   },
   {
-    id: 85,
-    "title": "Story #85 - Agricultural Innovation",
-    "content": "[Content unavailable due to document truncation. Likely discusses innovations in agriculture, such as precision farming and sustainable practices.]"
+    id: 119,
+    title: "Cerita 1 — Akaun & Utiliti Kediaman (Bahagian 1)",
+    content: "Pusat komuniti membuka akaun pelanggan untuk memproses bantuan kewangandan bantuan kebajikan."
   },
   {
-    id: 86,
-    "title": "Story #86 - Fisheries Management",
-    "content": "[Content unavailable due to document truncation. Likely covers sustainable fisheries management and efforts to protect marine resources.]"
+    id: 120,
+    title: "Cerita 1 — Akaun & Utiliti Kediaman (Bahagian 2)",
+    content: "Setiap permohonan bantuan disemak sehingga mendapat kelulusanpermohonan, lalu pengagihan dana direkod sebagai pelaporan kewangan."
   },
   {
-    id: 87,
-    "title": "Story #87 - Tourism Promotion Strategies",
-    "content": "[Content unavailable due to document truncation. Likely explores strategies to promote tourism, including marketing campaigns and cultural heritage preservation.]"
+    id: 121,
+    title: "Cerita 1 — Akaun & Utiliti Kediaman (Bahagian 3)",
+    content: "Penjaga dana menyemak penyata bank, baki akaun, dan transaksi elektroniktermasuk pindahan wang serta bayaran automatik untuk bil utiliti: air, elektrik, gas, internet,dan telefon."
   },
   {
-    id: 88,
-    "title": "Story #88 - Cultural Preservation Efforts",
-    "content": "[Content unavailable due to document truncation. Likely focuses on initiatives to preserve cultural heritage, including traditional arts and historical sites.]"
+    id: 122,
+    title: "Cerita 1 — Akaun & Utiliti Kediaman (Bahagian 4)",
+    content: "Di hartanah komuniti, cukai pintu, sewa rumah, dan penyelenggaraan diurus olehunit pengurusan harta yang berurusan dengan pemilik rumah dan penyewa mengikutperjanjian sewa; jika ingkar, notis pengosongan dikeluarkan tetapi deposit keselamatandipulangkan mengikut syarat."
   },
   {
-    id: 89,
-    "title": "Story #89 - Youth Empowerment Programs",
-    "content": "[Content unavailable due to document truncation. Likely discusses programs aimed at empowering youth through education, leadership, and community engagement.]"
+    id: 123,
+    title: "Cerita 1 — Akaun & Utiliti Kediaman (Bahagian 5)",
+    content: "Serahan kunci rumah dilaksana untuk pangsapuri, kondominium, rumah teres,rumah pangsa, banglo, rumah kampung, malah rumah panjang di pedalaman."
   },
   {
-    id: 90,
-    "title": "Story #90 - Women’s Economic Participation",
-    "content": "[Content unavailable due to document truncation. Likely addresses initiatives to enhance women’s participation in the economy through entrepreneurship and employment.]"
+    id: 124,
+    title: "Cerita 2 — Komuniti & Nilai (Bahagian 1)",
+    content: "Di sebuah komuniti rukun, struktur kejiranan dalam taman perumahan meriahdengan aktiviti di surau, masjid, gereja, kuil, dan tokong—semua rumah ibadat yangmencerminkan agama dan kepercayaan pelbagai kaum."
   },
   {
-    id: 91,
-    "title": "Story #91 - SME Digital Transformation",
-    "content": "[Content unavailable due to document truncation. Likely covers digital transformation efforts for small and medium enterprises to enhance competitiveness.]"
+    id: 125,
+    title: "Cerita 2 — Komuniti & Nilai (Bahagian 2)",
+    content: "Program nilai menegakkan nilai moral, etika, dan akhlak, sambil memeliharabudaya, adat, tradisi, dan warisansetempat melalui kelas budi bahasa dan gotong-royongmingguanku."
   },
   {
-    id: 92,
-    "title": "Story #92 - Green Technology Adoption",
-    "content": "[Content unavailable due to document truncation. Likely focuses on the adoption of green technologies to support environmental sustainability.]"
+    id: 126,
+    title: "Cerita 3 — Bahasa & Seni (Bahagian 1)",
+    content: "Kelab bahasa memupuk minat bahasa dan kesusasteraan melalui puisi, sajak,cerpen, novel, dan skrip drama untuk pementasan teater."
   },
   {
-    id: 93,
-    "title": "Story #93 - Community Waste Management",
-    "content": "[Content unavailable due to document truncation. Likely discusses community-based waste management programs, including recycling and waste reduction initiatives.]"
+    id: 127,
+    title: "Cerita 3 — Bahasa & Seni (Bahagian 2)",
+    content: "Kelab muzik mengajarkan teori muzik, menggubah lagu, dan melatih nyanyian."
+  },
+  {
+    id: 128,
+    title: "Cerita 3 — Bahasa & Seni (Bahagian 3)",
+    content: "Studio senimenempatkan lukisan, arca, dan latihan tarian; semuanya digabungdalam persembahan akhir semester yang menonjolkan kreativiti pelajar."
+  },
+  {
+    id: 129,
+    title: "Cerita 4 — Perayaan & Cuti Umum (Bahagian 1)",
+    content: "Takwim festival memaklumkan sambutan dan perayaan seperti Hari RayaAidilfitri, Hari Raya Aidiladha, Tahun Baru Cina, Deepavali, Krismas, Gawai Dayak,Kaamatan, Thaipusam, Wesak, Maulidur Rasul, dan Tahun Baru."
+  },
+  {
+    id: 130,
+    title: "Cerita 4 — Perayaan & Cuti Umum (Bahagian 2)",
+    content: "Juga diraikan Hari Kebangsaan, Hari Malaysia, Hari Merdeka, Hari Guru, HariPekerja, Hari Wanita, Hari Bapa, Hari Ibu, dan Hari Kanak-kanak sebagai Cuti Umum."
+  },
+  {
+    id: 131,
+    title: "Cerita 4 — Perayaan & Cuti Umum (Bahagian 3)",
+    content: "Ada perarakan, sambutan rasmi, ucapan, doa, khutbah, majlis, dan jamuan yangmenyatukan warga tanpa mengira latar."
+  },
+  {
+    id: 132,
+    title: "Cerita 5 — Hidangan & Rumah Terbuka (Bahagian 1)",
+    content: "Sempena sambutan keluarga dan rumah terbuka, tuan rumah menghidangmakanan tradisional."
+  },
+  {
+    id: 133,
+    title: "Cerita 5 — Hidangan & Rumah Terbuka (Bahagian 2)",
+    content: "Di meja hidanganberderet lauk: nasi lemak, rendang, satay, laksa, roti canai;minuman teh tarik dan kopi ais; pencuci mulut cendol, ais kacang, dan kuih-muih."
+  },
+  {
+    id: 134,
+    title: "Cerita 5 — Hidangan & Rumah Terbuka (Bahagian 3)",
+    content: "Rencah sambal dan belacan menaikkan selera."
+  },
+  {
+    id: 135,
+    title: "Cerita 5 — Hidangan & Rumah Terbuka (Bahagian 4)",
+    content: "Jiran dan tetamu hadir dengan jemputan, membawa hadiah dan kad ucapan."
+  },
+  {
+    id: 136,
+    title: "Cerita 5 — Hidangan & Rumah Terbuka (Bahagian 5)",
+    content: "Gambar kenangan dirakam melalui fotografi, video rakaman, dan siaranlangsung."
+  },
+  {
+    id: 137,
+    title: "Cerita 6 — Media Sosial & Keselamatan Siber (Bahagian 1)",
+    content: "Selepas majlis, panitia memuat naik media sosial hantaran dengan kapsyen dantanda pagar; pengikut menekan suka, komen, dan kongsi melalui profil masing-masing danakaun media sosial rasmi."
+  },
+  {
+    id: 138,
+    title: "Cerita 6 — Media Sosial & Keselamatan Siber (Bahagian 2)",
+    content: "Mereka menitikberatkan privasi, tetapan, dan keselamatan akaun dengan katalaluan kuat serta pengesahan dua faktor."
+  },
+  {
+    id: 139,
+    title: "Cerita 6 — Media Sosial & Keselamatan Siber (Bahagian 3)",
+    content: "Amaran dikeluarkan tentang pautan dan pautan palsu, penipuan dalam talian,maklumat palsu, berita palsu, scam, dan pemalsuan identiti."
+  },
+  {
+    id: 140,
+    title: "Cerita 6 — Media Sosial & Keselamatan Siber (Bahagian 4)",
+    content: "Pasukan IT memantau jenayah siber oleh penggodam, menapis perisian hasad,virus komputer, dan membaiki fail rosak akibat muat turun tidak sah."
+  },
+  {
+    id: 141,
+    title: "Cerita 6 — Media Sosial & Keselamatan Siber (Bahagian 5)",
+    content: "Mereka juga mendidik komuniti tentang hak cipta, lesen perisian, paten, tandadagangan, reka bentuk industri, harta intelek, serta tindakan jika berlaku pelanggaran."
+  },
+  {
+    id: 142,
+    title: "Cerita 7 — Proses Mahkamah (Bahagian 1)",
+    content: "Apabila berlaku fitnah atas talian, pengadu memfailkan saman di mahkamah."
+  },
+  {
+    id: 143,
+    title: "Cerita 7 — Proses Mahkamah (Bahagian 2)",
+    content: "Dalam perbicaraan, pendakwa rayadan peguam bela berhujah, saksi memberiketerangan disokong bukti dokumentari dan laporan polis hasil siasatan."
+  },
+  {
+    id: 144,
+    title: "Cerita 7 — Proses Mahkamah (Bahagian 3)",
+    content: "Mahkamah menilai dakwaan dan pertuduhan, seterusnya mengeluarkanpenghakiman dan keputusan hakim."
   }
 ]

@@ -21,6 +21,7 @@ export function HomeFooter() {
                 { href: "/about", label: "About" },
                 { href: "/features", label: "Features" },
                 { href: "/", label: "How It Works" },
+                { href: "/app", label: "App" },
                 { href: "/contact", label: "Contact" },
               ].map((item) => (
                 <li key={item.href}>

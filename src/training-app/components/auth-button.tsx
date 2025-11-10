@@ -18,7 +18,7 @@ function AuthButtonContent() {
     return (
       <button 
         disabled 
-        className="cursor-not-allowed flex items-center gap-2 bg-background border border-border rounded-lg px-3 h-10 text-sm font-medium opacity-50"
+        className="cursor-not-allowed flex items-center gap-2 bg-background  rounded-lg px-3 h-10 text-sm font-medium opacity-50"
       >
         Loading...
       </button>
@@ -27,7 +27,7 @@ function AuthButtonContent() {
 
   if (!authenticated) {
     return (
-      <button onClick={login} className="cursor-pointer flex items-center gap-2 bg-background hover:bg-muted border border-border rounded-lg transition-all px-3 h-10 text-sm font-medium">
+      <button onClick={login} className="cursor-pointer flex items-center gap-2 bg-background hover:bg-muted rounded-lg transition-all px-3 h-10 text-sm font-medium">
         <LogIn className="h-4 w-4" />
         Sign In
       </button>
@@ -60,7 +60,7 @@ function AuthButtonContent() {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <button className="cursor-pointer flex items-center gap-2 bg-background hover:bg-muted border border-border rounded-lg transition-all px-3 h-10 text-sm font-medium">
+        <button className="cursor-pointer flex items-center gap-2 bg-background hover:bg-muted  rounded-lg transition-all px-3 h-10 text-sm font-medium">
           {getAvatarUrl() ? (
             <img 
               src={getAvatarUrl()} 
@@ -73,7 +73,7 @@ function AuthButtonContent() {
           <span className="hidden sm:inline">{getDisplayName()}</span>
         </button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-56" align="end" forceMount>
+      <DropdownMenuContent className="w-56 p-4 mt-2 border border-slate-200 rounded-lg bg-white" align="end" forceMount>
         <DropdownMenuLabel className="font-normal">
           <div className="flex flex-col space-y-1">
             <p className="text-sm font-medium leading-none">{getDisplayName()}</p>

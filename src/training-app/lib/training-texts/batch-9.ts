@@ -1,162 +1,242 @@
 export const batch9Stories = [
   {
-    id: 249,
-    "title": "Story #249 - Construction Safety Briefing",
-    "content": "Sebelum memulakan projek pembinaan, kontraktor mengadakan sesi taklimat keselamatan di tapak. Pekerja dilatih tentang penggunaan peralatan pelindung diri dan prosedur kecemasan. Pemeriksaan berkala memastikan pematuhan dengan peraturan keselamatan kerja."
+    id: 385,
+    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 3)",
+    content: "Pelaksanaan berpandukan pelan projek, garis masa pelaksanaan, dan bajetprojek; risiko ditangani menerusi pengurusan risiko."
   },
   {
-    id: 250,
-    "title": "Story #250 - Startup Co-Working Space",
-    "content": "Sebuah ruang kerja bersama dibuka untuk usahawan permulaan di bandar. Ruang ini menyediakan akses kepada internet berkelajuan tinggi, bilik mesyuarat, dan bimbingan perniagaan, membantu startup berkembang dalam ekosistem yang menyokong."
+    id: 386,
+    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 4)",
+    content: "Sepanjang tempoh, pasukan menerbitkan laporan kemajuan dan membuatpenilaian prestasi projek untuk memastikan hasil projek memenuhi sasaran."
   },
   {
-    id: 251,
-    "title": "Story #251 - Theater on Freedom of Speech",
-    "content": "Kumpulan teater mementaskan drama tentang kebebasan bersuara, menonjolkan cabaran dan tanggungjawab dalam menyampaikan pendapat. Persembahan ini diadakan di pusat budaya dan menarik perhatian pelajar serta aktivis."
+    id: 387,
+    title: "Cerita 10 — Penutup & Impak (Bahagian 1)",
+    content: "Sesi refleksi merangkum pelajaran yang dipelajari sebelum penutup projek."
   },
   {
-    id: 252,
-    "title": "Story #252 - Community Sports Program",
-    "content": "Program sukan komuniti menggalakkan penduduk mengambil bahagian dalam aktiviti seperti bola sepak dan badminton. Program ini bukan sahaja meningkatkan kesihatan fizikal tetapi juga memupuk semangat berpasukan di kalangan belia."
+    id: 388,
+    title: "Cerita 10 — Penutup & Impak (Bahagian 2)",
+    content: "Auditor menjalankan audit pasca pelaksanaan, dan pengurusan menerbitkanlaporan impak."
   },
   {
-    id: 253,
-    "title": "Story #253 - Language Class with Technology Terms",
-    "content": "Kelas bahasa diadakan untuk mengajar istilah teknologi dalam Bahasa Melayu dan Inggeris. Pelajar mempelajari perkataan seperti ‘algoritma’ dan ‘pangkalan data’, membantu mereka memahami dunia teknologi dengan lebih baik."
+    id: 389,
+    title: "Cerita 10 — Penutup & Impak (Bahagian 3)",
+    content: "Ekosistem digital yang dibina—daripada sempadan, pelabuhan, logistik,pembayaran, awan, media sosial, UX, sehinggalah operasi—mewujudkan aliran rentassempadan yang selamat, cekap, dan berdaya saing untuk semua pihak berkepentingan."
   },
   {
-    id: 254,
-    "title": "Story #254 - District Hospital Quality Team",
-    "content": "Pasukan kualiti hospital daerah mengkaji proses rawatan untuk meningkatkan perkhidmatan pesakit. Mereka menganalisis data masa tunggu dan kepuasan pesakit, memperkenalkan penambahbaikan seperti temu janji dalam talian."
+    id: 390,
+    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 1)",
+    content: "Unit strategi memulakan penilaian impak dan analisis hasil untuk menilaikeberkesanan dasar."
   },
   {
-    id: 255,
-    "title": "Story #255 - Borneo Biodiversity Research",
-    "content": "Penyelidik di Borneo menjalankan kajian biodiversiti, mendokumentasikan spesies flora dan fauna di hutan simpan. Mereka bekerjasama dengan universiti antarabangsa untuk mempromosikan pemuliharaan dan pelancongan mampan."
+    id: 391,
+    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 2)",
+    content: "Mereka menyusun laporan prestasi berasaskan petunjuk utama prestasi (KPI)yang memacu objektif strategik."
   },
   {
-    id: 256,
-    "title": "Story #256 - Law Firm Specializing in Data and IP",
-    "content": "Firma guaman yang pakar dalam data dan harta intelek membantu syarikat melindungi paten dan data pelanggan. Mereka memberi nasihat tentang pematuhan GDPR dan undang-undang privasi tempatan."
+    id: 392,
+    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 3)",
+    content: "Sebuah pelan tindakan organisasi diselaraskan dengan strategi jangka panjang,manakala pelan komunikasi dan strategi komunikasi menguatkan hubungan awam agarmesej mudah difahami semua pemegang taruh."
   },
   {
-    id: 257,
-    "title": "Story #257 - Modern Farming with Drones",
-    "content": "Petani menggunakan dron untuk memantau tanaman dan mengoptimumkan penyiraman serta baja. Teknologi ini meningkatkan hasil pertanian sambil mengurangkan kos dan kesan alam sekitar."
+    id: 393,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 1)",
+    content: "Ketika krisis, kerajaan mengeluarkan kenyataan akhbar rasmi, mengadakansidang media dan wawancara khasuntuk memastikan liputan berita tepat."
   },
   {
-    id: 258,
-    "title": "Story #258 - Community Recording Studio",
-    "content": "Studio rakaman komuniti dibuka untuk pemuzik tempatan merakam lagu dan podcast. Studio ini dilengkapi peralatan moden dan menyokong bakat muda dalam industri kreatif."
+    id: 394,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 2)",
+    content: "Kenyataan rasmi kerajaan dan pengumuman awam menyokong kempenkesedaran nasional dengan mesej utama yang disampaikan jurucakap kerajaan melaluipengurusan krisis yang rapi."
   },
   {
-    id: 259,
-    "title": "Story #259 - Community-Based Tourism",
-    "content": "Penduduk kampung membangunkan pelancongan berasaskan komuniti, menawarkan pengalaman seperti lawatan ke ladang dan kelas memasak tradisional. Inisiatif ini meningkatkan pendapatan dan memelihara budaya tempatan."
+    id: 395,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 3)",
+    content: "Maklumat disiarkan di siaran rasmi televisyen dan radio nasional seperti RTM,Bernama, Astro Awani, TV3dan pelbagai saluran berita."
   },
   {
-    id: 260,
-    "title": "Story #260 - Cybersecurity Malware Response",
-    "content": "Pasukan keselamatan siber bertindak balas terhadap serangan perisian hasad di syarikat teknologi. Mereka mengasingkan sistem yang terjejas, memulihkan data, dan melatih kakitangan untuk mengelakkan ancaman masa depan."
+    id: 396,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 4)",
+    content: "Setiap laporan berita menekankan berita terkini dan maklumat sahih berasaskansemakan fakta untuk menangkis berita palsu, memupuk literasi media serta mengekalkanetika kewartawanan dan kebebasan media."
   },
   {
-    id: 261,
-    "title": "Story #261 - District Office Customer Service",
-    "content": "Pejabat daerah memperkenalkan kaunter perkhidmatan pelanggan yang mesra pengguna. Penduduk boleh memohon perkhidmatan seperti pembaharuan lesen dan cukai pintu melalui portal dalam talian yang cekap."
+    id: 397,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 5)",
+    content: "Penerbitan mematuhi undang-undang komunikasi, Akta Komunikasi danMultimedia, kawal selia SKMM, dan memerlukan lesen penyiaran."
   },
   {
-    id: 262,
-    "title": "Story #262 - Women's Entrepreneurship Class",
-    "content": "Kelas keusahawanan untuk wanita mengajar kemahiran seperti penulisan pelan perniagaan dan pemasaran digital. Peserta menerima bimbingan untuk memulakan perniagaan kecil seperti kedai bakeri dan kraftangan."
+    id: 398,
+    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 6)",
+    content: "Di era saluran digital dan portal berita dalam talian, wartawan mengasahpenulisan artikel, laporan penyiasatan, editorial, dan ruangan pendapat, sambil memfasilitasiforum awam, perbincangan nasional, serta debat dasar yang matang."
   },
   {
-    id: 263,
-    "title": "Story #263 - Civics Class on Voting",
-    "content": "Kelas sivik di sekolah menengah mengajar pelajar tentang proses pengundian dan kepentingan demokrasi. Pelajar mengambil bahagian dalam simulasi pilihan raya untuk memahami tanggungjawab mengundi."
+    id: 399,
+    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 1)",
+    content: "Di parlimen Malaysia, Dewan Rakyat dan Dewan Negara mengadakan sesiperbahasan untuk menilai usul parlimen dan setiap rang undang-undang."
   },
   {
-    id: 264,
-    "title": "Story #264 - Open Data Portal Development",
-    "content": "Kerajaan membangunkan portal data terbuka untuk membolehkan rakyat mengakses statistik awam. Portal ini menyokong ketelusan dan membantu penyelidik serta perniagaan membuat keputusan berasaskan data."
+    id: 400,
+    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 2)",
+    content: "Semasa pembentangan bajet, dokumen melalui bacaan pertama dan bacaankedua sebelum dibawa ke jawatankuasa pilihan."
   },
   {
-    id: 265,
-    "title": "Story #265 - Longhouse Family Education",
-    "content": "Program pendidikan di rumah panjang menyediakan kelas literasi dan kemahiran asas untuk keluarga di pedalaman. Guru sukarela menggunakan bahan digital untuk mengajar matematik dan bahasa."
+    id: 401,
+    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 3)",
+    content: "Akhirnya, laporan parlimen dan dapatan jawatankuasa khas menjadi asaspindaan perlembagaan yang mendukung Perlembagaan Persekutuan."
   },
   {
-    id: 266,
-    "title": "Story #266 - Paperless Office Initiative",
-    "content": "Syarikat melaksanakan inisiatif pejabat tanpa kertas, menggunakan sistem pengurusan dokumen digital. Langkah ini mengurangkan penggunaan kertas dan meningkatkan kecekapan penyimpanan data."
+    id: 402,
+    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 1)",
+    content: "Negara menegakkan hak asasi manusia, termasuk kebebasan bersuara,kebebasan beragama, kebebasan berhimpun, dan kebebasan media, selari kedaulatanundang-undang dan kuasa kehakiman."
   },
   {
-    id: 267,
-    "title": "Story #267 - University Debate on Rule of Law",
-    "content": "Pelajar universiti menganjurkan debat tentang kedaulatan undang-undang, membincangkan isu seperti kebebasan media dan keadilan sosial. Debat ini menarik perhatian pensyarah dan aktivis."
+    id: 403,
+    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 2)",
+    content: "Rangka sistem kehakiman merangkumi mahkamah—Mahkamah Persekutuan,Mahkamah Rayuan, Mahkamah Tinggi, Mahkamah Sesyen, dan MahkamahMajistret—ditadbir oleh hakim yang bebas, dibantu peguam bela, peguam cara, dan peguamsyarie."
   },
   {
-    id: 268,
-    "title": "Story #268 - Community Job Platform for TVET Youth",
-    "content": "Platform pekerjaan dalam talian dibangunkan untuk graduan TVET, menghubungkan mereka dengan majikan dalam bidang seperti pembinaan dan teknologi. Platform ini memudahkan carian kerja dan temu duga."
+    id: 404,
+    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 3)",
+    content: "Peranan Peguam Negara, Pendakwa Raya, Jabatan Peguam Negara, sertaSuruhanjaya Kehakiman menjamin operasi sistem undang-undang yang berasaskan akta,peraturan, ordinan, enakmen, undang-undang negeri, dan undang-undang persekutuan."
   },
   {
-    id: 269,
-    "title": "Story #269 - Energy Company's Carbon Neutral Plan",
-    "content": "Syarikat tenaga melancarkan pelan neutral karbon, melabur dalam tenaga suria dan angin. Mereka juga menjalankan kempen kesedaran untuk menggalakkan pekerja dan pelanggan mengurangkan jejak karbon."
+    id: 405,
+    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 1)",
+    content: "Kes jenayah bermula dengan pindaan undang-undang yang relevan dan berakhirdi perintah mahkamah selepas saman, rayuan, sabitan, dan hukuman diputuskan."
   },
   {
-    id: 270,
-    "title": "Story #270 - Heritage Festival with Arts and Food",
-    "content": "Festival warisan mempamerkan seni tradisional, tarian, dan makanan tempatan. Penduduk dan pelancong berkumpul untuk menikmati persembahan dan bazar, mengukuhkan hubungan budaya."
+    id: 406,
+    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 2)",
+    content: "Tertuduh boleh memohon jaminan semasa tahanan atau remansementarasiasatan polis diteruskan."
   },
   {
-    id: 271,
-    "title": "Story #271 - Urban Reading Program at LRT Stations",
-    "content": "Program membaca bandar menempatkan rak buku di stesen LRT, membolehkan penumpang meminjam novel dan majalah. Inisiatif ini mempromosikan literasi dan mengisi masa perjalanan dengan produktif."
+    id: 407,
+    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 3)",
+    content: "Di mahkamah, pendakwaan dan pembelaan mengemukakan keterangansaksidan bukti dokumentari sebelum keputusan hakim dikeluarkan, disertai alasanpenghakiman serta laporan kehakiman yang telus."
   },
   {
-    id: 272,
-    "title": "Story #272 - Public Service Ethics Training",
-    "content": "Penjawat awam menghadiri kursus etika perkhidmatan awam, mempelajari tentang integriti, ketelusan, dan akauntabiliti. Kursus ini termasuk senario praktikal untuk menyelesaikan dilema etika."
+    id: 408,
+    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 1)",
+    content: "Pelaksanaan dasar memerlukan pelaksanaan undang-undang danpenguatkuasaan undang-undang oleh agensi penguatkuasaan seperti Polis Diraja Malaysia(PDRM), SPRM, Jabatan Kastam, Imigresen Malaysia, MARA, JPJ, Jabatan Tenaga Kerja(JTK), dan agensi penguatkuasa tempatan."
   },
   {
-    id: 273,
-    "title": "Story #273 - Modernized Small-Scale Logistics",
-    "content": "Usahawan kecil menggunakan aplikasi logistik untuk mengurus penghantaran produk tempatan. Aplikasi ini membantu menjejaki bungkusan dan mengoptimumkan laluan penghantaran."
+    id: 409,
+    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 2)",
+    content: "Melalui rondaan keselamatan, operasi bersepadu, serta pemeriksaan premis,pihak berkuasa menilai lesen perniagaan, permit operasi, sijil pematuhan, dan menjalankanaudit pematuhan."
   },
   {
-    id: 274,
-    "title": "Story #274 - Sustainable House Design Class",
-    "content": "Kelas reka bentuk rumah mampan mengajar pelajar tentang bahan binaan mesra alam dan penjimatan tenaga. Mereka mereka bentuk model rumah dengan ciri seperti panel suria dan pengudaraan semula jadi."
+    id: 410,
+    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 3)",
+    content: "Hasilnya diterbitkan sebagai laporan penguatkuasaan, disusuli tindakantatatertib, amaran rasmi, denda kompaun, atau pendakwaan mahkamah yang bolehmembawa hukuman denda, penjara, parol, atau tahanan rumah."
   },
   {
-    id: 275,
-    "title": "Story #275 - District Business Incubator",
-    "content": "Inkubator perniagaan daerah menyokong usahawan baru dengan menyediakan ruang kerja, bimbingan, dan akses kepada pelabur. Program ini membantu melancarkan perniagaan seperti kafe dan kedai dalam talian."
+    id: 411,
+    title: "Cerita 7 — Memulih & Melindungi (Bahagian 1)",
+    content: "Sistem korektif menekankan pemulihan pesalah melalui khidmat masyarakat dipusat pemulihan, termasuk fasiliti khusus seperti penjara wanita dan pusat juvana."
   },
   {
-    id: 276,
-    "title": "Story #276 - Employee Wellness Counseling Program",
-    "content": "Syarikat melancarkan program kaunseling kesejahteraan pekerja, menawarkan sesi individu untuk mengurus stres dan kesihatan mental. Program ini meningkatkan produktiviti dan kepuasan pekerja."
+    id: 412,
+    title: "Cerita 7 — Memulih & Melindungi (Bahagian 2)",
+    content: "Sebuah sistem pemulihan menyantuni kebajikan banduan dan menyediakanprogram reintegrasi serta peluang pekerjaan semula."
   },
   {
-    id: 277,
-    "title": "Story #277 - University Open Repository",
-    "content": "Universiti membuka repositori terbuka untuk tesis dan jurnal akademik, membolehkan penyelidik global mengakses hasil penyelidikan Malaysia. Inisiatif ini mempromosikan perkongsian ilmu."
+    id: 413,
+    title: "Cerita 7 — Memulih & Melindungi (Bahagian 3)",
+    content: "Dalam masa sama, negara memperkukuh bantuan sosial, perlindungan mangsa,dan menegaskan hak mangsa."
   },
   {
-    id: 278,
-    "title": "Story #278 - Geriatric Home Care Program",
-    "content": "Program penjagaan warga emas di rumah menyediakan perkhidmatan kesihatan dan sokongan harian. Jururawat dan sukarelawan membantu dengan pemeriksaan kesihatan dan aktiviti sosial untuk warga emas."
+    id: 414,
+    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 1)",
+    content: "Komuniti memperhebat program kesedaran jenayah dan pencegahan jenayahdengan rondaan komuniti, rukun tetangga, program kejiranan selamat, serta rondaanmalam."
   },
   {
-    id: 279,
-    "title": "Story #279 - Responsible Captioning Photography Course",
-    "content": "Kursus fotografi mengajar pelajar cara menulis kapsyen yang bertanggungjawab untuk gambar di media sosial. Mereka belajar untuk mengelakkan maklumat palsu dan memastikan kapsyen menghormati budaya serta privasi."
+    id: 415,
+    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 2)",
+    content: "Setiap kejadian direkod sebagai laporan polis dan disalurkan melalui aplikasiVSP, aduan awam, serta saluran aduan rasmi."
   },
   {
-    id: 280,
-    "title": "Story #280 - Summary Day",
-    "content": "Hari Rumusan menutup siri projek tahunan dengan sesi refleksi. Pasukan menyemak laporan kemajuan, membincangkan kejayaan dan cabaran, dan merancang tindakan susulan untuk tahun berikutnya. Acara ini disiarkan secara langsung untuk melibatkan komuniti."
+    id: 416,
+    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 3)",
+    content: "Usaha ini memperkukuh integriti awam, ketelusan pentadbiran, dan akauntabilitikerajaan di peringkat akar umbi."
+  },
+  {
+    id: 417,
+    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 1)",
+    content: "Kerajaan memacu pembaharuan institusi, reformasi undang-undang, danreformasi perlembagaan; prinsip pemisahan kuasa, kebebasan kehakiman, serta kebebasanpendakwaan diperteguh untuk pembaharuan sistemyang menyeluruh."
+  },
+  {
+    id: 418,
+    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 2)",
+    content: "Ketelusan badan kehakiman dan kebebasan media ditingkatkan bersamapenyertaan awammenerusi rundingan awam, konsultasi dasar, bengkel dasar, dialognasional, majlis perundingan, jawatankuasa bersama, majlis penasihat, dan panel pakar."
+  },
+  {
+    id: 419,
+    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 3)",
+    content: "Dapatan dihimpun dalam laporan konsultasi hasil maklum balas rakyat melaluiportal maklum balas."
+  },
+  {
+    id: 420,
+    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 1)",
+    content: "Platform sistem e-partisipasi menggerakkan e-rakyat untuk menyokong tadbirurus baik, kebertanggungjawaban, kecekapan pentadbiran, dan ketelusan dasar."
+  },
+  {
+    id: 421,
+    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 2)",
+    content: "Tingkat penglibatan masyarakat memastikan pembangunan inklusif berpaksikandasar penyertaan awam dan nilai demokrasi."
+  },
+  {
+    id: 422,
+    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 3)",
+    content: "Melalui pendidikan sivik serta kesedaran perlembagaan, rakyat menghayatitanggungjawab warganegara, menyemai semangat patriotik, dan memperkukuh integrasinasional."
+  },
+  {
+    id: 423,
+    title: "Cerita 1 — Perpaduan, Bendera & Sejarah (Bahagian 1)",
+    content: "Semangat perpaduan nasional terserlah ketika sambutan kemerdekaan danperarakan merdeka; rakyat mengibar bendera Malaysia Jalur Gemilang, menyanyikan lagukebangsaan Negaraku dengan cinta tanah air dan patriotisme."
+  },
+  {
+    id: 424,
+    title: "Cerita 1 — Perpaduan, Bendera & Sejarah (Bahagian 2)",
+    content: "Pameran di muzium negara dan arkib negara mengimbau sejarah Malaysia—erapenjajahan hingga kemerdekaan—sementara peringatan nasional di Tugu Negaramenyanjung pengorbanan wira negara seperti tentera Malaysia dan Polis Diraja Malaysia,menghidupkan semangat juang dan bangga beridentitikan identiti nasional serta semangatkenegaraan."
+  },
+  {
+    id: 425,
+    title: "Cerita 2 — Rukun, Perlembagaan & Sivik (Bahagian 1)",
+    content: "Dalam pendidikan sivik, pelajar mempelajari rukun negara dan prinsip rukunnegara—kepercayaan kepada Tuhan, kesetiaan kepada raja dan negara, keluhuranperlembagaan, kedaulatan undang-undang, kesopanan dan kesusilaan—bagi memupukkeharmonian kaum, toleransi agama, dan penghormatan budaya."
+  },
+  {
+    id: 426,
+    title: "Cerita 2 — Rukun, Perlembagaan & Sivik (Bahagian 2)",
+    content: "Kursus ini meneguhkan faham perlembagaan dan menghubungkan nilai itudengan Hari Kebangsaan serta Hari Malaysia, agar identiti nasional terpelihara generasi kegenerasi."
+  },
+  {
+    id: 427,
+    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 1)",
+    content: "Di bawah Kementerian Pendidikan (KPM), Jabatan Pendidikan Negeri danPejabat Pendidikan Daerahmenyelaras kurikulum kebangsaan."
+  },
+  {
+    id: 428,
+    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 2)",
+    content: "Murid sekolah rendah dan sekolah menengah belajar subjek sejarah dalamsekolah kebangsaan, sekolah jenis kebangsaan, dan sekolah agama; yang cemerlangditerima ke sekolah berasrama penuh dan MRSM."
+  },
+  {
+    id: 429,
+    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 3)",
+    content: "Laluan teknikal ditawar di kolej vokasional, politeknik, dan kolej komuniti,mengarusperdanakan kepelbagaian bakat."
+  },
+  {
+    id: 430,
+    title: "Cerita 4 — Ke Universiti & Konvokesyen (Bahagian 1)",
+    content: "Lepasan kolej matrikulasi atau program asasi menyambung diploma dan ijazahsarjana muda di universiti awam (IPTA) atau universiti swasta (IPTS)—termasuk UTM, UM,UKM, UPM, USM, UNIMAS, UUM, UiTM, UMS, UPSI serta universiti teknikal."
+  },
+  {
+    id: 431,
+    title: "Cerita 4 — Ke Universiti & Konvokesyen (Bahagian 2)",
+    content: "Selepas sarjana dan kedoktoran/PhD, pelajar siswazah diraikan sebagaigraduandalam majlis konvokesyen yang meriah."
+  },
+  {
+    id: 432,
+    title: "Cerita 5 — Biaya, Kampus & Kepimpinan Pelajar (Bahagian 1)",
+    content: "Akses diperkasa melalui biasiswa, dermasiswa, pinjaman PTPTN, pembiayaanMARA, dan dana pendidikan yang menampung yuran pengajian, penginapan pelajar di kolejkediaman, serta yuran kolej."
   }
 ]

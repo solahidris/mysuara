@@ -1,157 +1,242 @@
 export const batch6Stories = [
   {
-    id: 156,
-    "title": "Story #156 - Smart Agriculture Technologies",
-    "content": "[Content unavailable due to document truncation. Likely discusses the adoption of smart agriculture technologies, such as IoT sensors and precision farming, to enhance crop yields and sustainability.]"
+    id: 241,
+    title: "Cerita 8 — Belia, Kepimpinan & Keusahawanan (Bahagian 2)",
+    content: "Agenda pembangunan belia menekankan program kepimpinandan latihankepimpinan dibantu mentor belia."
   },
   {
-    id: 157,
-    "title": "Story #157 - Community Energy Cooperatives",
-    "content": "[Content unavailable due to document truncation. Likely covers the establishment of community-based energy cooperatives to promote renewable energy use.]"
+    id: 242,
+    title: "Cerita 8 — Belia, Kepimpinan & Keusahawanan (Bahagian 3)",
+    content: "Di sekolah dan kolej, aktiviti kokurikulum dalam kelab dan persatuan meriah:pengakap, pandu puteri, kadet polis, bomba sukarela, kadet tentera, kelab bahasa, kelabsains, kelab komputer, kelab debat, dan kelab inovasi."
   },
   {
-    id: 158,
-    "title": "Story #158 - Public Safety Technology",
-    "content": "[Content unavailable due to document truncation. Likely focuses on the integration of technology, such as CCTV and AI, in public safety initiatives.]"
+    id: 243,
+    title: "Cerita 8 — Belia, Kepimpinan & Keusahawanan (Bahagian 4)",
+    content: "Mereka menyertai pertandingan pidato, pertandingan inovasi, pertandinganrobotik, pertandingan sains, pertandingan matematik, olimpiad sains, olimpiad matematik,serta pertandingan sukan seperti kejohanan bola sepak, kejohanan badminton, kejohananbola jaring, dan kejohanan olahraga; pemenang menerima anugerah pelajar."
   },
   {
-    id: 159,
-    "title": "Story #159 - Rural Healthcare Mobile Units",
-    "content": "[Content unavailable due to document truncation. Likely discusses mobile healthcare units providing medical services to remote rural areas.]"
+    id: 244,
+    title: "Cerita 9 — Puncak Akademik & Jaringan Alumni (Bahagian 1)",
+    content: "Universiti menganjurkan majlis graduasi dan konvokesyen di dewan universiti."
   },
   {
-    id: 160,
-    "title": "Story #160 - Digital Literacy for Seniors",
-    "content": "[Content unavailable due to document truncation. Likely covers programs to teach digital literacy to senior citizens, enabling them to use online services.]"
+    id: 245,
+    title: "Cerita 9 — Puncak Akademik & Jaringan Alumni (Bahagian 2)",
+    content: "Graduan mengenakan pakaian akademik, topi mortar, menerima skrol dan sijilpenghargaan."
   },
   {
-    id: 161,
-    "title": "Story #161 - Youth Innovation Hubs",
-    "content": "[Content unavailable due to document truncation. Likely focuses on the creation of innovation hubs for youth to develop entrepreneurial and technical skills.]"
+    id: 246,
+    title: "Cerita 9 — Puncak Akademik & Jaringan Alumni (Bahagian 3)",
+    content: "Ucapan perasmian membuka acara sebelum perarakan graduan."
   },
   {
-    id: 162,
-    "title": "Story #162 - Sustainable Urban Planning",
-    "content": "[Content unavailable due to document truncation. Likely discusses sustainable urban planning strategies to create eco-friendly cities.]"
+    id: 247,
+    title: "Cerita 9 — Puncak Akademik & Jaringan Alumni (Bahagian 4)",
+    content: "Malamnya ada sambutan keluarga dan majlis makan malam."
   },
   {
-    id: 163,
-    "title": "Story #163 - Community Recycling Initiatives",
-    "content": "[Content unavailable due to document truncation. Likely covers community-driven recycling programs to reduce waste and promote sustainability.]"
+    id: 248,
+    title: "Cerita 9 — Puncak Akademik & Jaringan Alumni (Bahagian 5)",
+    content: "Ikatan kekal melalui alumni universiti, persatuan alumni, dan jaringan profesionaluntuk peluang karier."
   },
   {
-    id: 164,
-    "title": "Story #164 - Vocational Training for Women",
-    "content": "[Content unavailable due to document truncation. Likely focuses on vocational training programs tailored for women to enhance economic participation.]"
+    id: 249,
+    title: "Cerita 10 — Luncur Kerjaya & Faedah Pekerjaan (Bahagian 1)",
+    content: "Untuk kerjaya graduan, mereka melayari portal pekerjaan, menghadiri temudugamaya dan temu duga berpanel, menghantar resume digital dan portfolio profesional,mengemas kini LinkedIn serta profil profesional."
   },
   {
-    id: 165,
-    "title": "Story #165 - Cultural Heritage Festivals",
-    "content": "[Content unavailable due to document truncation. Likely discusses festivals celebrating cultural heritage to promote tourism and community unity.]"
+    id: 250,
+    title: "Cerita 10 — Luncur Kerjaya & Faedah Pekerjaan (Bahagian 2)",
+    content: "Majikan meminta pengesyoran dan rujukan pekerjaan sebelum mengeluarkansurat tawaran serta kontrak perkhidmatan."
   },
   {
-    id: 166,
-    "title": "Story #166 - Public Transport Electrification",
-    "content": "[Content unavailable due to document truncation. Likely covers the electrification of public transport systems to reduce carbon emissions.]"
+    id: 251,
+    title: "Cerita 10 — Luncur Kerjaya & Faedah Pekerjaan (Bahagian 3)",
+    content: "Pekerja menerima gaji permulaan, elaun perjalanan, elaun makan, faedahperubatan, dan insurans pekerja."
   },
   {
-    id: 167,
-    "title": "Story #167 - Disaster Risk Education",
-    "content": "[Content unavailable due to document truncation. Likely focuses on educational programs to prepare communities for disaster risks.]"
+    id: 252,
+    title: "Cerita 10 — Luncur Kerjaya & Faedah Pekerjaan (Bahagian 4)",
+    content: "Hak cuti termasuk cuti tahunan, cuti bersalin, cuti kecemasan, dan cuti gantian."
   },
   {
-    id: 168,
-    "title": "Story #168 - SME Digital Marketing Training",
-    "content": "[Content unavailable due to document truncation. Likely discusses training programs for SMEs to leverage digital marketing tools.]"
+    id: 253,
+    title: "Cerita 10 — Luncur Kerjaya & Faedah Pekerjaan (Bahagian 5)",
+    content: "Prestasi dinilai melalui penilaian tahunan, didokumenkan dalam laporan prestasi,dan membuka jalan kepada kenaikan pangkat."
   },
   {
-    id: 169,
-    "title": "Story #169 - Community Health Screenings",
-    "content": "[Content unavailable due to document truncation. Likely covers community health screening initiatives to promote early disease detection.]"
+    id: 254,
+    title: "Cerita 1 — Tadbir Urus & Ganjaran (Bahagian 1)",
+    content: "Syarikat melaksana promosi dalaman berasaskan nilai korporat, integritiorganisasi, dan etika profesional."
   },
   {
-    id: 170,
-    "title": "Story #170 - Green Technology Research",
-    "content": "[Content unavailable due to document truncation. Likely focuses on research initiatives to develop green technologies for sustainability.]"
+    id: 255,
+    title: "Cerita 1 — Tadbir Urus & Ganjaran (Bahagian 2)",
+    content: "Warga cemerlang diraikan melalui anugerah prestasi, bonus tahunan, bayaraninsentif, imbuhan khas, dan program pengiktirafan yang diselaraskan dengantanggungjawab sosial korporat (CSR)."
   },
   {
-    id: 171,
-    "title": "Story #171 - Rural Education Outreach",
-    "content": "[Content unavailable due to document truncation. Likely discusses outreach programs to improve education access in rural areas.]"
+    id: 256,
+    title: "Cerita 1 — Tadbir Urus & Ganjaran (Bahagian 3)",
+    content: "Laporan tahunan merangkumi laporan kewangan, penyata akaun, penyatauntung rugi, dan penyata imbangan, disahkan oleh audit dalamanserta audit luaran denganlampiran laporan pematuhan."
   },
   {
-    id: 172,
-    "title": "Story #172 - Public Policy Forums",
-    "content": "[Content unavailable due to document truncation. Likely covers public forums for discussing and shaping public policy.]"
+    id: 257,
+    title: "Cerita 1 — Tadbir Urus & Ganjaran (Bahagian 4)",
+    content: "Di bawah tadbir urus korporat, lembaga pengarahdipengerusikan pengerusilembaga, disokong pengarah urusan, ketua pegawai eksekutif (CEO), COO, CFO, dan CIOuntuk memastikan keputusan beretika dan telus."
   },
   {
-    id: 173,
-    "title": "Story #173 - Urban Green Infrastructure",
-    "content": "[Content unavailable due to document truncation. Likely focuses on developing green infrastructure in urban areas, such as parks and green roofs.]"
+    id: 258,
+    title: "Cerita 2 — Struktur Tenaga Kerja (Bahagian 1)",
+    content: "Bahagian HR diterajui ketua pegawai sumber manusia yang menyelaras ketuajabatan, eksekutif kanan, penolong pengurus, dan penyelia kanan."
   },
   {
-    id: 174,
-    "title": "Story #174 - Youth Sports Leagues",
-    "content": "[Content unavailable due to document truncation. Likely discusses the organization of youth sports leagues to promote physical activity.]"
+    id: 259,
+    title: "Cerita 2 — Struktur Tenaga Kerja (Bahagian 2)",
+    content: "Laluan bakat dibuka kepada pelatih eksekutif, manakala ops harian digerakkanpekerja kontrak, pekerja sambilan, dan pekerja tetap."
   },
   {
-    id: 175,
-    "title": "Story #175 - Digital Governance Workshops",
-    "content": "[Content unavailable due to document truncation. Likely covers workshops to train officials in digital governance practices.]"
+    id: 260,
+    title: "Cerita 2 — Struktur Tenaga Kerja (Bahagian 3)",
+    content: "Sokongan operasi merangkumi staf pentadbiran, pembantu operasi, pemandusyarikat, pengawal keselamatan, dan penyambut tetamu yang menjaga imej korporat dibarisan hadapan."
   },
   {
-    id: 176,
-    "title": "Story #176 - Sustainable Fisheries Management",
-    "content": "[Content unavailable due to document truncation. Likely discusses sustainable practices for managing fisheries to protect marine ecosystems.]"
+    id: 261,
+    title: "Cerita 3 — Pasukan Kreatif & Perundangan (Bahagian 1)",
+    content: "Jentera komunikasi menggabungkan juruteknik IT, pentadbir sistem, pembangunlaman web, pereka grafik, pereka kandungan, juruvideo, jurugambar, editor video, danpenulis kandungan."
   },
   {
-    id: 177,
-    "title": "Story #177 - Community Arts Exhibitions",
-    "content": "[Content unavailable due to document truncation. Likely focuses on community arts exhibitions to showcase local talent and creativity.]"
+    id: 262,
+    title: "Cerita 3 — Pasukan Kreatif & Perundangan (Bahagian 2)",
+    content: "Pemasaran dipacu pengurus media sosial, pengurus pemasaran, pengurusjualan, jurujual, serta penyelaras projek."
   },
   {
-    id: 178,
-    "title": "Story #178 - Renewable Energy Education",
-    "content": "[Content unavailable due to document truncation. Likely covers educational programs on renewable energy for students and communities.]"
+    id: 263,
+    title: "Cerita 3 — Pasukan Kreatif & Perundangan (Bahagian 3)",
+    content: "Sokongan polisi dan tadbir dibantu pegawai komunikasi, pegawaiundang-undang, pegawai kewangan, pegawai sumber manusia, pegawai latihan, pegawaipenyelidikan, pegawai dasar, pegawai pembangunan, pegawai tadbir, pegawai khidmatpelanggan, dan pegawai hubungan awam."
   },
   {
-    id: 179,
-    "title": "Story #179 - Rural Internet Infrastructure",
-    "content": "[Content unavailable due to document truncation. Likely discusses initiatives to expand internet infrastructure in rural areas.]"
+    id: 264,
+    title: "Cerita 3 — Pasukan Kreatif & Perundangan (Bahagian 4)",
+    content: "Kewibawaan kewangan serta reputasi diperkukuh juruaudit, perundingkewangan, penasihat undang-undang, penasihat pelaburan, penasihat strategik, perundingkomunikasi, jurucakap rasmi, dan wakil media."
   },
   {
-    id: 180,
-    "title": "Story #180 - Public Health Policy Development",
-    "content": "[Content unavailable due to document truncation. Likely focuses on the development of public health policies to address community needs.]"
+    id: 265,
+    title: "Cerita 4 — Data, Kejuruteraan & AI (Bahagian 1)",
+    content: "Untuk skala digital, organisasi menempatkan penganalisis data, penganalisispasaran, penganalisis polisi, penganalisis ekonomi, penganalisis risiko, dan penganalisiskeselamatan."
   },
   {
-    id: 181,
-    "title": "Story #181 - Community Safety Training",
-    "content": "[Content unavailable due to document truncation. Likely covers training programs to enhance community safety and preparedness.]"
+    id: 266,
+    title: "Cerita 4 — Data, Kejuruteraan & AI (Bahagian 2)",
+    content: "Infrastruktur disokong juruteknik rangkaian, jurutera perisian, jurutera sistem,jurutera data, saintis data, pembangun aplikasi, dan pengatur cara."
   },
   {
-    id: 182,
-    "title": "Story #182 - Digital Payment Adoption",
-    "content": "[Content unavailable due to document truncation. Likely discusses efforts to promote the adoption of digital payment systems.]"
+    id: 267,
+    title: "Cerita 4 — Data, Kejuruteraan & AI (Bahagian 3)",
+    content: "Aspek keselamatan dan automasi dipimpin pakar IT, pakar siber, pakarkeselamatan data, pakar AI, pakar automasi, serta pengalaman pengguna oleh pakar UX/UI,pereka pengalaman pengguna, dan pereka antaramuka pengguna."
   },
   {
-    id: 183,
-    "title": "Story #183 - Environmental Conservation Campaigns",
-    "content": "[Content unavailable due to document truncation. Likely focuses on campaigns to promote environmental conservation and awareness.]"
+    id: 268,
+    title: "Cerita 4 — Data, Kejuruteraan & AI (Bahagian 4)",
+    content: "Frontier diteroka jurutera AI, jurutera robotik, penyelidik AI, dan penyelidikteknologi dalam projek teknologi, inovasi digital, pembangunan sistem, dan penyelesaianpintar."
   },
   {
-    id: 184,
-    "title": "Story #184 - Youth Leadership Conferences",
-    "content": "[Content unavailable due to document truncation. Likely covers conferences aimed at developing leadership skills among youth.]"
+    id: 269,
+    title: "Cerita 5 — Kerajaan Digital & Data (Bahagian 1)",
+    content: "Agenda kerajaan digital mempercepat transformasi sektor awam melalui sistemmaklumat kerajaan dan pangkalan data nasional yang disepadukan dengan MyDigital ID."
   },
   {
-    id: 185,
-    "title": "Story #185 - SME Technology Adoption",
-    "content": "[Content unavailable due to document truncation. Likely discusses initiatives to support SMEs in adopting new technologies.]"
+    id: 270,
+    title: "Cerita 5 — Kerajaan Digital & Data (Bahagian 2)",
+    content: "Keutamaan keselamatan siber kerajaan serta privasi rakyat digabung dengandata terbuka kerajaan dan pelan strategik digital untuk merancakkan ekonomi berasaskandata dan AI untuk kerajaan."
   },
   {
-    id: 186,
-    "title": "Story #186 - Community Health Outreach",
-    "content": "[Content unavailable due to document truncation. Likely focuses on outreach programs to improve community health and wellness.]"
+    id: 271,
+    title: "Cerita 5 — Kerajaan Digital & Data (Bahagian 3)",
+    content: "Automasi seperti automasi pentadbiran dan chatbot kerajaan dipaparkan di portalrasmi kerajaan dan laman sesawang kementerian."
+  },
+  {
+    id: 272,
+    title: "Cerita 5 — Kerajaan Digital & Data (Bahagian 4)",
+    content: "Setiap inisiatif diiringi pengumuman rasmi, siaran media kerajaan, kenyataanakhbar, dan kenyataan dasar dalam kerangka pelan tindakan nasional."
+  },
+  {
+    id: 273,
+    title: "Cerita 6 — Payung Dasar Nasional (Bahagian 1)",
+    content: "Negara menyelaras dasar transformasi ekonomi, dasar pembangunan negara,dasar tenaga nasional, dasar keselamatan makanan, dasar perindustrian, dasar inovasi,serta dasar sains dan teknologi."
+  },
+  {
+    id: 274,
+    title: "Cerita 6 — Payung Dasar Nasional (Bahagian 2)",
+    content: "Tumpuan hijau diperkukuh oleh dasar tenaga boleh baharu, dasar digital, dasardata terbuka, dan dasar privasi nasional."
+  },
+  {
+    id: 275,
+    title: "Cerita 6 — Payung Dasar Nasional (Bahagian 3)",
+    content: "Arah industri ditetapkan oleh pelan induk industri, rancangan pembangunan limatahun, dan rancangan jangka panjang yang realistik."
+  },
+  {
+    id: 276,
+    title: "Cerita 7 — Kelestarian & Tenaga Rendah Karbon (Bahagian 1)",
+    content: "Korporat melancarkan pelan tindakan hijau dan strategi kelestarian berasaskandasar karbon rendah, memacu ekonomi hijau dan ekonomi sirkular."
+  },
+  {
+    id: 277,
+    title: "Cerita 7 — Kelestarian & Tenaga Rendah Karbon (Bahagian 2)",
+    content: "Mereka beralih kepada tenaga bersih untuk mencapai neutraliti karbonsejajarpembangunan lestari."
+  },
+  {
+    id: 278,
+    title: "Cerita 7 — Kelestarian & Tenaga Rendah Karbon (Bahagian 3)",
+    content: "Melalui kempen hijau, gerakan alam sekitar, aktivis hijau, dan NGO alam sekitar,syarikat menyokong projek konservasi, pemuliharaan hutan, pemeliharaan sungai, kempenpembersihan, serta penanaman pokok."
+  },
+  {
+    id: 279,
+    title: "Cerita 7 — Kelestarian & Tenaga Rendah Karbon (Bahagian 4)",
+    content: "Di komuniti, inisiatif komuniti hijau, kelab alam sekitar, sekolah lestari, danpendidikan hijau memupuk budaya lestari."
+  },
+  {
+    id: 280,
+    title: "Cerita 8 — Tenaga Baharu & Mobiliti Bandar (Bahagian 1)",
+    content: "R&D menumpu inovasi tenaga, teknologi rendah karbon, penyelidikan tenaga,dan skala tenaga boleh baharuyang disokong penyimpanan tenaga serta grid tenaga pintar."
+  },
+  {
+    id: 281,
+    title: "Cerita 8 — Tenaga Baharu & Mobiliti Bandar (Bahagian 2)",
+    content: "Pengangkutan memeluk kenderaan elektrik sebagai pengangkutan hijau untukmobiliti bandar; armada bas elektrik dan motosikal elektrik disokong stesen pengecas EV,subsidi EV, serta insentif hijau."
+  },
+  {
+    id: 282,
+    title: "Cerita 8 — Tenaga Baharu & Mobiliti Bandar (Bahagian 3)",
+    content: "Kerajaan memperkenal cukai karbon, dasar pengurangan pelepasan,mewajibkan laporan karbon, pengauditan karbon, dan mengukur jejak karbon demipengurangan gas rumah hijau."
+  },
+  {
+    id: 283,
+    title: "Cerita 8 — Tenaga Baharu & Mobiliti Bandar (Bahagian 4)",
+    content: "Arah daya tahan iklim diterjemah dalam pelan mitigasi iklim dan pelan adaptasiiklim."
+  },
+  {
+    id: 284,
+    title: "Cerita 9 — Kesiapsiagaan & Bantuan (Bahagian 1)",
+    content: "Tatkala bencana alam melanda, rangka pengurusan bencana mengaktifkankesiapsiagaan bencana, latihan kecemasan, dan bantuan kemanusiaan melalui tabungbencana."
+  },
+  {
+    id: 285,
+    title: "Cerita 9 — Kesiapsiagaan & Bantuan (Bahagian 2)",
+    content: "Ribuan sukarelawan bencana berganding bahu dengan penyelamat untukoperasi mencari dan menyelamat dalam misi bantuan."
+  },
+  {
+    id: 286,
+    title: "Cerita 9 — Kesiapsiagaan & Bantuan (Bahagian 3)",
+    content: "Mangsa ditempatkan di pusat pemindahan sambil menerima bantuan kecemasandan pelan pasca pemulihan melalui dana sokongan."
+  },
+  {
+    id: 287,
+    title: "Cerita 9 — Kesiapsiagaan & Bantuan (Bahagian 4)",
+    content: "Selepas krisis, agensi menghasilkan laporan bencana, menjalankan penilaianrisiko, menyusun strategi pemulihan, dan menguatkan ketahanan komuniti."
+  },
+  {
+    id: 288,
+    title: "Cerita 10 — Menghubungkan Semua Benang Merah (Bahagian 1)",
+    content: "Di mesyuarat lembaga, CEO, COO, CFO, dan CIO menilai kemajuan projekteknologi hijau yang menyokong dasar inovasi serta ekonomi berasaskan data."
   }
 ]

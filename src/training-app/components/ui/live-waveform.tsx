@@ -5,6 +5,8 @@ import type React from "react"
 import { useEffect, useRef } from "react"
 import { cn } from "@/lib/utils"
 
+const DEFAULT_BAR_COLOR = "#38bdf8" // sky-400
+
 interface LiveWaveformProps extends Omit<React.HTMLAttributes<HTMLDivElement>, "onError"> {
   active?: boolean
   processing?: boolean
@@ -32,7 +34,7 @@ export function LiveWaveform({
   barWidth = 3,
   barGap = 1,
   barRadius = 1.5,
-  barColor,
+  barColor = DEFAULT_BAR_COLOR,
   fadeEdges = true,
   fadeWidth = 24,
   height = 64,
@@ -85,7 +87,7 @@ export function LiveWaveform({
 
       ctx.clearRect(0, 0, rect.width, rect.height)
 
-      const color = barColor || getComputedStyle(canvas).color || "#000000"
+      const color = barColor || getComputedStyle(canvas).color || DEFAULT_BAR_COLOR
 
       if (processing && !active) {
         // Processing animation

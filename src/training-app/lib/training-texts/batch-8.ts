@@ -1,157 +1,242 @@
 export const batch8Stories = [
   {
-    id: 218,
-    "title": "Story #218 - Cross-Sector AI Integration",
-    "content": "AI merentasi pelbagai sektor—pendidikan, kesihatan, pertanian, dan logistik. Sebuah konsortium merancang platform AI bersepadu yang menghubungkan data dari pelbagai kementerian. Contohnya, AI digunakan untuk mengoptimumkan jadual pengangkutan awam dan memantau kesihatan pesakit melalui analitik prediktif. Projek ini melibatkan kerjasama antara agensi kerajaan, syarikat teknologi, dan universiti, dengan fokus pada etika dan ketelusan."
+    id: 337,
+    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 3)",
+    content: "Pematuhan ditambah baik dengan audit cukai dan laporan pematuhan cukaimenggunakan sistem e-Filing, pembayaran cukai dalam talian, sistem MyTax, dan akaunpembayar cukai yang mengeluarkan resit rasmi."
   },
   {
-    id: 219,
-    "title": "Story #219 - Future Talent and National Vision",
-    "content": "Program pembangunan bakat melatih belia untuk menyokong Wawasan Madani. Pelajar universiti mengikuti kursus dalam teknologi maklumat, kejuruteraan, dan analitik data, dengan tumpuan kepada kemahiran abad ke-21. Mereka mengambil bahagian dalam hackathon dan pertandingan inovasi, menghasilkan penyelesaian untuk isu seperti kemiskinan bandar dan kelestarian alam sekitar."
+    id: 338,
+    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 4)",
+    content: "Syarikat yang berdisiplin mendapat kelulusan audit tanpa teguran."
   },
   {
-    id: 220,
-    "title": "Story #220 - Weaving National Vision",
-    "content": "Kempen kesedaran Wawasan Madani menggalakkan perpaduan dan kemajuan melalui nilai-nilai murni. Poster, video, dan sidang media mempromosikan inisiatif seperti pendidikan inklusif dan ekonomi mampan. Penduduk diajak menyumbang idea melalui platform digital, memastikan pelibatan komuniti dalam pembentukan dasar nasional."
+    id: 339,
+    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 1)",
+    content: "Setiap korporat menerbitkan laporan kewangan tahunan mengikut piawaianperakaunan, disemak MIA, juruaudit bertauliah, dan akauntan profesional."
   },
   {
-    id: 221,
-    "title": "Story #221 - Madani Values and Vision",
-    "content": "Nilai-nilai Madani—sivik, integriti, dan keadilan—diterapkan melalui pendidikan dan kempen awam. Sekolah mengadakan kelas sivik yang menekankan tanggungjawab sosial dan etika. Komuniti tempatan menganjurkan dialog untuk membincangkan bagaimana nilai-nilai ini boleh diterjemahkan ke dalam tindakan harian."
+    id: 340,
+    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 2)",
+    content: "Lembaga menuntut laporan integriti, laporan ketelusan, dan memperkukuh tadbirurus kewangan, demi ketelusan awam dan akauntabiliti kerajaan bagi projek bersama sektorpublik."
   },
   {
-    id: 222,
-    "title": "Story #222 - Regional and Rural Development",
-    "content": "Inisiatif pembangunan wilayah menumpukan kepada kawasan luar bandar. Kerajaan melabur dalam infrastruktur seperti jalan raya dan internet berkelajuan tinggi untuk menyokong ekonomi tempatan. Program ini juga merangkumi bantuan kewangan kepada petani dan usahawan kecil di kawasan pedalaman."
+    id: 341,
+    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 3)",
+    content: "Pendedahan laporan rasuah disiasat Suruhanjaya Pencegahan Rasuah Malaysia(SPRM) untuk memelihara integriti awam, nilai etika, kod tingkah laku, dan etikaperkhidmatan awam dalam kalangan penjawat awam di jabatan kerajaan, kementerian, danagensi pelaksana."
   },
   {
-    id: 223,
-    "title": "Story #223 - Bumiputera and Entrepreneur Agenda",
-    "content": "Agenda Bumiputera menyokong usahawan tempatan melalui geran dan kursus keusahawanan. Agensi seperti MARA dan SME Corp menyediakan bimbingan untuk memulakan perniagaan, dengan fokus kepada teknologi dan pemasaran digital. Program ini membantu usahawan Bumiputera menembusi pasaran serantau."
+    id: 342,
+    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 1)",
+    content: "Di peringkat negeri, jabatan negeri menyelaras pentadbiran daerah bersamapejabat daerah dan majlis perbandaran selaku pihak berkuasa tempatan (PBT)."
   },
   {
-    id: 224,
-    "title": "Story #224 - Youth, Democracy, and Elections",
-    "content": "Belia digalakkan mengambil bahagian dalam demokrasi melalui pendidikan pengundi. Kempen kesedaran mengajar mereka tentang proses pilihan raya, hak mengundi, dan kepentingan memilih pemimpin yang bertanggungjawab. Forum belia diadakan untuk membincangkan isu politik dan sosial."
+    id: 343,
+    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 2)",
+    content: "Jabatan teknikal dan unit pengurusan tanah di pejabat tanah dan galianmengesahkan hak milik tanah, geran tanah, sempadan tanah, pelan kadaster, serta ukurantanah."
   },
   {
-    id: 225,
-    "title": "Story #225 - Political Integrity and Human Rights",
-    "content": "Panel reformasi politik membincangkan integriti dalam pentadbiran awam dan perlindungan hak asasi manusia. Mereka mengkaji undang-undang berkaitan kebebasan bersuara dan memastikan institusi seperti SUHAKAM memainkan peranan aktif dalam melindungi hak rakyat."
+    id: 344,
+    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 3)",
+    content: "Pemaju mengemukakan pelan pembangunan, permohonan kelulusan, pelanbangunan, lesen pembinaan, dan permit sementara untuk pengesahan majlis, diiringipembayaran fi, yuran perkhidmatan, dan penyata hasil kerajaan."
   },
   {
-    id: 226,
-    "title": "Story #226 - Human Capital, Education, and Innovation",
-    "content": "Universiti dan kolej bekerjasama dengan industri untuk menghasilkan graduan yang inovatif. Program seperti MyBrain menyokong pelajar siswazah dalam penyelidikan, manakala inisiatif STEM mempromosikan sains dan teknologi di kalangan pelajar sekolah."
+    id: 345,
+    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 4)",
+    content: "PBT memungut cukai tempatan, fi lesen, caj pengurusan, bayaran perkhidmatan,dan kutipan hasil, kemudian menerbitkan laporan kewangan majlis, belanjawan daerah,serta laporan pembangunan selaras rancangan struktur, pelan tindakan tempatan, dan zonperancangan yang menyokong pembangunan bandar dan pembangunan desa."
   },
   {
-    id: 227,
-    "title": "Story #227 - Foreign Policy and Multilateral Relations",
-    "content": "Malaysia memperkukuh hubungan diplomatik melalui sidang ASEAN dan pertemuan antarabangsa. Dasar luar negara menekankan perdagangan, keamanan, dan kerjasama budaya. Duta dan konsul mempromosikan pelaburan Malaysia di luar negara sambil menarik pelabur asing."
+    id: 346,
+    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 1)",
+    content: "Projek kemudahan awam menaik taraf jalan raya, lampu jalan, bekalan air,bekalan elektrik, sistem pembetungan, sistem longkang, dan sistem sisa pepejal."
   },
   {
-    id: 228,
-    "title": "Story #228 - Defense, Borders, and Migration",
-    "content": "Pasukan keselamatan memperkukuh kawalan sempadan melalui rondaan dan teknologi pengawasan. Jabatan Imigresen mengurus migrasi dengan memastikan pematuhan undang-undang dan melindungi pekerja asing daripada eksploitasi. Operasi ini disokong oleh kerjasama serantau."
+    id: 347,
+    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 2)",
+    content: "Bandar menguatkan pengurusan sampah, kempen kebersihan, amalan hijau,kitar semula, pengasingan sisa, dan membina pusat kitar semula."
   },
   {
-    id: 229,
-    "title": "Story #229 - Labor, TVET, and Market Needs",
-    "content": "Program TVET menyesuaikan kursus dengan keperluan pasaran kerja. Pelajar dilatih dalam bidang seperti automasi, pembinaan, dan teknologi hijau. Majikan industri memberikan maklum balas untuk memastikan kurikulum relevan dan graduan bersedia untuk pekerjaan."
+    id: 348,
+    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 3)",
+    content: "Melalui program gotong-royong, sukarelawan komuniti memupuk tanggungjawabsosial, menganjur kempen kesedaran, dan memperluas penglibatan masyarakat denganperanan NGO."
   },
   {
-    id: 230,
-    "title": "Story #230 - Reform, Inclusion, and Future Growth",
-    "content": "Reformasi institusi memastikan peluang merata kepada semua kelompok masyarakat. Dasar inklusif menyokong golongan kurang upaya, warga emas, dan komuniti terpinggir melalui pendidikan, pekerjaan, dan bantuan sosial. Pelan jangka panjang memastikan pertumbuhan ekonomi yang mampan."
+    id: 349,
+    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 4)",
+    content: "Kerjasama sektor awam, sektor swasta, dan sektor ketiga—termasuk koperasidan pertubuhan sosial—menguatkan daya tahan bandar."
   },
   {
-    id: 231,
-    "title": "Story #231 - Aina's Community Project",
-    "content": "Aina, seorang sukarelawan, memimpin projek komuniti untuk membina taman permainan di kampungnya. Dia mengumpul dana melalui kempen dalam talian dan bekerjasama dengan penduduk untuk reka bentuk taman. Projek ini bukan sahaja menyediakan ruang rekreasi tetapi juga memupuk semangat kerjasama."
+    id: 350,
+    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 1)",
+    content: "Persatuan pengguna memperjuangkan hak pengguna dan perlindunganpengguna melalui tribunal pengguna yang menangani aduan pengguna."
   },
   {
-    id: 232,
-    "title": "Story #232 - Farid's Research on Digital Government",
-    "content": "Farid, seorang pelajar PhD, menjalankan penyelidikan mengenai transformasi digital kerajaan. Dia menganalisis data daripada portal MyGov untuk menilai keberkesanan perkhidmatan dalam talian. Penemuannya membantu kementerian memperbaiki pengalaman pengguna."
+    id: 351,
+    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 2)",
+    content: "Pihak penguatkuasaan undang-undang dan KPDN melaksana kawalan harga,memantau harga siling, ketersediaan bekalan barangan, serta keutuhan rantai bekalandaripada pengeluar kepada pemborong, peruncit, dan platform pengedaran."
   },
   {
-    id: 233,
-    "title": "Story #233 - Flood Response and Recovery",
-    "content": "Pasukan bantuan bencana bertindak pantas semasa banjir di sebuah daerah. Mereka mengedarkan makanan, air, dan ubat-ubatan kepada mangsa, sambil menyelaraskan pemindahan ke pusat perlindungan. Selepas banjir surut, program pemulihan membantu penduduk membina semula rumah."
+    id: 352,
+    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 3)",
+    content: "Langkah bersepadu memastikan pasaran kekal adil ketika kejutan permintaan."
   },
   {
-    id: 234,
-    "title": "Story #234 - E-Commerce for Village Products",
-    "content": "Penduduk kampung memasarkan produk tempatan seperti kraftangan dan hasil tani melalui platform e-dagang. Mereka dilatih untuk menggunakan media sosial dan laman web untuk menarik pelanggan dari bandar, meningkatkan pendapatan keluarga."
+    id: 353,
+    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 1)",
+    content: "Usahawan eksport-import mematuhi syarat pengimport dan pengeksporttermasuk permit import, permit eksport, dan pengisian dokumen kastam."
   },
   {
-    id: 235,
-    "title": "Story #235 - Solar Energy School Experiment",
-    "content": "Pelajar sekolah menengah menjalankan eksperimen tenaga suria di makmal sains. Mereka mereka bentuk panel suria kecil untuk menyalakan lampu LED, mempelajari konsep tenaga boleh baharu dan aplikasinya dalam kehidupan seharian."
+    id: 354,
+    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 2)",
+    content: "Di pintu masuk, duti kastam dinilai oleh kastam Diraja Malaysia dan JabatanKastam; proses pengisytiharan barangan, semakan kastam, dan pelepasan importdipercepat melalui sistem digital."
   },
   {
-    id: 236,
-    "title": "Story #236 - Nora's Rural Healthcare Initiatives",
-    "content": "Nora, seorang jururawat, memimpin klinik mudah alih untuk menyediakan pemeriksaan kesihatan percuma di kawasan pedalaman. Beliau bekerjasama dengan NGO untuk membawa ubat dan vaksin, membantu penduduk yang sukar mengakses hospital."
+    id: 355,
+    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 3)",
+    content: "Keseluruhan aliran dagang yang telus membantu kestabilan ekonomi sertamelindungi kepentingan negara dan pengguna."
   },
   {
-    id: 237,
-    "title": "Story #237 - Amir's Data Analytics Role",
-    "content": "Amir, seorang penganalisis data, bekerja di syarikat fintech untuk meramal trend pasaran. Dia menggunakan alat visualisasi data untuk membantu pihak pengurusan membuat keputusan strategik, meningkatkan kecekapan operasi."
+    id: 356,
+    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 1)",
+    content: "Di lapangan terbang dan pintu masuk antarabangsa, pegawai menjalankanpemeriksaan kastam serta kawalan sempadan bersama imigresen Malaysia di bawahJabatan Imigresen."
   },
   {
-    id: 238,
-    "title": "Story #238 - Satellite Campus Graduation",
-    "content": "Kampus satelit sebuah universiti menganjurkan majlis konvokesyen untuk graduan diploma dan ijazah. Pelajar dari pelbagai kursus seperti kejuruteraan dan perniagaan menerima sijil mereka, disaksikan keluarga dan pensyarah."
+    id: 357,
+    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 2)",
+    content: "Usahawan asing memohon permit kerja, pelajar antarabangsa menerima visapelajar, manakala pelancong diberi visa pelancong atau pas lawatan sosial; eksekutif globalmemegang pas ekspatriat."
   },
   {
-    id: 239,
-    "title": "Story #239 - Smart City Transit System",
-    "content": "Sebuah bandar pintar melancarkan sistem transit automatik menggunakan bas elektrik dan laluan khusus. Sistem ini disokong oleh aplikasi mudah alih yang memaparkan jadual masa nyata, mengurangkan kesesakan lalu lintas."
+    id: 358,
+    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 3)",
+    content: "Proses kawalan kemasukan dan permit keluar masuk memastikan warga asing,pekerja asing, serta pekerja domestik mematuhi undang-undang, dibantu agensi berlesenyang memiliki lesen agensi pekerjaan."
   },
   {
-    id: 240,
-    "title": "Story #240 - Sara's Economic Analysis",
-    "content": "Sara, seorang ahli ekonomi, menjalankan analisis kos faedah untuk projek infrastruktur kerajaan. Laporannya membantu pembuat dasar menentukan pelaburan yang paling berkesan untuk pertumbuhan ekonomi daerah."
+    id: 359,
+    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 4)",
+    content: "Di terminal kargo, pemeriksaan dokumen dan muatan dilaksana selari piawaiankeselamatan."
   },
   {
-    id: 241,
-    "title": "Story #241 - Graphic Design for Corporate Identity",
-    "content": "Pasukan pereka grafik membangunkan identiti korporat untuk syarikat tempatan. Mereka mereka bentuk logo, kad perniagaan, dan laman web yang menyerlahkan nilai jenama, menarik pelanggan baru."
+    id: 360,
+    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 1)",
+    content: "Rantaian maritim bertumpu di pelabuhan Klang, pelabuhan Tanjung Pelepas,pelabuhan Bintulu, dan pelabuhan Kuantan."
   },
   {
-    id: 242,
-    "title": "Story #242 - Bilingual Speech Recognition AI",
-    "content": "Pasukan penyelidik membangunkan AI pengecaman suara dwibahasa yang menyokong Bahasa Melayu dan Inggeris. Teknologi ini digunakan dalam aplikasi pelancongan untuk membantu pelancong berinteraksi dengan penduduk tempatan."
+    id: 361,
+    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 2)",
+    content: "Pasukan pengurusan pelabuhan menyelaras pengendalian kargo untukpengangkutan laut dan industri perkapalan."
   },
   {
-    id: 243,
-    "title": "Story #243 - Youth Leadership Program",
-    "content": "Program kepimpinan belia melatih pelajar sekolah menengah dalam kemahiran komunikasi dan penyelesaian masalah. Mereka mengambil bahagian dalam simulasi mesyuarat komuniti, mempelajari cara membuat keputusan secara kolektif."
+    id: 362,
+    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 3)",
+    content: "Kapal dagang berlabuh, memunggah kontena dan muatan kapal di dokpelabuhan serta dermagayang sibuk, sebelum meneruskan pelayaran ke destinasiseterusnya."
   },
   {
-    id: 244,
-    "title": "Story #244 - Digital Government Project Meeting",
-    "content": "Pasukan projek kerajaan digital mengadakan mesyuarat untuk membincangkan kemajuan portal perkhidmatan awam. Mereka mengkaji maklum balas pengguna dan merancang penambahbaikan untuk memastikan akses yang lebih mudah."
+    id: 363,
+    title: "Cerita 3 — Logistik Pintar (Bahagian 1)",
+    content: "Syarikat memperkemas penghantaran antarabangsa melalui rangka logistikglobal dan pelbagai perkhidmatan penghantaran."
   },
   {
-    id: 245,
-    "title": "Story #245 - Malaysia's Historical Documentary",
-    "content": "Syarikat produksi menghasilkan dokumentari tentang sejarah Malaysia, menonjolkan perjuangan kemerdekaan dan kepelbagaian budaya. Dokumentari ini ditayangkan di sekolah dan saluran televisyen nasional."
+    id: 364,
+    title: "Cerita 3 — Logistik Pintar (Bahagian 2)",
+    content: "Kurier antarabangsa seperti DHL dan FedEx bergandingan dengan Pos Malaysiauntuk penghantaran domestik dan penghantaran ekspres."
   },
   {
-    id: 246,
-    "title": "Story #246 - Robotics Exhibition at Science Museum",
-    "content": "Muzium sains menganjurkan pameran robotik, mempamerkan robot yang dibangunkan oleh pelajar universiti. Pelawat dapat mencuba robot interaktif dan belajar tentang aplikasi robotik dalam industri."
+    id: 365,
+    title: "Cerita 3 — Logistik Pintar (Bahagian 3)",
+    content: "Di pusat logistik, gudang penyimpanan menjejak inventori; pengurusan rantaianbekalan, perancangan permintaan, dan pengedaran barangan diselaraskan oleh sistemdigital masa nyata."
   },
   {
-    id: 247,
-    "title": "Story #247 - Campus Election for Student Council",
-    "content": "Pelajar universiti mengadakan pilihan raya majlis pelajar, dengan calon berkempen melalui debat dan media sosial. Proses ini mengajar pelajar tentang demokrasi dan tanggungjawab kepimpinan."
+    id: 366,
+    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 1)",
+    content: "Peniaga memanfaatkan e-dagang antarabangsa dan platform jualan rentassempadan dalam arus perdagangan digital."
   },
   {
-    id: 248,
-    "title": "Story #248 - Digital Marketing for Farmers and Fishermen",
-    "content": "Petani dan nelayan dilatih untuk memasarkan hasil mereka melalui platform digital. Mereka menggunakan media sosial untuk menjual ikan segar dan buah-buahan, meningkatkan pendapatan dan mengurangkan pergantungan kepada orang tengah."
+    id: 367,
+    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 2)",
+    content: "Transaksi dalam talian disokong pembayaran antarabangsa: PayPal, kad kredit,kad debit, e-dompet, DuitNow, FPX, serta sistem pembayaran elektronik lain, dilindungikeselamatan transaksi."
+  },
+  {
+    id: 368,
+    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 3)",
+    content: "Risiko penipuan dalam talian, jenayah siber, dan penggodaman data diurusmelalui perlindungan maklumat, pematuhan akta perlindungan data (PDPA), penjagaankeselamatan privasi, pengesahan identiti, log masuk dua faktor, dan amalan kata laluankukuh dengan penyulitan data."
+  },
+  {
+    id: 369,
+    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 4)",
+    content: "Organisasi membina sistem keselamatan digital, menjalankan audit keselamatan,melaporkan laporan insiden siber, dan mengaktifkan pasukan tindak balas kecemasansiberdengan sokongan CyberSecurity Malaysia serta Suruhanjaya Komunikasi danMultimedia (SKMM) di bawah pelan keselamatan siber nasional, selaras dasar perlindungandata, tadbir urus digital, dan keselamatan maklumat."
+  },
+  {
+    id: 370,
+    title: "Cerita 5 — Awan & IR4.0 (Bahagian 1)",
+    content: "Kerajaan dan industri memusatkan data di pusat data dan beralih ke pelayanawan, storan awan, backup data, dan pemulihan data dalam infrastruktur awan berasaskanpengkomputeran awan untuk skala perkhidmatan digital."
+  },
+  {
+    id: 371,
+    title: "Cerita 5 — Awan & IR4.0 (Bahagian 2)",
+    content: "Kilang menerapkan automasi industri seiring Revolusi Industri 4.0 (IR4.0),mengguna teknologi pintar, IoT, blockchain, kecerdasan buatan (AI), dan pembelajaranmesin."
+  },
+  {
+    id: 372,
+    title: "Cerita 5 — Awan & IR4.0 (Bahagian 3)",
+    content: "Pasukan analitik data, sains data, dan visualisasi data mengolah maklumatdaripada pangkalan data dan pengurusan maklumat bagi menaik taraf teknologi maklumatdan sistem maklumat."
+  },
+  {
+    id: 373,
+    title: "Cerita 6 — Web & Media Sosial (Bahagian 1)",
+    content: "Syarikat melancarkan aplikasi mudah alih sambil meneruskan pembangunanperisian, reka bentuk aplikasi, dan pembangunan web untuk laman sesawang utama."
+  },
+  {
+    id: 374,
+    title: "Cerita 6 — Web & Media Sosial (Bahagian 2)",
+    content: "Pasukan IT mengurus domain, hos web, dan SEO; pemasaran menggerakkanpemasaran digital serta pengiklanan dalam talian di media sosial seperti Facebook,Instagram, TikTok, YouTube, X (Twitter), dan Threads."
+  },
+  {
+    id: 375,
+    title: "Cerita 6 — Web & Media Sosial (Bahagian 3)",
+    content: "Di platform kandungan, algoritma media sosial membantu pencipta kandungandan pempengaruh digital menjalankan kempen pemasaran, mengukur penglibatanpengguna, kadar tontonan, kadar klik, paparan iklan, serta analitik media sosial."
+  },
+  {
+    id: 376,
+    title: "Cerita 6 — Web & Media Sosial (Bahagian 4)",
+    content: "Semua itu sejajar strategi kandungan, pengurusan jenama, reputasi digital,identiti korporat, logo syarikat, reka bentuk grafik, warna korporat, tipografi, dan garispanduan jenama."
+  },
+  {
+    id: 377,
+    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 1)",
+    content: "Portal dibina berasaskan pengalaman pengguna dengan reka bentuk mesrapengguna, antaramuka interaktif, dan sistem navigasi jelas di laman utama serta halamanproduk."
+  },
+  {
+    id: 378,
+    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 2)",
+    content: "Borang pendaftaran dipermudah melalui borang pendaftaran dan butangpanggilan tindakan; laman kekal lincah dengan reka bentuk responsif dan akses mudahalih."
+  },
+  {
+    id: 379,
+    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 3)",
+    content: "Perlindungan ditambah melalui keselamatan laman web, sijil SSL, perlindunganspam, serta pemantauan kelajuan muat naik dan pengoptimuman SEO."
+  },
+  {
+    id: 380,
+    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 4)",
+    content: "Selepas jualan, pemasaran menghantar pemasaran e-mel kepada pangkalanpelanggan; operasi mengurus pengurusan pelanggan dan CRM, memantau kepuasanpelanggan, mengutip maklum balas pengguna. Bantuan disalur melalui sokonganpelanggan, chatbot sokongan, sistem tiket bantuan, pangkalan pengetahuan, FAQ, panduanpengguna, tutorial video, dan dokumentasi teknikal."
+  },
+  {
+    id: 381,
+    title: "Cerita 8 — Kitar Hayat Perisian (Bahagian 1)",
+    content: "Selepas kemas kini perisian, pasukan melepaskan versi baharu yangmerangkumi pembetulan pepijat dan penambahbaikan sistem."
+  },
+  {
+    id: 382,
+    title: "Cerita 8 — Kitar Hayat Perisian (Bahagian 2)",
+    content: "Program ujian beta mengumpul maklum balas pengguna awal, merekod laporanpepijat, menjalankan pengujian prestasi dan ujian keselamatan bagi memastikan kestabilansebelum peluncuran besar-besaran."
+  },
+  {
+    id: 383,
+    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 1)",
+    content: "Hari pelancaran produk tiba bersama pengumuman rasmi, siaran media, dankempen pelancaran."
+  },
+  {
+    id: 384,
+    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 2)",
+    content: "Pengurus produk menyelaras pasukan pembangunan, pasukan reka bentuk,pasukan pemasaran, pasukan jualan, dan pasukan operasi."
   }
 ]

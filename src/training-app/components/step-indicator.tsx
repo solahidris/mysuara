@@ -1,41 +1,64 @@
 import { Check } from "lucide-react"
 
+type StepKey = "original" | "correction" | "audio"
+
+type StepStatus = "active" | "completed" | "upcoming"
+
 interface StepIndicatorProps {
-  currentStep: "original" | "correction" | "audio"
+  currentStep: StepKey
+  isAudioComplete?: boolean
 }
 
-export function StepIndicator({ currentStep }: StepIndicatorProps) {
+const circleClassnames: Record<StepStatus, string> = {
+  completed: "border-sky-600 bg-sky-600 text-white shadow-sm shadow-sky-400/40",
+  active: "border-sky-500 bg-sky-50 text-sky-600 ring-2 ring-sky-200",
+  upcoming: "border-slate-300 text-slate-400",
+}
+
+const labelClassnames: Record<StepStatus, string> = {
+  completed: "text-sm font-semibold text-slate-900",
+  active: "text-sm font-semibold text-slate-900",
+  upcoming: "text-sm font-medium text-slate-400",
+}
+
+function Step({
+  label,
+  number,
+  status,
+}: {
+  label: string
+  number: number
+  status: StepStatus
+}) {
   return (
-    <div className="flex items-center justify-center gap-2 mb-8 mt-16 lg:mt-0">
+    <div className="flex items-center gap-2">
       <div
-        className={`flex items-center gap-2 ${currentStep === "original" || currentStep === "correction" ? "text-foreground" : "text-muted-foreground"}`}
+        className={`flex h-9 w-9 items-center justify-center rounded-full border-2 transition-all duration-200 ${circleClassnames[status]}`}
       >
-        <div
-          className={`w-8 h-8 rounded-full flex items-center justify-center border-2 transition-all ${
-            currentStep === "original" || currentStep === "correction"
-              ? "border-foreground bg-foreground text-background"
-              : currentStep === "audio"
-                ? "border-primary bg-primary text-background"
-                : "border-muted-foreground bg-transparent"
-          }`}
-        >
-          {currentStep === "audio" ? <Check className="w-4 h-4" /> : "1"}
-        </div>
-        <span className="text-sm font-medium">Text Correction</span>
+        {status === "completed" ? <Check className="h-4 w-4" /> : number}
       </div>
+      <span className={labelClassnames[status]}>{label}</span>
+    </div>
+  )
+}
 
-      <div className={`w-8 h-0.5 ${currentStep === "audio" ? "bg-primary" : "bg-muted-foreground"}`}></div>
+export function StepIndicator({ currentStep, isAudioComplete = false }: StepIndicatorProps) {
+  const isOnTextStep = currentStep === "original" || currentStep === "correction"
+  const textStatus: StepStatus = isAudioComplete || currentStep === "audio" ? "completed" : isOnTextStep ? "active" : "upcoming"
+  const audioStatus: StepStatus = isAudioComplete ? "completed" : currentStep === "audio" ? "active" : "upcoming"
 
-      <div className={`flex items-center gap-2 ${currentStep === "audio" ? "text-foreground" : "text-muted-foreground"}`}>
-        <div
-          className={`w-8 h-8 rounded-full flex items-center justify-center border-2 transition-all ${
-            currentStep === "audio" ? "border-foreground bg-foreground text-background" : "border-muted-foreground bg-transparent"
-          }`}
-        >
-          2
-        </div>
-        <span className="text-sm font-medium">Audio Record</span>
-      </div>
+  const connectorClass =
+    audioStatus === "completed"
+      ? "bg-sky-500"
+      : audioStatus === "active"
+        ? "bg-sky-300"
+        : "bg-slate-300"
+
+  return (
+    <div className="mb-8 mt-16 flex items-center justify-center gap-3 lg:mt-0">
+      <Step label="Text Correction" number={1} status={textStatus} />
+      <div className={`h-px w-12 rounded-full transition-colors duration-200 ${connectorClass}`} />
+      <Step label="Audio Record" number={2} status={audioStatus} />
     </div>
   )
 }
