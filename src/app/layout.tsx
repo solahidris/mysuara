@@ -1,23 +1,18 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import SiteHeader from "@/components/site-header";
+import type { Metadata } from "next"
+import type { ReactNode } from "react"
+import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Suara.ai",
   description: "Empowering voices across Malaysia with cutting-edge AI technology",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
-      <body>
-        <SiteHeader />
-        <main>{children}</main>
+      <body className="bg-background text-foreground font-sans antialiased">
+        {children}
       </body>
     </html>
-  );
+  )
 }
