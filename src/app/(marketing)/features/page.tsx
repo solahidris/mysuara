@@ -70,42 +70,42 @@ const capabilityHighlights = [
     title: "Dialect-Ready ASR",
     description:
       "Transcribe Malay, English, Mandarin, Tamil, and more than 60 dialect variations with confidence scoring built for civic decision-making.",
-    icon: "/assets/microphone-blue.svg",
+    icon: "/assets/icon-asr.svg",
     accent: "from-[#2563eb1f] via-[#93c5fd29] to-transparent",
   },
   {
     title: "Sentiment Layers",
     description:
       "Decode urgency, empathy, and cultural nuance so frontline teams can prioritise the right responses faster.",
-    icon: "/assets/icon-chat.svg",
+    icon: "/assets/icon-sentiment.svg",
     accent: "from-[#3b82f61c] via-[#60a5fa22] to-transparent",
   },
   {
     title: "Action Playbooks",
     description:
       "Convert insights into templated responses, policy briefs, and outreach scripts ready for multilingual deployment.",
-    icon: "/assets/flash.png",
+    icon: "/assets/icon-playbook.svg",
     accent: "from-[#2563eb1c] via-[#4f46e522] to-transparent",
   },
   {
     title: "Voice Governance",
     description:
       "Manage consent, retention, and legal requests through a transparent dashboard built for public accountability.",
-    icon: "/assets/globe.svg",
+    icon: "/assets/icon-governance.svg",
     accent: "from-[#1d4ed81c] via-[#1e3a8a26] to-transparent",
   },
   {
     title: "Live Ops Console",
     description:
       "Monitor live agent performance, automate QA, and trigger escalation paths for critical events in real time.",
-    icon: "/assets/icon-phone.svg",
+    icon: "/assets/icon-ops.svg",
     accent: "from-[#0f172a1c] via-[#2563eb24] to-transparent",
   },
   {
     title: "Partner Integrations",
     description:
       "Connect securely with CRM, ticketing, and government systems via managed APIs and event streaming pipelines.",
-    icon: "/assets/icon-globe.svg",
+    icon: "/assets/icon-integrations.svg",
     accent: "from-[#0478571c] via-[#10b98124] to-transparent",
   },
 ];
@@ -192,9 +192,9 @@ const integrationLogos = [
   { name: "RapidScreen", src: "/assets/elevenlabs.png", width: 120, height: 40 },
   { name: "Open Source Llama", src: "/assets/llama.png", width: 120, height: 56 },
   { name: "Conversational Ops", src: "/assets/chatgpt.png", width: 120, height: 56 },
-  { name: "Telecom Cloud", src: "/assets/globe.svg", width: 64, height: 64 },
-  { name: "Civic Data Lake", src: "/assets/window.svg", width: 64, height: 64 },
-  { name: "Secure Files", src: "/assets/file.svg", width: 56, height: 56 },
+  { name: "Telecom Cloud", src: "/assets/cloud.png", width: 104, height: 104 },
+  { name: "Civic Data Lake", src: "/assets/civic.png", width: 84, height: 84 },
+  { name: "Secure Files", src: "/assets/secure.png", width: 56, height: 56 },
 ];
 
 function SuiteCard({
@@ -240,7 +240,7 @@ function CapabilityCard({
     <article className="group relative flex h-full flex-col gap-4 overflow-hidden rounded-[26px] border border-[#2563eb1a] bg-white p-7 shadow-[0_22px_52px_rgba(4,9,20,0.08)] transition hover:-translate-y-1 hover:shadow-[0_28px_64px_rgba(4,9,20,0.12)]">
       <div className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${accent} opacity-0 transition group-hover:opacity-100`} aria-hidden />
       <div className="relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-[#2563eb12]">
-        <Image src={icon} alt="" width={28} height={28} />
+        <Image src={icon} alt="" width={28} height={28} className="h-7 w-7 object-contain" />
       </div>
       <h3 className="relative text-xl font-semibold text-[var(--ink)]">{title}</h3>
       <p className="relative text-sm leading-relaxed text-[#1d3350b3]">{description}</p>
@@ -530,10 +530,9 @@ export default function FeaturesPage() {
             {integrationLogos.map((logo) => (
               <div
                 key={logo.name}
-                className="group flex h-28 flex-col items-center justify-center rounded-[24px] border border-[#2563eb1a] bg-[#f8fbff] px-5 py-4 text-center shadow-[0_18px_44px_rgba(4,9,20,0.08)] transition hover:-translate-y-1 hover:bg-white hover:shadow-[0_26px_60px_rgba(4,9,20,0.12)]"
+                className="group flex h-28 items-center justify-center rounded-[24px] border border-[#2563eb1a] bg-[#f8fbff] px-5 py-4 shadow-[0_18px_44px_rgba(4,9,20,0.08)] transition hover:-translate-y-1 hover:bg-white hover:shadow-[0_26px_60px_rgba(4,9,20,0.12)]"
               >
                 <Image src={logo.src} alt={logo.name} width={logo.width} height={logo.height} className="opacity-80 transition group-hover:opacity-100" />
-                <span className="mt-3 text-xs uppercase tracking-[0.24em] text-[#1d3350b3]">{logo.name}</span>
               </div>
             ))}
           </div>

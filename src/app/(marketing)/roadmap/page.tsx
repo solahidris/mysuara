@@ -57,23 +57,23 @@ const milestoneTimeline = [
     title: "Inclusive Coverage",
     description:
       "Co-develop dialect and accessibility releases with regional councils, ensuring inclusive experiences nationwide.",
-    icon: "/assets/icon-globe.svg",
-    accent: "from-[#2563eb1a] via-[#60a5fa1f] to-transparent",
+    icon: "/assets/icon-phase-coverage.svg",
+    accent: "from-[#bfdbfe40] via-[#60a5fa24] to-transparent",
   },
   {
     label: "Phase 02",
     title: "Operational Mastery",
     description:
       "Automate live operations, elevate QA, and deliver visibility across ministries, enterprises, and contact centres.",
-    icon: "/assets/icon-phone.svg",
-    accent: "from-[#1d4ed81a] via-[#93c5fd22] to-transparent",
+    icon: "/assets/icon-phase-ops.svg",
+    accent: "from-[#c7d2fe40] via-[#a5b4fc33] to-transparent",
   },
   {
     label: "Phase 03",
     title: "Open Ecosystem",
     description:
       "Launch developer kits, integrations, and co-innovation programmes so partners can extend Suara everywhere.",
-    icon: "/assets/chatgpt.png",
+    icon: "/assets/icon-phase-open.svg",
     accent: "from-[#3b82f61a] via-[#60a5fa22] to-transparent",
   },
   {
@@ -81,7 +81,7 @@ const milestoneTimeline = [
     title: "Measured Impact",
     description:
       "Publish dashboards, policy scorecards, and transparency reports tying every release to measurable outcomes.",
-    icon: "/assets/file.svg",
+    icon: "/assets/icon-phase-impact.svg",
     accent: "from-[#0f172a1a] via-[#2563eb1f] to-transparent",
   },
 ];

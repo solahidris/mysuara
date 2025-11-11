@@ -6,6 +6,7 @@ import { GridPattern } from "@/components/ui/shadcn-io/grid-pattern";
 import { StaticWaveform } from "@/components/ui/waveform";
 import { BarVisualizer } from "@/components/ui/bar-visualizer";
 import { HomeFooter } from "@/components/home/home-footer";
+import { cn } from "@/lib/utils";
 
 const heroHighlights = [
   "Co-created with linguists, accessibility councils, and community reviewers across Malaysia.",
@@ -24,19 +25,22 @@ const storyPillars = [
     title: "Sovereign By Design",
     description:
       "Data residency, model governance, and operational playbooks are controlled within Malaysia so critical services stay independent.",
-    icon: "/assets/globe.svg",
+    icon: "/assets/icon-globe.svg",
+    iconBackground: "bg-[#1d4ed8]",
   },
   {
     title: "Inclusive At Scale",
     description:
       "Dialect reviewers, accessibility boards, and field researchers ensure experiences honour every Malaysian community.",
-    icon: "/assets/microphone-blue.svg",
+    icon: "/assets/microphone-white.svg",
+    iconBackground: "bg-[#1d4ed8]",
   },
   {
     title: "Operationally Proven",
     description:
       "Live deployments across contact centres, emergency lines, and community programmes prove Suara performs under pressure.",
     icon: "/assets/icon-phone.svg",
+    iconBackground: "bg-[#1d4ed8]",
   },
 ];
 
@@ -45,43 +49,49 @@ const serviceDomains = [
     name: "Public Services & Policy",
     description:
       "Citizens get accurate, multilingual support for licensing, emergency response, and social assistance touchpoints.",
-    icon: "/assets/icon-globe.svg",
+    icon: "/assets/icon-globe-blue.svg",
     accent: "from-[#1d4ed81c] via-[#2563eb24] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
   {
     name: "Healthcare & Wellbeing",
     description:
       "Telehealth triage, hospital hotlines, and population health programmes operate with culturally fluent voice AI.",
-    icon: "/assets/microphone-2.svg",
+    icon: "/assets/icon-health.svg",
     accent: "from-[#2563eb1c] via-[#60a5fa24] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
   {
     name: "Citizen Experience",
     description:
       "Service bureaus, councils, and agencies automate routine workloads while keeping empathy and context intact.",
-    icon: "/assets/icon-chat.svg",
+    icon: "/assets/icon-chat-blue.svg",
     accent: "from-[#3b82f61c] via-[#60a5fa22] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
   {
     name: "Enterprises & MSMEs",
     description:
       "Retail, financial services, and logistics brands deliver consistent multilingual journeys locally and regionally.",
-    icon: "/assets/flash.png",
+    icon: "/assets/icon-briefcase.svg",
     accent: "from-[#2563eb14] via-[#4f46e522] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
   {
     name: "Education & Workforce",
     description:
       "Learning, skilling, and research initiatives gain voice-first interfaces, curricula, and experimentation sandboxes.",
-    icon: "/assets/file.svg",
+    icon: "/assets/icon-cap.svg",
     accent: "from-[#0f172a1a] via-[#2563eb22] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
   {
     name: "Accessibility & Inclusion",
     description:
       "Assistive voice experiences co-designed with Deaf and disabled communities ensure technology respects every ability.",
-    icon: "/assets/wavy-lines.svg",
+    icon: "/assets/icon-accessibility.svg",
     accent: "from-[#1d4ed814] via-[#93c5fd22] to-transparent",
+    iconBackground: "bg-[#2563eb12]",
   },
 ];
 
@@ -273,8 +283,13 @@ export default function AboutPage() {
                 className="group relative flex h-full flex-col gap-4 overflow-hidden rounded-[26px] border border-[#2563eb1a] bg-white p-7 shadow-[0_22px_52px_rgba(4,9,20,0.08)] transition hover:-translate-y-1 hover:shadow-[0_28px_64px_rgba(4,9,20,0.12)]"
               >
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-[#2563eb14] via-transparent to-transparent opacity-0 transition group-hover:opacity-100" aria-hidden />
-                <div className="relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-[#2563eb12]">
-                  <Image src={pillar.icon} alt="" width={28} height={28} />
+                <div
+                  className={cn(
+                    "relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-[#2563eb12]",
+                    pillar.iconBackground,
+                  )}
+                >
+                  <Image src={pillar.icon} alt="" width={28} height={28} className="h-7 w-7 object-contain" />
                 </div>
                 <h3 className="relative text-xl font-semibold text-[var(--ink)]">{pillar.title}</h3>
                 <p className="relative text-sm leading-relaxed text-[#1d3350b3]">{pillar.description}</p>
@@ -300,8 +315,13 @@ export default function AboutPage() {
                 className="group relative flex h-full flex-col gap-4 overflow-hidden rounded-[26px] border border-[#2563eb1a] bg-white p-7 shadow-[0_22px_52px_rgba(4,9,20,0.08)] transition hover:-translate-y-1 hover:shadow-[0_28px_64px_rgba(4,9,20,0.12)]"
               >
                 <div className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${domain.accent} opacity-0 transition group-hover:opacity-100`} aria-hidden />
-                <div className="relative inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-[#2563eb12]">
-                  <Image src={domain.icon} alt="" width={28} height={28} />
+                <div
+                  className={cn(
+                    "relative inline-flex h-12 w-12 items-center justify-center rounded-2xl",
+                    domain.iconBackground ?? "bg-[#2563eb12]",
+                  )}
+                >
+                  <Image src={domain.icon} alt="" width={28} height={28} className="h-7 w-7 object-contain" />
                 </div>
                 <h3 className="relative text-lg font-semibold text-[var(--ink)]">{domain.name}</h3>
                 <p className="relative text-sm leading-relaxed text-[#1d3350b3]">{domain.description}</p>
@@ -336,7 +356,7 @@ export default function AboutPage() {
                   className="relative flex gap-5 rounded-[26px] border border-[#2563eb1f] bg-[#f8fbff] p-6 shadow-[0_22px_52px_rgba(4,9,20,0.08)]"
                 >
                   <div className="flex flex-col items-center gap-3">
-                    <div className="grid h-12 w-12 place-items-center rounded-full bg-[#2563eb12] text-sm font-semibold uppercase tracking-[0.24em] text-[#1d4ed8]">
+                    <div className="grid h-12 w-12 place-items-center rounded-full bg-[#2563eb12] text-sm font-semibold uppercase text-[#1d4ed8]">
                       {milestone.period}
                     </div>
                     {index !== foundingTimeline.length - 1 && (
