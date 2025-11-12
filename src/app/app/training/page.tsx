@@ -388,9 +388,9 @@ export default function TrainingPage() {
         <div className="max-w-7xl mx-auto mb-10">
           <div className="flex flex-col gap-4 rounded-[2rem] border border-slate-200 bg-white px-4 py-4 shadow-xl shadow-slate-200/70 backdrop-blur-sm md:flex-row md:items-center md:justify-between md:px-4">
             {/* Earnings Badge (non-interactive) - Left Side */}
-            <div className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-slate-50 px-4 py-2 shadow-md shadow-slate-200/60">
-              <Wallet className="h-4 w-4 text-blue-600" />
-              <span className="text-sm font-medium text-slate-700">{totalEarnings * 100} Points</span>
+            <div className="inline-flex items-center gap-2 rounded-xl bg-slate-100 px-4 py-2">
+              <Wallet className="h-4 w-4 text-zinc-400/80" />
+              <span className="text-sm font-medium text-zinc-400/80">{totalEarnings * 100} Points</span>
             </div>
 
             {/* Action Buttons - Right Side */}

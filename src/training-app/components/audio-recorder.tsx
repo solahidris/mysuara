@@ -266,7 +266,7 @@ export function AudioRecorder({ onRecordingComplete, disabled }: AudioRecorderPr
             <button
               type="button"
               onClick={togglePlayback}
-              className="cursor-pointer w-16 h-16 rounded-full bg-gray-800 hover:bg-gray-700 dark:bg-gray-700 dark:hover:bg-gray-600 transition-all duration-300 flex items-center justify-center shadow-md"
+              className="cursor-pointer w-16 h-16 rounded-full bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-600 transition-all duration-300 flex items-center justify-center shadow-lg shadow-blue-200 dark:shadow-blue-900/50"
             >
               {isPlaying ? (
                 <Pause className="h-6 w-6 text-white" />
@@ -278,7 +278,7 @@ export function AudioRecorder({ onRecordingComplete, disabled }: AudioRecorderPr
             <button
               type="button"
               onClick={retryRecording}
-              className="cursor-pointer group flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors"
+              className="cursor-pointer group flex items-center gap-2 px-4 py-2 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-sm text-slate-700 dark:text-slate-300 hover:bg-slate-100 hover:border-slate-400 dark:hover:bg-slate-700 dark:hover:border-slate-500 hover:text-slate-900 dark:hover:text-slate-100 transition-all duration-200 shadow-sm font-medium"
             >
               <RotateCcw className="h-4 w-4 group-hover:rotate-180 transition-transform duration-500" />
               Retry
