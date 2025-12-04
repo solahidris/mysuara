@@ -5,7 +5,7 @@
  * to ensure even distribution of data collection across all stories.
  * 
  * After completing their starting batch, users continue through the remaining
- * batches in sequence until all 773 stories are completed.
+ * batches in sequence until all 928 stories are completed.
  * 
  * Example: Penang starts at Batch 9
  * → Stories 385-432 (Batch 9)
@@ -15,52 +15,52 @@
  */
 
 export const STATE_BATCH_MAPPING: Record<string, number> = {
-  // Batch 1 starters (Stories 1-48)
+  // Batch 1 starters (Stories 1-58)
   "Johor": 1,
 
-  // Batch 2 starters (Stories 49-96)
+  // Batch 2 starters (Stories 59-116)
   "Kedah": 2,
 
-  // Batch 3 starters (Stories 97-144)
+  // Batch 3 starters (Stories 117-174)
   "Kelantan": 3,
 
-  // Batch 4 starters (Stories 145-192)
+  // Batch 4 starters (Stories 175-232)
   "Kuala Lumpur": 4,
 
-  // Batch 5 starters (Stories 193-240)
+  // Batch 5 starters (Stories 233-290)
   "Labuan": 5,
 
-  // Batch 6 starters (Stories 241-288)
+  // Batch 6 starters (Stories 291-348)
   "Melaka": 6,
 
-  // Batch 7 starters (Stories 289-336)
+  // Batch 7 starters (Stories 349-406)
   "Negeri Sembilan": 7,
 
-  // Batch 8 starters (Stories 337-384)
+  // Batch 8 starters (Stories 407-464)
   "Pahang": 8,
 
-  // Batch 9 starters (Stories 385-432)
+  // Batch 9 starters (Stories 465-522)
   "Penang": 9,
 
-  // Batch 10 starters (Stories 433-480)
+  // Batch 10 starters (Stories 523-580)
   "Perak": 10,
 
-  // Batch 11 starters (Stories 481-528)
+  // Batch 11 starters (Stories 581-638)
   "Perlis": 11,
 
-  // Batch 12 starters (Stories 529-576)
+  // Batch 12 starters (Stories 639-696)
   "Putrajaya": 12,
 
-  // Batch 13 starters (Stories 577-624)
+  // Batch 13 starters (Stories 697-754)
   "Sabah": 13,
 
-  // Batch 14 starters (Stories 625-672)
+  // Batch 14 starters (Stories 755-812)
   "Sarawak": 14,
 
-  // Batch 15 starters (Stories 673-720)
+  // Batch 15 starters (Stories 813-870)
   "Selangor": 15,
 
-  // Batch 16 starters (Stories 721-773)
+  // Batch 16 starters (Stories 871-928)
   "Terengganu": 16,
 }
 
@@ -83,22 +83,22 @@ export function getStartingBatch(region: string | null | undefined): number {
  * Get the story ID ranges for each batch
  */
 export const BATCH_RANGES: Record<number, { start: number; end: number; count: number }> = {
-  1: { start: 1, end: 48, count: 48 },
-  2: { start: 49, end: 96, count: 48 },
-  3: { start: 97, end: 144, count: 48 },
-  4: { start: 145, end: 192, count: 48 },
-  5: { start: 193, end: 240, count: 48 },
-  6: { start: 241, end: 288, count: 48 },
-  7: { start: 289, end: 336, count: 48 },
-  8: { start: 337, end: 384, count: 48 },
-  9: { start: 385, end: 432, count: 48 },
-  10: { start: 433, end: 480, count: 48 },
-  11: { start: 481, end: 528, count: 48 },
-  12: { start: 529, end: 576, count: 48 },
-  13: { start: 577, end: 624, count: 48 },
-  14: { start: 625, end: 672, count: 48 },
-  15: { start: 673, end: 720, count: 48 },
-  16: { start: 721, end: 773, count: 53 },
+  1: { start: 1, end: 58, count: 58 },
+  2: { start: 59, end: 116, count: 58 },
+  3: { start: 117, end: 174, count: 58 },
+  4: { start: 175, end: 232, count: 58 },
+  5: { start: 233, end: 290, count: 58 },
+  6: { start: 291, end: 348, count: 58 },
+  7: { start: 349, end: 406, count: 58 },
+  8: { start: 407, end: 464, count: 58 },
+  9: { start: 465, end: 522, count: 58 },
+  10: { start: 523, end: 580, count: 58 },
+  11: { start: 581, end: 638, count: 58 },
+  12: { start: 639, end: 696, count: 58 },
+  13: { start: 697, end: 754, count: 58 },
+  14: { start: 755, end: 812, count: 58 },
+  15: { start: 813, end: 870, count: 58 },
+  16: { start: 871, end: 928, count: 58 },
 }
 
 const TOTAL_BATCHES = Object.keys(BATCH_RANGES).length

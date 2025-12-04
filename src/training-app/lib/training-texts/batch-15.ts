@@ -1,242 +1,292 @@
 export const batch15Stories = [
   {
-    id: 673,
-    title: "Cerita 7 — PRK Kampus (Bahagian 2)",
-    content: "Hari mengundi berlangsung teratur; pusat mengundi dilengkapi pengimbas kad.Keputusan diumum, calon menang berjanji laporan 100 hari: KPI, projek kecil, dankonsultasi berkala."
+    id: 813,
+    title: "Cerita 246 (Bahagian 1)",
+    content: "Di muzium sains, pameran robotik mengajar kanak-kanak menggerakkan lengan mekanikal dan memprogram rute."
   },
   {
-    id: 674,
-    title: "Cerita 7 — PRK Kampus (Bahagian 3)",
-    content: "“Demokrasi bermula di sini,” kata rektor, “dengan warganegara muda yang beranibertanya dan bersedia menanggung akibat keputusan bersama.”"
+    id: 814,
+    title: "Cerita 246 (Bahagian 2)",
+    content: "Kurator menerangkan Revolusi Industri 4.0: automasi, IoT, dan analitik."
   },
   {
-    id: 675,
-    title: "Cerita 8 — Koperasi Tani (Bahagian 1)",
-    content: "Di bengkel koperasi tani, nelayan dan petani belajar pemasaran digital. Merekamempelajari platform e-dagang, foto produk, dan penulisan kapsyen. FAMA, RISDA, danMARDI berkongsi geran, standard, dan logistik."
+    id: 815,
+    title: "Cerita 246 (Bahagian 3)",
+    content: "Kanak-kanak melihat model hidro dan suria; grafik menjelaskan jejak karbon dan kelestarian."
   },
   {
-    id: 676,
-    title: "Cerita 8 — Koperasi Tani (Bahagian 2)",
-    content: "Seorang pakcik menunjukkan cendol istimewa; seorang makcik mempromosisambal belacan. Latihan mengupas kos, margin, serta inventori."
+    id: 816,
+    title: "Cerita 246 (Bahagian 4)",
+    content: "Mereka berjanji mengurangkan plastik sekali guna; kurator menyebut keingintahuan ialah bahan bakar inovasi."
   },
   {
-    id: 677,
-    title: "Cerita 8 — Koperasi Tani (Bahagian 3)",
-    content: "Setelah sebulan, jualan meningkat; ulasan bintang membawa pelanggan setia.“Kekuatan kita ialah kolaborasi,” kata fasilitator, “dan data—setiap keputusan dimaklumkanoleh fakta.” Mereka pulang dengan semangat baharu, melihat pasaran bukan lagi jauh,tetapi di hujung telefon."
+    id: 817,
+    title: "Cerita 247 (Bahagian 1)",
+    content: "Dalam pilihan raya kampus, calon MPP membentang manifesto: ketelusan bajet, kesejahteraan mental, dan ruang belajar."
   },
   {
-    id: 678,
-    title: "Cerita 9 — Tapak Pembinaan (Bahagian 1)",
-    content: "Syarikat pembinaan mengadakan taklimat keselamatan: PPE, tali pinggang, danprosedur kecemasan. Jurutera awam menerangkan pelan struktur, sistem saliran, dan auditkualiti. Penjaga stor menyemak bahan binaan: simen, keluli, kaca, jubin."
+    id: 818,
+    title: "Cerita 247 (Bahagian 2)",
+    content: "Debat disiarkan dalam talian; pelajar menganalisis isu dan rekod calon."
   },
   {
-    id: 679,
-    title: "Cerita 9 — Tapak Pembinaan (Bahagian 2)",
-    content: "Pengurus tapak mengemas kini perisian jadual, mengesan kelewatan dan risiko.Di lawatan majlis perbandaran, pelan bangunan, lesen, serta pematuhan diperiksa.Kontraktor menunjukkan penambahbaikan: pengurangan sisa, kitar semula, dan kawalanhabuk."
+    id: 819,
+    title: "Cerita 247 (Bahagian 3)",
+    content: "Pengundian teratur dengan pengimbas kad; calon menang janji laporan 100 hari."
   },
   {
-    id: 680,
-    title: "Cerita 9 — Tapak Pembinaan (Bahagian 3)",
-    content: "Projek siap; penyerahan kunci berlangsung dengan sijil kelulusan. Pendudukmasuk rumah baharu—bukti bahawa disiplin proses menghasilkan ruang hidup yangselamat."
+    id: 820,
+    title: "Cerita 247 (Bahagian 4)",
+    content: "Rektor berkata demokrasi bermula dengan warganegara muda yang berani bertanya dan bertanggungjawab."
   },
   {
-    id: 681,
-    title: "Cerita 10 — Sarang Startup (Bahagian 1)",
-    content: "Ruang kerja bersama menjadi sarang startup: fintech, edtech, govtech. Penasihatstrategik mengajar model perniagaan, unit ekonomi, dan jalur pertumbuhan. Pasukanproduk mengutamakan masalah sebenar, bukan fesyen teknologi."
+    id: 821,
+    title: "Cerita 248 (Bahagian 1)",
+    content: "Nelayan dan petani belajar pemasaran digital, e-dagang, foto produk, dan kapsyen."
   },
   {
-    id: 682,
-    title: "Cerita 10 — Sarang Startup (Bahagian 2)",
-    content: "Mereka menguji MVP, membaca maklum balas, dan mengulang cepat. Danapermulaan datang dengan syarat tadbir urus. “Jangan kejar vanity metrics,” pesan mentor,“kejar kepuasan pelanggan.”"
+    id: 822,
+    title: "Cerita 248 (Bahagian 2)",
+    content: "FAMA, RISDA, dan MARDI berkongsi geran, standard, dan logistik; jualan meningkat selepas latihan."
   },
   {
-    id: 683,
-    title: "Cerita 10 — Sarang Startup (Bahagian 3)",
-    content: "Pada demo day, pembentang menunjukkan traction, kos pemerolehan, danpulangan seumur hidup. Pelabur bertanya tentang risiko peraturan; pengasas menjawabdengan pelan pematuhan. Tepukan bergema—bukan kerana janji kosong, tetapi keranakejujuran data."
+    id: 823,
+    title: "Cerita 248 (Bahagian 3)",
+    content: "Fasilitator menekankan kolaborasi dan data-setiap keputusan dimaklumkan oleh fakta."
   },
   {
-    id: 684,
-    title: "Cerita 1 — Teater & Kebebasan Bersuara (Bahagian 1)",
-    content: "Di balai seni, pementasan teater tentang kebebasan bersuara menggabungkanmuzik, sajak, dan drama dokumentari. Penulis naskhah merujuk undang-undangkomunikasi, etika kewartawanan, dan kes mahkamah."
+    id: 824,
+    title: "Cerita 249 (Bahagian 1)",
+    content: "Taklimat keselamatan tapak pembinaan menekankan PPE, tali pinggang, dan prosedur kecemasan."
   },
   {
-    id: 685,
-    title: "Cerita 1 — Teater & Kebebasan Bersuara (Bahagian 2)",
-    content: "Penonton mengisi borang soal selidik; ulasan menyarankan bahagian forumdiperpanjang. Media menerbitkan rencana; pengulas memuji keberanian, menegurbeberapa kelemahan teknikal."
+    id: 825,
+    title: "Cerita 249 (Bahagian 2)",
+    content: "Jurutera menerangkan sistem saliran dan audit kualiti; bahan binaan disemak rapi."
   },
   {
-    id: 686,
-    title: "Cerita 1 — Teater & Kebebasan Bersuara (Bahagian 3)",
-    content: "Kumpulan produksi mengadakan sesi “sesi soal jawab” selepas persembahan,menjelaskan sumber dan metod. “Seni membantu masyarakat memahami kompleksiti,” katapengarah. Di pintu keluar, risalah literasi media diagih; harapan mereka sederhana—lebihramai menjadi pembaca yang teliti, pendengar yang adil."
+    id: 826,
+    title: "Cerita 249 (Bahagian 3)",
+    content: "Pematuhan diperiksa pihak berkuasa; kontraktor menunjukkan kawalan habuk dan pengurangan sisa."
   },
   {
-    id: 687,
-    title: "Cerita 2 — Sukan Komuniti (Bahagian 1)",
-    content: "Program kesukanan komuniti memperkenalkan bola jaring, badminton, danlarian. Jurulatih menekankan kecergasan, ketahanan, dan disiplin. Pasukan merancangjadual latihan, nutrisi, dan rehat."
+    id: 827,
+    title: "Cerita 249 (Bahagian 4)",
+    content: "Projek siap dengan sijil kelulusan; penduduk masuk rumah baharu sebagai bukti disiplin proses."
   },
   {
-    id: 688,
-    title: "Cerita 2 — Sukan Komuniti (Bahagian 2)",
-    content: "Skor awal mengecewakan, namun semangat berpasukan tumbuh.Penonton—jiran, rakan, keluarga—memberi sorakan. Jawatankuasa menganjurkankejohanan kecil; hadiah tidak mahal, tetapi maruah tinggi."
+    id: 828,
+    title: "Cerita 250 (Bahagian 1)",
+    content: "Ruang kerja bersama menjadi sarang startup fintech, edtech dan govtech."
   },
   {
-    id: 689,
-    title: "Cerita 2 — Sukan Komuniti (Bahagian 3)",
-    content: "Seorang pemain menulis di profil media sosial: “Kami belajar kalah denganbermaruah dan menang tanpa lupa asal.” Di penutup, pengadil menyampaikan nasihat:sukan adalah sekolah karakter, tempat kita belajar mengurus emosi sambil mengejarkejayaan."
+    id: 829,
+    title: "Cerita 250 (Bahagian 2)",
+    content: "Pasukan produk menguji MVP, membaca maklum balas, dan mengulang cepat."
   },
   {
-    id: 690,
-    title: "Cerita 3 — Kelas Bahasa (Bahagian 1)",
-    content: "Di kelas bahasa, cikgu mengajar perbendaharaan kata harian—makanan,pengangkutan, pejabat. Pelajar menulis cerpen pendek, menyelit istilah teknologi: e-mel,kata laluan, privasi, penipuan dalam talian. Mereka melakar peta bandar, menyebut jalan,stesen, dan destinasi."
+    id: 830,
+    title: "Cerita 250 (Bahagian 3)",
+    content: "Mentor menasihat supaya fokus pada kepuasan pelanggan, bukan vanity metrics."
   },
   {
-    id: 691,
-    title: "Cerita 3 — Kelas Bahasa (Bahagian 2)",
-    content: "Latihan dialog di kaunter tiket melatih sopan santun. Cikgu menyemaktatabahasa, menasihati ringkas: “Kejelasan diutamakan.” Pada akhir semester, ujian lisandijalankan; beberapa pelajar gugup, namun rakan menyokong."
+    id: 831,
+    title: "Cerita 250 (Bahagian 4)",
+    content: "Pada demo day, risiko peraturan dijawab dengan pelan pematuhan; tepukan bergema kerana kejujuran data."
   },
   {
-    id: 692,
-    title: "Cerita 3 — Kelas Bahasa (Bahagian 3)",
-    content: "Keputusan memuaskan; kelas bergambar kenangan. “Bahasa ialah jambatan,”kata cikgu, “yang menghubungkan manusia, budaya, dan masa depan pekerjaan.”"
+    id: 832,
+    title: "Cerita 251 (Bahagian 1)",
+    content: "Pementasan teater menggabungkan muzik, sajak, dan drama dokumentari tentang kebebasan bersuara."
   },
   {
-    id: 693,
-    title: "Cerita 4 — Kualiti Hospital (Bahagian 1)",
-    content: "Sebuah hospital daerah menubuhkan pasukan kualiti. Mereka menilai prosespendaftaran, triage, dan farmasi. Masa menunggu dikurang melalui pengagihan tugas dansistem nombor pintar."
+    id: 833,
+    title: "Cerita 251 (Bahagian 2)",
+    content: "Penonton mengisi soal selidik; media menerbitkan rencana dan ulasan kritikal."
   },
   {
-    id: 694,
-    title: "Cerita 4 — Kualiti Hospital (Bahagian 2)",
-    content: "Doktor membincang garis panduan klinikal; jururawat menstandardkan serahanbertulis. Pesakit mengisi borang maklum balas; aduan ditangani secara telus. Keselamatandata kesihatan diperkukuh dengan penyulitan dan kawalan akses."
+    id: 834,
+    title: "Cerita 251 (Bahagian 3)",
+    content: "Sesi soal jawab menjelaskan sumber dan metod; risalah literasi media diagihkan."
   },
   {
-    id: 695,
-    title: "Cerita 4 — Kualiti Hospital (Bahagian 3)",
-    content: "Dalam audit, skor meningkat; anugerah perkhidmatan diberi. Pengarah hospitalmenegaskan kemanusiaan: “Statistik penting, namun empati yang menyembuhkan.” Poster“senyum, sapa, salam” dilekatkan—kecil tetapi bererti dalam hektiknya rawatan harian."
+    id: 835,
+    title: "Cerita 252 (Bahagian 1)",
+    content: "Program kesukanan komuniti memperkenalkan bola jaring, badminton, dan larian."
   },
   {
-    id: 696,
-    title: "Cerita 5 — Biodiversiti Borneo (Bahagian 1)",
-    content: "Di kampus Borneo, penyelidik mengkaji biodiversiti hutan, memantau hidupanmarin, dan menilai terumbu karang. Mereka bekerjasama dengan taman hidupan liar,komuniti nelayan, dan sekolah."
+    id: 836,
+    title: "Cerita 252 (Bahagian 2)",
+    content: "Walau skor awal mengecewakan, semangat berpasukan meningkat dan kejohanan kecil dianjurkan."
   },
   {
-    id: 697,
-    title: "Cerita 5 — Biodiversiti Borneo (Bahagian 2)",
-    content: "Data dikongsi terbuka; pelajar menulis rencana popular sains. Kempenpendidikan hijau menemui kanak-kanak: permainan kitar semula, komik karbon, dan lawatansungai. Laporan cadangan menekankan konservasi, ekonomi sirkular, serta insentif hijau."
+    id: 837,
+    title: "Cerita 252 (Bahagian 3)",
+    content: "Pengadil menegaskan sukan ialah sekolah karakter-belajar mengurus emosi sambil mengejar kejayaan."
   },
   {
-    id: 698,
-    title: "Cerita 5 — Biodiversiti Borneo (Bahagian 3)",
-    content: "Di majlis pelancaran, wakil kerajaan berjanji dana dan standard pensijilan.“Kelestarian,” ucap ketua projek, “bukan slogan—ia disiplin harian yang menuntutkeberanian menghadapi kompromi sukar.”"
+    id: 838,
+    title: "Cerita 253 (Bahagian 1)",
+    content: "Cikgu mengajar perbendaharaan kata harian dan pelajar menulis cerpen dengan istilah teknologi."
   },
   {
-    id: 699,
-    title: "Cerita 6 — Firma Undang-Undang Teknologi (Bahagian 1)",
-    content: "Sebuah firma undang-undang muda mengkhusus data, harta intelek, danteknologi kewangan. Peguam menyemak kontrak, paten, serta tanda dagangan. Klienstartup memerlukan polisi privasi dan terma perkhidmatan."
+    id: 839,
+    title: "Cerita 253 (Bahagian 2)",
+    content: "Latihan dialog di kaunter tiket melatih sopan santun; tatabahasa disemak."
   },
   {
-    id: 700,
-    title: "Cerita 6 — Firma Undang-Undang Teknologi (Bahagian 2)",
-    content: "Firma menerangkan PDPA, penguatkuasaan, dan risiko litigasi. Di mahkamah,mereka berhujah dengan bukti dokumentari dan keterangan saksi. Selepas keputusan, firmamenulis ulasan, mengajar komuniti tentang hak pengguna."
+    id: 840,
+    title: "Cerita 253 (Bahagian 3)",
+    content: "Ujian lisan dijalankan; keputusan memuaskan dan cikgu menegaskan bahasa ialah jambatan."
   },
   {
-    id: 701,
-    title: "Cerita 6 — Firma Undang-Undang Teknologi (Bahagian 3)",
-    content: "“Akses kepada keadilan,” kata rakan kongsi, “bermula dengan bahasa yangterang.” Reputasi firma meningkat bukan kerana gimik, tetapi kerana integriti dan kerja telitiyang konsisten."
+    id: 841,
+    title: "Cerita 254 (Bahagian 1)",
+    content: "Hospital menilai proses pendaftaran, triage, dan farmasi untuk mengurangkan masa menunggu."
   },
   {
-    id: 702,
-    title: "Cerita 7 — Ladang Moden & Koperasi (Bahagian 1)",
-    content: "Di ladang moden, dron pertanian memantau tanaman padi. Sensor mengukurkelembapan; sistem pengairan automatik menjimatkan air. Baja organik dan kawalan biologimengurang racun."
+    id: 842,
+    title: "Cerita 254 (Bahagian 2)",
+    content: "Pesakit mengisi maklum balas; keselamatan data diperkukuh melalui penyulitan dan kawalan akses."
   },
   {
-    id: 703,
-    title: "Cerita 7 — Ladang Moden & Koperasi (Bahagian 2)",
-    content: "Koperasi petani berkongsi mesin, menawar harga input, dan menguruspemasaran hasil tani. Fasilitator mengajar akaun bank, e-dompet, dan pinjaman mikro. Jetinelayan berdekatan menjadi hab dagang kecil pada hujung minggu."
+    id: 843,
+    title: "Cerita 254 (Bahagian 3)",
+    content: "Audit menunjukkan peningkatan; pengarah menekankan empati sebagai inti penyembuhan."
   },
   {
-    id: 704,
-    title: "Cerita 7 — Ladang Moden & Koperasi (Bahagian 3)",
-    content: "“Ekonomi desa bukan ketinggalan,” kata ketua koperasi, “ia berubah bersamadata.” Laporan sukuan menunjukkan pendapatan naik, hutang berkurang, dan dana komunitibertambah untuk biasiswa pelajar."
+    id: 844,
+    title: "Cerita 255 (Bahagian 1)",
+    content: "Penyelidik di kampus Borneo mengkaji biodiversiti hutan dan hidupan marin."
   },
   {
-    id: 705,
-    title: "Cerita 8 — Studio Rakaman Komuniti (Bahagian 1)",
-    content: "Studio rakaman komuniti membuka ruang untuk muzik, podcast, dan kandunganpendidikan. Pengurus media sosial melatih pencipta tentang hak cipta, lesen, dan etika.Mereka mempelajari mikrofon, pengeditan, dan kapsyen boleh akses."
+    id: 845,
+    title: "Cerita 255 (Bahagian 2)",
+    content: "Kempen hijau mendidik kanak-kanak melalui permainan kitar semula dan lawatan sungai."
   },
   {
-    id: 706,
-    title: "Cerita 8 — Studio Rakaman Komuniti (Bahagian 2)",
-    content: "Topik hangat: kesihatan mental, pekerjaan, dan literasi digital. Data analitikmenunjukkan kadar tontonan stabil; kolaborasi silang menaikkan pengikut. Penaja kecilhadir, tetapi syarat telus."
+    id: 846,
+    title: "Cerita 255 (Bahagian 3)",
+    content: "Laporan konservasi mencadangkan ekonomi sirkular dan insentif hijau."
   },
   {
-    id: 707,
-    title: "Cerita 8 — Studio Rakaman Komuniti (Bahagian 3)",
-    content: "“Kandungan yang baik,” kata editor, “ialah gabungan cerita jujur dan kualititeknikal.” Pada anugerah tahunan, mereka tidak menang semua, namun jaringan yangdibina itulah trofi sebenar."
+    id: 847,
+    title: "Cerita 256 (Bahagian 1)",
+    content: "Firma undang-undang muda mengurus kontrak, paten, tanda dagangan, dan polisi privasi."
   },
   {
-    id: 708,
-    title: "Cerita 9 — Pelancongan Komuniti (Bahagian 1)",
-    content: "Pelancongan komuniti memperkenal homestay, warisan seni bina, dan makanantradisional. Pemandu pelancong bercerita tentang mercu tanda, muzium, dan tapakbersejarah. Pelawat belajar membuat laksa, menumbuk sambal, dan menyeduh teh tarik."
+    id: 848,
+    title: "Cerita 256 (Bahagian 2)",
+    content: "Kes dibawa ke mahkamah; firma menulis ulasan untuk mendidik komuniti tentang hak pengguna."
   },
   {
-    id: 709,
-    title: "Cerita 9 — Pelancongan Komuniti (Bahagian 2)",
-    content: "Aplikasi memudahkan tempahan; ulasan mengangkat reputasi kampung. Hasildibahagi adil; sebahagian untuk dana kebersihan dan lampu jalan. “Pelancongan lestari,”kata pengurus, “melindungi alam sambil memakmurkan rakyat.”"
+    id: 849,
+    title: "Cerita 256 (Bahagian 3)",
+    content: "Reputasi firma meningkat kerana integriti dan kerja teliti yang konsisten."
   },
   {
-    id: 710,
-    title: "Cerita 9 — Pelancongan Komuniti (Bahagian 3)",
-    content: "Di akhir lawatan, tetamu menulis kad ucapan, memuat naik gambar, dan berjanjikembali. Sebuah tempat kecil bertukar besar dalam memori ramai."
+    id: 850,
+    title: "Cerita 257 (Bahagian 1)",
+    content: "Ladang moden menggunakan dron, sensor kelembapan, dan pengairan automatik."
   },
   {
-    id: 711,
-    title: "Cerita 10 — Makmal Siber & Insiden (Bahagian 1)",
-    content: "Di makmal siber, pasukan respons memerangi perisian hasad. Merekamengaudit sistem, tampal kerentanan, dan melatih kakitangan tentang pautan palsu. Insidendilapor segera; log dianalisis."
+    id: 851,
+    title: "Cerita 257 (Bahagian 2)",
+    content: "Koperasi petani berkongsi mesin dan mempelajari e-dompet, pinjaman mikro dan pemasaran."
   },
   {
-    id: 712,
-    title: "Cerita 10 — Makmal Siber & Insiden (Bahagian 2)",
-    content: "Ketua keselamatan menulis kenyataan media jujur, menangkis spekulasi. Polisikata laluan, pengesahan dua faktor, dan sandaran diuji berkala. Kerjasama dengan agensinasional mempercepat siasatan."
+    id: 852,
+    title: "Cerita 257 (Bahagian 3)",
+    content: "Laporan sukuan menunjukkan pendapatan naik, hutang berkurang dan dana komuniti bertambah."
   },
   {
-    id: 713,
-    title: "Cerita 10 — Makmal Siber & Insiden (Bahagian 3)",
-    content: "“Tiada keselamatan mutlak,” katanya, “cuma pengurusan risiko matang.” Selepaskrisis, organisasi menerbitkan pelajaran teras dan pelan peningkatan. Kepercayaanpengguna pulih kerana ketelusan, bukan kerana menafikan hakikat ancaman."
+    id: 853,
+    title: "Cerita 258 (Bahagian 1)",
+    content: "Studio rakaman komuniti melatih pencipta tentang hak cipta, etika, mikrofon dan pengeditan."
   },
   {
-    id: 714,
-    title: "Cerita 1 — Meja Bantuan Daerah (Bahagian 1)",
-    content: "Di pejabat daerah, meja bantuan pelanggan diperkemas. Sistem tiket merekodaduan; SLA dipantau. Pegawai menyiapkan skrip panggilan dan panduan FAQ."
+    id: 854,
+    title: "Cerita 258 (Bahagian 2)",
+    content: "Analitik menunjukkan peningkatan pengikut; editor berkata kandungan baik ialah gabungan cerita jujur dan kualiti teknikal."
   },
   {
-    id: 715,
-    title: "Cerita 1 — Meja Bantuan Daerah (Bahagian 2)",
-    content: "Sidang media mingguan mengumumkan kemajuan—jalan dibaiki, lampudiperbaiki, longkang dibersih. Komuniti menghargai respons pantas; saluran aduan rasmimengurang rungutan di media sosial. Pengerusi majlis menekankan budaya perkhidmatan:senyum, jelas, bertanggungjawab."
+    id: 855,
+    title: "Cerita 258 (Bahagian 3)",
+    content: "Jaringan yang dibina menjadi trofi sebenar walaupun tidak menang semua anugerah."
   },
   {
-    id: 716,
-    title: "Cerita 1 — Meja Bantuan Daerah (Bahagian 3)",
-    content: "“Rakyat bukan beban,” katanya, “mereka tujuan.” Di papan kenyataan, indikatorprestasi dipamer—simbol kecil bahawa kerajaan tempatan juga boleh belajar, berubah, danmaju."
+    id: 856,
+    title: "Cerita 259 (Bahagian 1)",
+    content: "Pelancongan komuniti memperkenalkan homestay, warisan seni bina, dan makanan tradisional."
   },
   {
-    id: 717,
-    title: "Cerita 2 — Keusahawanan Wanita (Bahagian 1)",
-    content: "Kelas keusahawanan wanita mempertemu ibu muda, graduan, dan pekerjasambilan. Mereka belajar pelan pemasaran, jenama, dan foto produk. Modul literasikewangan menerangkan aliran tunai, harga, dan dividen. Mentor berkongsi kisah gagal danbangkit."
+    id: 857,
+    title: "Cerita 259 (Bahagian 2)",
+    content: "Aplikasi memudahkan tempahan; hasil dibahagi adil untuk dana kebersihan dan lampu jalan."
   },
   {
-    id: 718,
-    title: "Cerita 2 — Keusahawanan Wanita (Bahagian 2)",
-    content: "Peserta melancar perniagaan mikro—kuih, pakaian, penjagaan rumah—melaluimarketplace dan media sosial. Sokongan moral jadi bahan bakar; kumpulan WhatsAppmenjadi talian hayat. “Kami tidak mahu belas kasihan,” kata seorang peserta, “kami mahupeluang adil.”"
+    id: 858,
+    title: "Cerita 259 (Bahagian 3)",
+    content: "Pelancongan lestari memakmurkan rakyat sambil melindungi alam."
   },
   {
-    id: 719,
-    title: "Cerita 2 — Keusahawanan Wanita (Bahagian 3)",
-    content: "Selepas tiga bulan, puluhan akaun jualan aktif; beberapa mendapat penajaankecil."
+    id: 859,
+    title: "Cerita 260 (Bahagian 1)",
+    content: "Pasukan respons siber memerangi perisian hasad melalui audit sistem dan tampalan kerentanan."
   },
   {
-    id: 720,
-    title: "Cerita 3 — Kelas Sivik & Undi18 (Bahagian 1)",
-    content: "Dalam kelas sivik, guru membincang Undi18, daftar pemilih, dan tanggungjawabwarganegara. Pelajar meneliti manifest o parti, menyoal janji realistik. Mereka membandingdata, mengesan berita palsu, dan mempraktik semakan fakta."
+    id: 860,
+    title: "Cerita 260 (Bahagian 2)",
+    content: "Ketua keselamatan menulis kenyataan media jujur; polisi kata laluan dan sandaran diuji berkala."
+  },
+  {
+    id: 861,
+    title: "Cerita 260 (Bahagian 3)",
+    content: "Organisasi menerbitkan pelajaran teras selepas krisis; kepercayaan pulih melalui ketelusan."
+  },
+  {
+    id: 862,
+    title: "Cerita 261 (Bahagian 1)",
+    content: "Di pejabat daerah, meja bantuan pelanggan diperkemas. Sistem tiket merekod aduan; SLA dipantau. Pegawai menyiapkan skrip panggilan dan panduan FAQ."
+  },
+  {
+    id: 863,
+    title: "Cerita 261 (Bahagian 2)",
+    content: "Sidang media mingguan mengumumkan kemajuan-jalan dibaiki, lampu diperbaiki, longkang dibersih. Komuniti menghargai respons pantas; saluran aduan rasmi mengurang rungutan di media sosial."
+  },
+  {
+    id: 864,
+    title: "Cerita 261 (Bahagian 3)",
+    content: "Pengerusi majlis menekankan budaya perkhidmatan: senyum, jelas, bertanggungjawab. \"Rakyat bukan beban,\" katanya, \"mereka tujuan.\""
+  },
+  {
+    id: 865,
+    title: "Cerita 261 (Bahagian 4)",
+    content: "Di papan kenyataan, indikator prestasi dipamer-simbol kecil bahawa kerajaan tempatan juga boleh belajar, berubah, dan maju."
+  },
+  {
+    id: 866,
+    title: "Cerita 262 (Bahagian 1)",
+    content: "Kelas keusahawanan wanita mempertemu ibu muda, graduan, dan pekerja sambilan. Mereka belajar pelan pemasaran, jenama, dan foto produk."
+  },
+  {
+    id: 867,
+    title: "Cerita 262 (Bahagian 2)",
+    content: "Modul literasi kewangan menerangkan aliran tunai, harga, dan dividen. Mentor berkongsi kisah gagal dan bangkit."
+  },
+  {
+    id: 868,
+    title: "Cerita 262 (Bahagian 3)",
+    content: "Peserta melancar perniagaan mikro melalui marketplace dan media sosial. Sokongan moral jadi bahan bakar; kumpulan WhatsApp menjadi talian hayat."
+  },
+  {
+    id: 869,
+    title: "Cerita 262 (Bahagian 4)",
+    content: "\"Kami tidak mahu belas kasihan,\" kata seorang peserta, \"kami mahu peluang adil.\" Selepas tiga bulan, puluhan akaun jualan aktif; beberapa mendapat penajaan kecil."
+  },
+  {
+    id: 870,
+    title: "Cerita 263 (Bahagian 1)",
+    content: "Dalam kelas sivik, guru membincang Undi18, daftar pemilih, dan tanggungjawab warganegara. Pelajar meneliti manifesto parti, menyoal janji realistik."
   }
 ]

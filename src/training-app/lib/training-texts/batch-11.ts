@@ -1,242 +1,292 @@
 export const batch11Stories = [
   {
-    id: 481,
-    title: "Cerita 1 — Strategi Nasional & Nadi Ekonomi (Bahagian 4)",
-    content: "Keupayaan fiskal datang daripada perbelanjaan kerajaan, hasil cukai, danintervensi seperti subsidi tenaga, subsidi makanan, subsidi bahan api, bantuan rakyat, skimperlindungan sosial, STR, Bantuan Keluarga Malaysia, MyKasih, dan Dana MADANI."
+    id: 581,
+    title: "Cerita 171 (Bahagian 2) - Wacana Ilmiah di Kampus",
+    content: "Peserta membentang kertas kerja dengan abstrak, bibliografi dan rujukan akademik."
   },
   {
-    id: 482,
-    title: "Cerita 1 — Strategi Nasional & Nadi Ekonomi (Bahagian 5)",
-    content: "Dengan dasar inklusif, fokus pada pengagihan pendapatan, kesejahteraanrakyat, dan pembangunan sosial diperhalus melalui indikator sosial yang telus."
+    id: 582,
+    title: "Cerita 171 (Bahagian 3) - Wacana Ilmiah di Kampus",
+    content: "Penyelidik menyerahkan cadangan kajian sebelum memuktamadkan laporan akhir."
   },
   {
-    id: 483,
-    title: "Cerita 2 — Makanan, Kos Hidup & Pertanian Pintar (Bahagian 1)",
-    content: "Bagi menangani kemiskinan bandar dan kemiskinan luar bandar, kerajaanmenilai pendapatan isi rumah, kos sara hidup, harga barangan asas, serta daya rangkabekalan makanan demi keselamatan makanan."
+    id: 583,
+    title: "Cerita 172 (Bahagian 1) - Mobiliti & Penarafan",
+    content: "Pelajar mendaftar kursus melalui portal sambil menyesuaikan jadual kuliah."
   },
   {
-    id: 484,
-    title: "Cerita 2 — Makanan, Kos Hidup & Pertanian Pintar (Bahagian 2)",
-    content: "Dasar pertanian negara menggalakkan pengeluaran hasil tani berasaskanpertanian pintar, teknologi agro, automasi pertanian, dron pertanian, baja organik, pengairanmoden, dan sistem fertigasi."
+    id: 584,
+    title: "Cerita 172 (Bahagian 2) - Mobiliti & Penarafan",
+    content: "Pelajar antarabangsa memohon pertukaran, dibantu biasiswa mobiliti serta latihan luar negara."
   },
   {
-    id: 485,
-    title: "Cerita 2 — Makanan, Kos Hidup & Pertanian Pintar (Bahagian 3)",
-    content: "Hasil dikumpulkan di pusat pengumpulan hasil, diperjuangkan koperasipertanian, dan digiatkan pemasaran hasil tani oleh Lembaga Pemasaran PertanianPersekutuan (FAMA); sawah pula disokong Lembaga Kemajuan Pertanian Muda(MADA)dan Jabatan Pertanian."
+    id: 585,
+    title: "Cerita 172 (Bahagian 3) - Mobiliti & Penarafan",
+    content: "IPT mengekalkan ranking QS dan THE melalui kualiti pengajaran serta pengalaman pelajar."
   },
   {
-    id: 486,
-    title: "Cerita 3 — Agro-Makanan Halal & Ekonomi Syariah (Bahagian 1)",
-    content: "Rantaian industri agro-makanan diperkukuh melalui pemprosesan makanan danpemacuan eksport makanan halalberlandaskan pensijilan halal oleh Jakim untukmenembusi industri halal global."
+    id: 586,
+    title: "Cerita 173 (Bahagian 1) - EdTech & LMS",
+    content: "Pensyarah menggunakan teknologi pendidikan untuk e-pembelajaran dan pembelajaran hibrid."
   },
   {
-    id: 487,
-    title: "Cerita 3 — Agro-Makanan Halal & Ekonomi Syariah (Bahagian 2)",
-    content: "Infrastruktur seperti pelabuhan halal dan logistik halal menambahkebolehjejakkan."
+    id: 587,
+    title: "Cerita 173 (Bahagian 2) - EdTech & LMS",
+    content: "LMS seperti Moodle, Google Classroom dan Teams menyokong rakaman kuliah serta bahan digital."
   },
   {
-    id: 488,
-    title: "Cerita 3 — Agro-Makanan Halal & Ekonomi Syariah (Bahagian 3)",
-    content: "Dalam ekonomi Islam, perniagaan memanfaatkan kewangan Islam, perbankanpatuh syariah, pelaburan Islam, perlindungan takaful, serta instrumen sosial wakaf danzakat."
+    id: 588,
+    title: "Cerita 173 (Bahagian 3) - EdTech & LMS",
+    content: "Gamifikasi, microlearning dan MOOC memperkaya pembelajaran sepanjang hayat."
   },
   {
-    id: 489,
-    title: "Cerita 4 — Institusi Islam & Pemberdayaan Ummah (Bahagian 1)",
-    content: "Peranan institusi Islam seperti Majlis Agama Islam Negeri, Jabatan Mufti, MajlisFatwa Kebangsaan, dan mufti negeri memastikan hal ehwal pendidikan Islam di sekolahagama, universiti Islam seperti UIAM, serta pengajian syariah dan fiqh kontemporariberpandu fatwa semasa."
+    id: 589,
+    title: "Cerita 174 (Bahagian 1) - Kecekapan Abad ke-21",
+    content: "Kurikulum menekankan literasi digital, kemahiran teknologi dan komunikasi."
   },
   {
-    id: 490,
-    title: "Cerita 4 — Institusi Islam & Pemberdayaan Ummah (Bahagian 2)",
-    content: "Prinsip urus tadbir Islam, pembangunan ummah, dan integriti pentadbiran Islamdizahirkan melalui pentadbiran zakat, pengurusan wakaf, pengagihan zakat, dan bantuanasnaf berasaskan keperluan."
+    id: 590,
+    title: "Cerita 174 (Bahagian 2) - Kecekapan Abad ke-21",
+    content: "Aktiviti studio mengasah pemikiran kritikal, penyelesaian masalah, kreativiti dan inovasi."
   },
   {
-    id: 491,
-    title: "Cerita 5 — Inklusiviti Sosial & Perlindungan Rentan (Bahagian 1)",
-    content: "Agensi seperti Jabatan Kebajikan Masyarakat (JKM) memacu kebajikanmasyarakat, termasuk perlindungan kanak-kanak, hak wanita, kesamarataan gender,pemerkasaan wanita oleh Kementerian Pembangunan Wanita, bantuan ibu tunggal,perlindungan OKU, hak OKU, dan kesedaran inklusif."
+    id: 591,
+    title: "Cerita 174 (Bahagian 3) - Kecekapan Abad ke-21",
+    content: "Bengkel bimbingan memupuk kecerdasan emosi, integriti, profesionalisme dan keseimbangan hidup."
   },
   {
-    id: 492,
-    title: "Cerita 5 — Inklusiviti Sosial & Perlindungan Rentan (Bahagian 2)",
-    content: "Inisiatif peluang pekerjaan setaradan pendidikan inklusif diperkasa dalammasyarakat prihatin yang mengamalkan tanggungjawab sosial melalui program komuniti,gotong-royong, dan program kebersihan."
+    id: 592,
+    title: "Cerita 175 (Bahagian 1) - Lintasan ke Dunia Kerja",
+    content: "Pusat kerjaya menawarkan bimbingan kerjaya dan penempatan latihan industri."
   },
   {
-    id: 493,
-    title: "Cerita 6 — Sistem Kesihatan Menyeluruh (Bahagian 1)",
-    content: "Ekosistem kesihatan merangkumi kempen kesihatan, pemeriksaan kesihatanpercuma, promosi kesihatan, dan gaya hidup gaya hidup sihat—dengan senaman hariandan makanan seimbang—di bawah payung penjagaan kesihatan."
+    id: 593,
+    title: "Cerita 175 (Bahagian 2) - Lintasan ke Dunia Kerja",
+    content: "Program mentor menyokong latihan profesional, kursus pendek dan akreditasi kemahiran."
   },
   {
-    id: 494,
-    title: "Cerita 6 — Sistem Kesihatan Menyeluruh (Bahagian 2)",
-    content: "Perkhidmatan merentasi hospital kerajaan, hospital swasta, klinik kesihatan,klinik komuniti, diselaras Kementerian Kesihatan (KKM)."
+    id: 594,
+    title: "Cerita 176 (Bahagian 1) - Jambatan Industri-Akademia",
+    content: "Industri-akademia bekerjasama dalam penyelidikan bersama dan pembangunan teknologi."
   },
   {
-    id: 495,
-    title: "Cerita 6 — Sistem Kesihatan Menyeluruh (Bahagian 3)",
-    content: "Rawatan merangkumi rawatan pesakit luar, rawatan pesakit dalam, pembedahan,farmasi, bekalan ubat, vaksinasi, imunisasi, serta rawatan kecemasan yang digerakkanambulans, paramedik, doktor perubatan, jururawat, pegawai farmasi, dan pegawaiperubatan."
+    id: 595,
+    title: "Cerita 176 (Bahagian 2) - Jambatan Industri-Akademia",
+    content: "Inovasi dipercepat melalui inkubator, hab digital dan pusat pengkomersialan."
   },
   {
-    id: 496,
-    title: "Cerita 6 — Sistem Kesihatan Menyeluruh (Bahagian 4)",
-    content: "Sokongan akademik hadir di hospital universiti dan klinik pergigian."
+    id: 596,
+    title: "Cerita 177 (Bahagian 1) - Rantaian Pemula & Dana",
+    content: "Gelombang startup Malaysia disokong VC, pembiayaan awal dan angel investor."
   },
   {
-    id: 497,
-    title: "Cerita 6 — Sistem Kesihatan Menyeluruh (Bahagian 5)",
-    content: "Di peringkat populasi, kesihatan awam, promosi kesihatan awam, kempen dermadarah, pencegahan penyakit, dan kawalan wabak berjalan dalam sistem kesihatannasionalberpandukan pelan kesihatan negara."
+    id: 597,
+    title: "Cerita 177 (Bahagian 2) - Rantaian Pemula & Dana",
+    content: "Usahawan memohon geran permulaan melalui MyStartup, Cradle Fund, MOSTI, MRANTI, MDEC dan MaGIC."
   },
   {
-    id: 498,
-    title: "Cerita 7 — Kesihatan Digital & Penyelidikan (Bahagian 1)",
-    content: "Transformasi digital meluas melalui perkhidmatan kesihatan digital, telekesihatan,penggunaan MySejahtera dan aplikasi kesihatan, serta integrasi rekod perubatanelektronik."
+    id: 598,
+    title: "Cerita 177 (Bahagian 3) - Rantaian Pemula & Dana",
+    content: "Dana MADANI membantu syarikat pemula menembusi pasaran serantau."
   },
   {
-    id: 499,
-    title: "Cerita 7 — Kesihatan Digital & Penyelidikan (Bahagian 2)",
-    content: "Agenda penyelidikan perubatan memacu vaksin tempatan dengan sokonganInstitut Penyelidikan Perubatan (IMR), memperkukuh keupayaan sains kesihatan negara."
+    id: 599,
+    title: "Cerita 178 (Bahagian 1) - Dasar, AI & Ekonomi Digital",
+    content: "Malaysia menyelaras Dasar STI Negara, Dasar Ekonomi Digital dan Pelan Tindakan AI Nasional."
   },
   {
-    id: 500,
-    title: "Cerita 8 — Kesejahteraan Mental & Pemulihan Dadah (Bahagian 1)",
-    content: "Masyarakat menormalisasikan kesihatan mental dan kesejahteraan psikologimelalui program kaunseling, perkhidmatan sokongan di pusat kaunseling komuniti, hotlinebantuan, dan intervensi sokongan emosi."
+    id: 600,
+    title: "Cerita 178 (Bahagian 2) - Dasar, AI & Ekonomi Digital",
+    content: "Rangka Kerja Etika AI menegaskan keselamatan, tadbir urus dan pembangunan bertanggungjawab."
   },
   {
-    id: 501,
-    title: "Cerita 8 — Kesejahteraan Mental & Pemulihan Dadah (Bahagian 2)",
-    content: "Program kesedaran mental dan kempen anti stigma disertai pendidikan psikologi,rawatan terapi, terapi kaunseling, terapi keluarga, dan terapi kumpulan."
+    id: 601,
+    title: "Cerita 178 (Bahagian 3) - Dasar, AI & Ekonomi Digital",
+    content: "PKS memanfaatkan transformasi digital, data raya, automasi industri serta teknologi seperti 5G, IoT dan rantaian blok."
   },
   {
-    id: 502,
-    title: "Cerita 8 — Kesejahteraan Mental & Pemulihan Dadah (Bahagian 3)",
-    content: "Bagi penagihan, pusat rehabilitasi dan pemulihan penagihan oleh AgensiAntidadah Kebangsaan (AADK) menjalankan program pemulihan, membina komuniti bebasdadah, serta pendidikan pencegahan dadah."
+    id: 602,
+    title: "Cerita 178 (Bahagian 4) - Dasar, AI & Ekonomi Digital",
+    content: "Keselamatan siber, data terbuka dan perlindungan data membentuk tadbir urus digital negara."
   },
   {
-    id: 503,
-    title: "Cerita 8 — Kesejahteraan Mental & Pemulihan Dadah (Bahagian 4)",
-    content: "Belia digiatkan melalui program belia sihat, aktiviti sukan komuniti, kempen antimerokok, dan amalan gaya hidup aktif."
+    id: 603,
+    title: "Cerita 179 (Bahagian 1) - Bakat Digital & Kolaborasi",
+    content: "Negara mempercepat pembangunan tenaga kerja digital melalui latihan digital dan MyDigitalWorkforce."
   },
   {
-    id: 504,
-    title: "Cerita 9 — Sekolah Sihat & Persekitaran Bersih (Bahagian 1)",
-    content: "Melalui program kesihatan sekolah, murid didedahkan kepada kesedaran nutrisi,makanan sihat, dan pengurusan kantin sihat."
+    id: 604,
+    title: "Cerita 179 (Bahagian 2) - Bakat Digital & Kolaborasi",
+    content: "Upskilling, reskilling dan literasi AI menyokong inisiatif AI Nasional."
   },
   {
-    id: 505,
-    title: "Cerita 9 — Sekolah Sihat & Persekitaran Bersih (Bahagian 2)",
-    content: "Akses air minuman bersih, sanitasi awam, dan amalan kebersihan diri diperluas."
+    id: 605,
+    title: "Cerita 179 (Bahagian 3) - Bakat Digital & Kolaborasi",
+    content: "Komuniti AI menyatukan penyelidik, syarikat teknologi dan makmal R&D dalam ekosistem inovatif."
   },
   {
-    id: 506,
-    title: "Cerita 9 — Sekolah Sihat & Persekitaran Bersih (Bahagian 3)",
-    content: "Bandar meningkatkan pengurusan sisa, memupuk amalan hijau, mengembangtenaga lestari, serta menggerakkan kempen alam sekitar yang selari dengan pelan tindakanhijau, pendidikan kelestarian, dan pelaburan pembangunan hijau."
+    id: 606,
+    title: "Cerita 180 (Bahagian 1) - Kreatif & Warisan",
+    content: "Ekonomi kreatif memacu animasi, permainan, e-sukan, filem, muzik tempatan dan seni persembahan."
   },
   {
-    id: 507,
-    title: "Cerita 10 — Jambatan Ekonomi–Sosial yang Menyeluruh (Bahagian 1)",
-    content: "Gabungan dasar—daripada inovasi industri dan rantaian halal, hinggalahjaringan sosial, kesihatan, dan kelestarian—mewujudkan ekosistem ekonomi berasaskaninovasi yang tangkas."
+    id: 607,
+    title: "Cerita 180 (Bahagian 2) - Kreatif & Warisan",
+    content: "Warisan budaya dipaparkan melalui pakaian tradisional, makanan tradisional, batik, songket, anyaman, ukiran dan tembikar."
   },
   {
-    id: 508,
-    title: "Cerita 10 — Jambatan Ekonomi–Sosial yang Menyeluruh (Bahagian 2)",
-    content: "Dengan pemantauan laporan prestasi ekonomiserta penanda sosial, kerajaanmenala semula instrumen fiskal, memasak pertumbuhan mampan yang mengurangkanjurang wilayah, mempertahankan keselamatan makanan, dan memperkasa komuniti."
+    id: 608,
+    title: "Cerita 180 (Bahagian 3) - Kreatif & Warisan",
+    content: "Pameran seni visual dan festival seni bulanan memupuk identiti nasional yang kreatif dan lestari."
   },
   {
-    id: 509,
-    title: "Cerita 10 — Jambatan Ekonomi–Sosial yang Menyeluruh (Bahagian 3)",
-    content: "Hasilnya, rakyat menikmati kesejahteraan rakyat yang lebih seimbang, berdayatahan, dan inklusif."
+    id: 609,
+    title: "Cerita 181 (Bahagian 1) - Strategi Nasional & Nadi Ekonomi",
+    content: "Negara memacu ekonomi berasaskan inovasi: ekonomi kreatif, hijau, biru dan sirkular untuk pertumbuhan mampan."
   },
   {
-    id: 510,
-    title: "Cerita 1 — Tenaga Bersih & Bangunan Mampan (Bahagian 1)",
-    content: "Kota itu memilih tenaga boleh diperbaharui sebagai nadi, memadukan tenagasolar, tenaga angin, tenaga hidro, dan tenaga biojisim dalam rangka dasar tenaga bersih."
+    id: 610,
+    title: "Cerita 181 (Bahagian 2) - Strategi Nasional & Nadi Ekonomi",
+    content: "Pelan Induk Perindustrian, Rancangan Malaysia dan RMK-12 diselaras Kementerian Ekonomi dan EPU."
   },
   {
-    id: 511,
-    title: "Cerita 1 — Tenaga Bersih & Bangunan Mampan (Bahagian 2)",
-    content: "Menara pejabat baharu berstatus bangunan hijau dengan reka bentuk mampanmemakai teknologi hijau, sistem pengurusan tenaga, serta amalan kecekapan tenaga danpenjimatan tenaga."
+    id: 611,
+    title: "Cerita 181 (Bahagian 3) - Strategi Nasional & Nadi Ekonomi",
+    content: "Prestasi ekonomi dipantau melalui pertumbuhan KDNK, pengangguran, inflasi dan indeks harga pengguna."
   },
   {
-    id: 512,
-    title: "Cerita 1 — Tenaga Bersih & Bangunan Mampan (Bahagian 3)",
-    content: "Syarikat menyempurnakan audit tenaga, mengeluarkan laporan karbon,menurunkan jejak karbon, dan menyasar neutraliti karbon."
+    id: 612,
+    title: "Cerita 181 (Bahagian 4) - Strategi Nasional & Nadi Ekonomi",
+    content: "Imbangan sektor luar dinilai melalui eksport, import, risiko defisit perdagangan dan lebihan akaun semasa."
   },
   {
-    id: 513,
-    title: "Cerita 1 — Tenaga Bersih & Bangunan Mampan (Bahagian 4)",
-    content: "Hal ini menyokong pelan adaptasi iklim dan mitigasi iklim ketika perubahan iklimserta kesan rumah hijau menaikkan suhu global."
+    id: 613,
+    title: "Cerita 181 (Bahagian 5) - Strategi Nasional & Nadi Ekonomi",
+    content: "Keupayaan fiskal datang daripada hasil cukai dan subsidi seperti tenaga, makanan, bahan api, STR, BKM, MyKasih dan Dana MADANI."
   },
   {
-    id: 514,
-    title: "Cerita 2 — Risiko Iklim & Amaran Awal (Bahagian 1)",
-    content: "Daerah pesisir sering diuji bencana alam seperti banjir, tanah runtuh, kebakaranhutan, taufan, gempa bumi, dan tsunami."
+    id: 614,
+    title: "Cerita 181 (Bahagian 6) - Strategi Nasional & Nadi Ekonomi",
+    content: "Fokus kerajaan ialah pengagihan pendapatan, kesejahteraan rakyat dan indikator sosial yang telus."
   },
   {
-    id: 515,
-    title: "Cerita 2 — Risiko Iklim & Amaran Awal (Bahagian 2)",
-    content: "Majlis daerah memasang sistem amaran awal dan menyelaras pelan pengurusanbencana bagi membina ketahanan komuniti."
+    id: 615,
+    title: "Cerita 182 (Bahagian 1) - Makanan, Kos Hidup & Pertanian Pintar",
+    content: "Kerajaan menangani kemiskinan bandar dan luar bandar dengan menilai pendapatan isi rumah dan kos sara hidup."
   },
   {
-    id: 516,
-    title: "Cerita 2 — Risiko Iklim & Amaran Awal (Bahagian 3)",
-    content: "Penduduk menyertai latihan kecemasan bersama sukarelawan bencana; ketikakrisis, bantuan kecemasan digerakkan melalui tabung bencana yang telus."
+    id: 616,
+    title: "Cerita 182 (Bahagian 2) - Makanan, Kos Hidup & Pertanian Pintar",
+    content: "Dasar pertanian menggalakkan pertanian pintar, automasi, dron pertanian, baja organik dan fertigasi."
   },
   {
-    id: 517,
-    title: "Cerita 3 — Respons Bersepadu & Pemulihan (Bahagian 1)",
-    content: "Ketika siren berbunyi, Jabatan Bomba dan Penyelamat, APM, AngkatanPertahanan Awam, Polis Diraja Malaysia, dan tentera Malaysia menggerakkan misikemanusiaan."
+    id: 617,
+    title: "Cerita 182 (Bahagian 3) - Makanan, Kos Hidup & Pertanian Pintar",
+    content: "FAMA memasarkan hasil tani, pusat pengumpulan hasil mengurus pengedaran; MADA dan Jabatan Pertanian menyokong sawah."
   },
   {
-    id: 518,
-    title: "Cerita 3 — Respons Bersepadu & Pemulihan (Bahagian 2)",
-    content: "Dengan kerjasama serantau dan platform ASEAN Disaster Management, agensimelaksanakan pelan bantuan kecemasan: menyalur bantuan mangsa, membina rumahsementara untuk penempatan semula, serta merancang pemulihan pasca bencana danprogram pemulihan komuniti menggunakan dana bantuan."
+    id: 618,
+    title: "Cerita 183 (Bahagian 1) - Agro-Makanan Halal & Ekonomi Syariah",
+    content: "Rantaian agro-makanan diperkukuh melalui pemprosesan makanan dan eksport halal berpandukan pensijilan JAKIM."
   },
   {
-    id: 519,
-    title: "Cerita 3 — Respons Bersepadu & Pemulihan (Bahagian 3)",
-    content: "Usaha ini memecut pembangunan semula infrastruktur, memulihkan ekonomipasca krisis, dan menstabilkan rantaian bekalan makanan."
+    id: 619,
+    title: "Cerita 183 (Bahagian 2) - Agro-Makanan Halal & Ekonomi Syariah",
+    content: "Pelabuhan halal dan logistik halal menambah kebolehjejakan dalam industri halal global."
   },
   {
-    id: 520,
-    title: "Cerita 4 — Air, Empangan & Saliran (Bahagian 1)",
-    content: "Demi keselamatan air, negeri menambah baik pengurusan sumber air melaluiJabatan Pengairan dan Saliran (JPS), menaik taraf sistem saliran bandar dan projek tebatanbanjir."
+    id: 620,
+    title: "Cerita 183 (Bahagian 3) - Agro-Makanan Halal & Ekonomi Syariah",
+    content: "Ekonomi Islam memanfaatkan kewangan Islam, pelaburan syariah, takaful, wakaf dan zakat."
   },
   {
-    id: 521,
-    title: "Cerita 4 — Air, Empangan & Saliran (Bahagian 2)",
-    content: "Kawasan tadahan hujan dipulihara, empangan dikawal rapi, dan loji rawatan airmeningkatkan bekalan air bersih."
+    id: 621,
+    title: "Cerita 184 (Bahagian 1) - Institusi Islam & Pemberdayaan Ummah",
+    content: "Institusi Islam seperti Majlis Agama Islam Negeri, Jabatan Mufti dan Majlis Fatwa memastikan hal ehwal pendidikan Islam."
   },
   {
-    id: 522,
-    title: "Cerita 4 — Air, Empangan & Saliran (Bahagian 3)",
-    content: "Operator seperti Air Selangor, SAINS, dan Ranhill menyelaraskan rangkaian,sementara Jabatan Alam Sekitar (JAS) memantau data kualiti airserta menerbitkan laporanalam sekitar."
+    id: 622,
+    title: "Cerita 184 (Bahagian 2) - Institusi Islam & Pemberdayaan Ummah",
+    content: "UIAM dan universiti Islam lain menerajui pengajian syariah serta fiqh kontemporari berpandu fatwa semasa."
   },
   {
-    id: 523,
-    title: "Cerita 5 — Sisa, IPU & EIA (Bahagian 1)",
-    content: "Bandar meluaskan pengurusan sisa pepejal bersama SWCorp, membina pusatkitar semula, memperketat pengasingan sisa, dan menggerakkan kempen 3R—gunasemula, kitar semula, kurangkan sisa—serta mempromosikan bahan biodegradasi danplastik mesra alam."
+    id: 623,
+    title: "Cerita 184 (Bahagian 3) - Institusi Islam & Pemberdayaan Ummah",
+    content: "Zakat, wakaf dan bantuan asnaf diagih berasaskan keperluan bagi pembangunan ummah."
   },
   {
-    id: 524,
-    title: "Cerita 5 — Sisa, IPU & EIA (Bahagian 2)",
-    content: "Industri wajib mengurus sisa toksik, pelupusan sisadi tapak pelupusan, danrawatan sisa industri, berasaskan lesen alam sekitar."
+    id: 624,
+    title: "Cerita 185 (Bahagian 1) - Inklusiviti Sosial & Perlindungan Rentan",
+    content: "JKM memacu kebajikan masyarakat, perlindungan kanak-kanak, hak wanita dan kesamarataan gender."
   },
   {
-    id: 525,
-    title: "Cerita 5 — Sisa, IPU & EIA (Bahagian 3)",
-    content: "Bandar turut melaksanakan pemantauan kualiti udara, menerbitkan IndeksPencemaran Udara (IPU), dan mewajibkan penilaian impak alam sekitar (EIA) sebelumprojek baharu diluluskan."
+    id: 625,
+    title: "Cerita 185 (Bahagian 2) - Inklusiviti Sosial & Perlindungan Rentan",
+    content: "Perlindungan OKU, pendidikan inklusif dan bantuan ibu tunggal diperkasa masyarakat prihatin."
   },
   {
-    id: 526,
-    title: "Cerita 6 — Mobiliti Rendah Karbon (Bahagian 1)",
-    content: "Pelan bandar menggariskan pembangunan lestari, kelestarian bandar, dan visibandar pintar menerusi pelan pembangunan hijau."
+    id: 626,
+    title: "Cerita 185 (Bahagian 3) - Inklusiviti Sosial & Perlindungan Rentan",
+    content: "Program komuniti dan gotong-royong menggalakkan tanggungjawab sosial."
   },
   {
-    id: 527,
-    title: "Cerita 6 — Mobiliti Rendah Karbon (Bahagian 2)",
-    content: "Sistem pengangkutan hijau memacu kenderaan elektrik, menambah stesenpengecas EV, melancar dasar mobiliti rendah karbon, dan menguji bas elektrik sertamotosikal elektrik."
+    id: 627,
+    title: "Cerita 186 (Bahagian 1) - Sistem Kesihatan Menyeluruh",
+    content: "KKM menyelaras hospital kerajaan, hospital swasta, klinik kesihatan dan klinik komuniti."
   },
   {
-    id: 528,
-    title: "Cerita 6 — Mobiliti Rendah Karbon (Bahagian 3)",
-    content: "Kerajaan menawarkan insentif hijau sambil menilai dasar cukai karbon, memacuekonomi hijau yang adil untuk semua."
+    id: 628,
+    title: "Cerita 186 (Bahagian 2) - Sistem Kesihatan Menyeluruh",
+    content: "Perkhidmatan meliputi rawatan pesakit luar, pesakit dalam, pembedahan, farmasi, ubat-ubatan dan vaksinasi."
+  },
+  {
+    id: 629,
+    title: "Cerita 186 (Bahagian 3) - Sistem Kesihatan Menyeluruh",
+    content: "Ambulans, paramedik, jururawat dan doktor perubatan menggerakkan rawatan kecemasan."
+  },
+  {
+    id: 630,
+    title: "Cerita 186 (Bahagian 4) - Sistem Kesihatan Menyeluruh",
+    content: "Kesihatan awam menumpukan pencegahan penyakit, kawalan wabak dan kempen derma darah."
+  },
+  {
+    id: 631,
+    title: "Cerita 187 (Bahagian 1) - Kesihatan Digital & Penyelidikan",
+    content: "Kesihatan digital berkembang dengan telekesihatan, aplikasi kesihatan dan rekod perubatan elektronik."
+  },
+  {
+    id: 632,
+    title: "Cerita 187 (Bahagian 2) - Kesihatan Digital & Penyelidikan",
+    content: "IMR memacu penyelidikan vaksin tempatan dan keupayaan sains kesihatan negara."
+  },
+  {
+    id: 633,
+    title: "Cerita 188 (Bahagian 1) - Kesejahteraan Mental & Pemulihan Dadah",
+    content: "Kesihatan mental dinormalisasi melalui kaunseling, hotline bantuan dan intervensi sokongan emosi."
+  },
+  {
+    id: 634,
+    title: "Cerita 188 (Bahagian 2) - Kesejahteraan Mental & Pemulihan Dadah",
+    content: "Terapi kaunseling, terapi keluarga dan terapi kumpulan membantu kesejahteraan psikologi."
+  },
+  {
+    id: 635,
+    title: "Cerita 188 (Bahagian 3) - Kesejahteraan Mental & Pemulihan Dadah",
+    content: "AADK mengurus pusat rehabilitasi, membina komuniti bebas dadah serta program belia sihat."
+  },
+  {
+    id: 636,
+    title: "Cerita 189 (Bahagian 1) - Sekolah Sihat & Persekitaran Bersih",
+    content: "Program kesihatan sekolah mendidik murid tentang nutrisi, makanan sihat dan kantin sihat."
+  },
+  {
+    id: 637,
+    title: "Cerita 189 (Bahagian 2) - Sekolah Sihat & Persekitaran Bersih",
+    content: "Akses air bersih, sanitasi awam dan kebersihan diri diperluas."
+  },
+  {
+    id: 638,
+    title: "Cerita 189 (Bahagian 3) - Sekolah Sihat & Persekitaran Bersih",
+    content: "Bandar menggerakkan tenaga lestari, pengurusan sisa dan kempen alam sekitar selari pelan tindakan hijau."
   }
 ]

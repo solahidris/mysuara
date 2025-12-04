@@ -1,242 +1,292 @@
 export const batch14Stories = [
   {
-    id: 625,
-    title: "Cerita 1 — Komuniti Aina (Bahagian 2)",
-    content: "Pelajar menghadiri sesi microlearning melalui aplikasi mudah alih; warga emasbelajar e-dompet, keselamatan akaun, dan penipuan dalam talian. Gotong-royongmembersih sungai, kitar semula sisa, dan menanam pokok."
+    id: 755,
+    title: "Cerita 230 (Bahagian 1) - Reformasi, Inklusif & Masa Depan",
+    content: "Transformasi sektor awam meneguhkan ketelusan kerajaan dan pentadbiran yang adil."
   },
   {
-    id: 626,
-    title: "Cerita 1 — Komuniti Aina (Bahagian 3)",
-    content: "Pada malam sambutan Hari Malaysia, Aina membentangkan data: kadar bacaannaik, aduan turun, kepuasan meningkat. “Inilah tadbir urus baik,” katanya; orang ramaibertepuk, yakin pembangunan lestari bermula dari jalan kecil mereka."
+    id: 756,
+    title: "Cerita 230 (Bahagian 2) - Reformasi, Inklusif & Masa Depan",
+    content: "Ekonomi inklusif dan sistem saksama menyokong masyarakat madani dan generasi masa depan."
   },
   {
-    id: 627,
-    title: "Cerita 2 — Penyelidikan Farid (Bahagian 1)",
-    content: "Di universiti, Farid—pelajar siswazah—mengumpul data kualitatif tentangkepercayaan awam terhadap kerajaan digital. Dia membina soal selidik, menjalankan temubual, dan menganalisis tema menggunakan jadual, graf, dan carta."
+    id: 757,
+    title: "Cerita 231 (Bahagian 1)",
+    content: "Aina mengurus projek komuniti seperti perpustakaan mini, kelas TVET dan bengkel literasi digital."
   },
   {
-    id: 628,
-    title: "Cerita 2 — Penyelidikan Farid (Bahagian 2)",
-    content: "Pensyarah menasihatkan: hubungkan dapatan dengan teori pemisahan kuasa,akauntabiliti, dan ketelusan. Farid menulis ringkasan eksekutif, merumus cadangan polisi:portal maklum balas, e-partisipasi, serta standard keselamatan siber."
+    id: 758,
+    title: "Cerita 231 (Bahagian 2)",
+    content: "Warga emas belajar e-dompet dan keselamatan akaun; pelajar menggunakan microlearning."
   },
   {
-    id: 629,
-    title: "Cerita 2 — Penyelidikan Farid (Bahagian 3)",
-    content: "Sewaktu pembentangan, dia disoal panel: “Bagaimana ukur keberkesanan?”Farid menunjukkan indikator prestasi, rantaian logik, dan pelan penilaian impak. “Buktiempirikal menyokong pembaharuan,” katanya, sambil mengirim repositori kod untukreplikasi."
+    id: 759,
+    title: "Cerita 231 (Bahagian 3)",
+    content: "Gotong-royong membersih sungai, kitar semula dan menanam pokok memperkukuh komuniti."
   },
   {
-    id: 630,
-    title: "Cerita 3 — Tindak Banjir Kilat (Bahagian 1)",
-    content: "Ketika banjir kilat melanda daerah, pasukan penyelamat mengaktifkan sistemamaran awal. Balai raya jadi pusat pemindahan; sukarelawan belia mengatur logistik,makanan, dan ubat."
+    id: 760,
+    title: "Cerita 231 (Bahagian 4)",
+    content: "Data menunjukkan kadar bacaan naik, aduan turun dan kepuasan meningkat."
   },
   {
-    id: 631,
-    title: "Cerita 3 — Tindak Banjir Kilat (Bahagian 2)",
-    content: "Data masa nyata dipaparkan pada papan pemuka: paras air, ramalan cuaca,status jalan, dan lokasi ambulans. Jurutera mengurus pengagihan tenaga, penjana mudahalih, dan jalur lebar kecemasan."
+    id: 761,
+    title: "Cerita 232 (Bahagian 1)",
+    content: "Farid mengumpul data kualitatif tentang kepercayaan awam terhadap kerajaan digital."
   },
   {
-    id: 632,
-    title: "Cerita 3 — Tindak Banjir Kilat (Bahagian 3)",
-    content: "Moderator menyiarkan makluman di radio, televisyen, dan media sosial. Selepasair surut, pasukan membuat penilaian risiko, laporan bencana, dan strategi pemulihan:pengukuhan tebing, pembersihan sisa, serta latihan ketahanan komuniti. “Kita pulihbersama,” ucap ketua operasi."
+    id: 762,
+    title: "Cerita 232 (Bahagian 2)",
+    content: "Dia menganalisis dapatan menggunakan teori pemisahan kuasa, akauntabiliti dan ketelusan."
   },
   {
-    id: 633,
-    title: "Cerita 4 — Rintis E-Dagang Kampung (Bahagian 1)",
-    content: "Syarikat rintis tempatan melancarkan aplikasi e-dagang untuk produk kampung:roti, sayur, buah, kraftangan. Pereka UX/UI membina antaramuka mesra pengguna,responsif, disulami tipografi jelas dan navigasi ringkas."
+    id: 763,
+    title: "Cerita 232 (Bahagian 3)",
+    content: "Cadangan polisi termasuk e-partisipasi, portal maklum balas dan standard keselamatan siber."
   },
   {
-    id: 634,
-    title: "Cerita 4 — Rintis E-Dagang Kampung (Bahagian 2)",
-    content: "CRM menyimpan rujukan pelanggan; kempen pemasaran menggunakanpengaruh digital dan kupon diskaun. Pasaran meningkat, tetapi pengasas menekankanetika: perlindungan data, PDPA, dan identiti digital selamat."
+    id: 764,
+    title: "Cerita 233 (Bahagian 1)",
+    content: "Banjir kilat mengaktifkan sistem amaran awal, balai raya menjadi pusat pemindahan."
   },
   {
-    id: 635,
-    title: "Cerita 4 — Rintis E-Dagang Kampung (Bahagian 3)",
-    content: "Operator gudang menyelaras kurier, penjejak pesanan, dan pembungkusanmesra alam. Di hujung suku, laporan kewangan—pendapatan, kos, margin—dipersembahkepada pelabur. “Kita skala berhemat,” kata CFO, “tanpa mengorbankan reputasi jenama.”"
+    id: 765,
+    title: "Cerita 233 (Bahagian 2)",
+    content: "Data masa nyata paparkan paras air, cuaca, status jalan dan lokasi ambulans."
   },
   {
-    id: 636,
-    title: "Cerita 5 — Tenaga Suria di Sekolah (Bahagian 1)",
-    content: "Di sekolah menengah, guru sains memperkenal eksperimen tenaga suria. Pelajarmemasang panel kecil, mengukur voltan, dan memplot graf. Mereka membincang SDG:tenaga bersih, bandar mampan, dan penggunaan bertanggungjawab."
+    id: 766,
+    title: "Cerita 233 (Bahagian 3)",
+    content: "Selepas air surut, laporan bencana dan strategi pemulihan disusun bersama komuniti."
   },
   {
-    id: 637,
-    title: "Cerita 5 — Tenaga Suria di Sekolah (Bahagian 2)",
-    content: "Seorang murid bertanya tentang karbon dan pemanasan global; seorang lagimencadangkan projek kitar semula bateri. Kelab inovasi menggabung IoT: sensor suhu, dataawan, dan visualisasi."
+    id: 767,
+    title: "Cerita 234 (Bahagian 1)",
+    content: "Startup melancar aplikasi e-dagang untuk produk kampung seperti roti, sayur dan kraftangan."
   },
   {
-    id: 638,
-    title: "Cerita 5 — Tenaga Suria di Sekolah (Bahagian 3)",
-    content: "Pada hari pameran, hakim menilai reka bentuk, keselamatan, dan dokumentasiteknikal. Trofi disampaikan, tetapi guru menekankan nilai utama—disiplin, empati, kerjaberpasukan—kerana teknologi hebat memerlukan karakter yang setara."
+    id: 768,
+    title: "Cerita 234 (Bahagian 2)",
+    content: "UX/UI responsif, CRM tersusun, pemasaran menggunakan pempengaruh digital dan kupon diskaun."
   },
   {
-    id: 639,
-    title: "Cerita 6 — Nora & Klinik Desa (Bahagian 1)",
-    content: "Nora, jururawat klinik desa, mengurus vaksinasi, saringan penyakit, dankesihatan mental. Dia memanfaatkan sistem rekod elektronik, notifikasi temu janji, danpanggilan peringatan. Ramai ibu bapa bertanya tentang nutrisi, tidur berkualiti, dan senamanharian."
+    id: 769,
+    title: "Cerita 234 (Bahagian 3)",
+    content: "Gudang menyelaras kurier dan pembungkusan mesra alam; laporan kewangan dipersembah kepada pelabur."
   },
   {
-    id: 640,
-    title: "Cerita 6 — Nora & Klinik Desa (Bahagian 2)",
-    content: "Nora menyediakan risalah ringkas serta pautan video pendidikan. Dalammesyuarat bersama pejabat daerah, Nora mengangkat isu bekalan: logistik sejuk, farmasi,dan latihan staf. “Kecekapan kecil memberi impak besar,” katanya."
+    id: 770,
+    title: "Cerita 235 (Bahagian 1)",
+    content: "Guru sains memperkenal eksperimen tenaga suria dan graf voltan."
   },
   {
-    id: 641,
-    title: "Cerita 6 — Nora & Klinik Desa (Bahagian 3)",
-    content: "Statistik mingguan menunjukkan liputan meningkat, kes demam turun. Komunitimenghadiahkan bunga; Nora tersenyum, percaya amalan kecil berterusan ialah vaksinterhadap kealpaan."
+    id: 771,
+    title: "Cerita 235 (Bahagian 2)",
+    content: "Perbincangan SDG, karbon, pemanasan global dan projek kitar semula bateri."
   },
   {
-    id: 642,
-    title: "Cerita 7 — Amir Penganalisis Data (Bahagian 1)",
-    content: "Seusai latihan industri, Amir diterima sebagai penganalisis data. Tugasnya:membersih pangkalan data, membina model ramalan, dan menyusun visual analitik.Pengurus menuntut integriti, dokumentasi, serta ujian keselamatan."
+    id: 772,
+    title: "Cerita 235 (Bahagian 3)",
+    content: "Projek inovasi IoT dinilai berdasarkan reka bentuk, dokumentasi dan keselamatan."
   },
   {
-    id: 643,
-    title: "Cerita 7 — Amir Penganalisis Data (Bahagian 2)",
-    content: "Amir menambah baik pipeline, mengurangkan pepijat, dan mempercepatcapaian. Dalam pembentangan, dia kaitkan dapatan pasaran dengan strategi jualan,promosi, dan jenama. “Hipotesis disahkan,” katanya, menunjukkan peningkatan kadar klikdan kadar penukaran."
+    id: 773,
+    title: "Cerita 236 (Bahagian 1)",
+    content: "Nora mengurus vaksinasi, saringan penyakit dan kesihatan mental melalui rekod elektronik."
   },
   {
-    id: 644,
-    title: "Cerita 7 — Amir Penganalisis Data (Bahagian 3)",
-    content: "Pasukan operasi menyelaras integrasi, versi baharu, dan maklum balaspengguna awal. Akhirnya, KPI sukuan tercapai; Amir menulis “lessons learned” agar projekseterusnya bermula di garis lebih hadapan."
+    id: 774,
+    title: "Cerita 236 (Bahagian 2)",
+    content: "Risalah nutrisi dan video pendidikan disebar kepada komuniti, liputan kesihatan meningkat."
   },
   {
-    id: 645,
-    title: "Cerita 8 — Graduasi Kampus Satelit (Bahagian 1)",
-    content: "Di dewan komuniti, majlis graduasi kampus satelit berlangsung. Topi mortarmelayang; keluarga merakam detik. Ucapan perasmian menekankan nilai rukun negara,kedaulatan undang-undang, dan cinta tanah air."
+    id: 775,
+    title: "Cerita 236 (Bahagian 3)",
+    content: "Isu logistik, farmasi dan latihan kakitangan dibentang dalam mesyuarat daerah."
   },
   {
-    id: 646,
-    title: "Cerita 8 — Graduasi Kampus Satelit (Bahagian 2)",
-    content: "Seorang graduan berkongsi kisah—kuliah hibrid, MOOC, danmicrocredential—yang membantunya mengimbangi kerja serta pengajian. Dekanmenjemput alumni menyertai jaringan profesional, menawarkan mentor, peluang projek, dandana inovasi."
+    id: 776,
+    title: "Cerita 237 (Bahagian 1)",
+    content: "Amir sebagai penganalisis data mengurus pembersihan data dan model ramalan."
   },
   {
-    id: 647,
-    title: "Cerita 8 — Graduasi Kampus Satelit (Bahagian 3)",
-    content: "Selesai majlis, pelajar menandatangi surat tawaran kerja, bersedia untukpenilaian prestasi dan budaya organisasi. “Universiti membuka pintu,” kata ibu, “tetapiintegriti menjaga rumah masa depanmu.”"
+    id: 777,
+    title: "Cerita 237 (Bahagian 2)",
+    content: "Pipeline diperbaiki, capaian dipercepat, dapatan dikaitkan dengan strategi jualan dan pemasaran."
   },
   {
-    id: 648,
-    title: "Cerita 9 — Transit & Bandar Pintar (Bahagian 1)",
-    content: "Sebuah bandar pintar menguji sistem transit: LRT, bas elektrik, dan integrasi tikettanpa tunai. Data kesesakan dianalisis; lampu isyarat diselaraskan. Kamera keselamatanmemantau, namun privasi dijaga melalui penyulitan dan polisi jelas."
+    id: 778,
+    title: "Cerita 237 (Bahagian 3)",
+    content: "KPI sukuan tercapai dan 'lessons learned' direkod untuk projek seterusnya."
   },
   {
-    id: 649,
-    title: "Cerita 9 — Transit & Bandar Pintar (Bahagian 2)",
-    content: "Papan tanda digital memberi makluman kelewatan; aplikasi memaparkantambang, jarak, dan jejak perjalanan. Pemandu Grab beralih ke kenderaan elektrikberinsentif cukai. Pada sidang media, datuk bandar membentang indikatorkeberhasilan—masa perjalanan turun, pelepasan karbon menurun."
+    id: 779,
+    title: "Cerita 238 (Bahagian 1)",
+    content: "Majlis graduasi kampus satelit diraikan; ucapan menekankan Rukun Negara dan cinta tanah air."
   },
   {
-    id: 650,
-    title: "Cerita 9 — Transit & Bandar Pintar (Bahagian 3)",
-    content: "Wartawan bertanya: “Apa risiko?” Jawapan: ketagihan kereta peribadi, kospenyelenggaraan, dan jurang literasi digital. Pelan mitigasi pun diumumkan."
+    id: 780,
+    title: "Cerita 238 (Bahagian 2)",
+    content: "Pelajar berkongsi kisah pembelajaran hibrid, MOOC dan microcredential."
   },
   {
-    id: 651,
-    title: "Cerita 10 — Sara Analisis Pasaran (Bahagian 1)",
-    content: "Ketika pasaran saham berombak, Sara—penganalisis ekonomi—menyelusurilaporan suku tahunan, nisbah keuntungan, dan unjuran. Dia menilai syarikat tenaga bersih,fintech, dan logistik. “Diversifikasi,” nasihatnya kepada pelabur runcit, “serta disiplin data.”"
+    id: 781,
+    title: "Cerita 238 (Bahagian 3)",
+    content: "Alumni diajak menyertai jaringan profesional, mentor dan dana inovasi."
   },
   {
-    id: 652,
-    title: "Cerita 10 — Sara Analisis Pasaran (Bahagian 2)",
-    content: "Sara mengingatkan kepatuhan cukai dan rekod audit; integriti kewangan bukanpilihan. Dalam rencana akhbar, dia menerangkan inflasi, kadar faedah, dan kos sara hidupdengan bahasa mudah. Pembaca menghargai panduan seimbang: risiko, pulangan, danhorizon masa."
+    id: 782,
+    title: "Cerita 239 (Bahagian 1)",
+    content: "Bandar pintar menguji transit LRT, bas elektrik dan tiket tanpa tunai."
   },
   {
-    id: 653,
-    title: "Cerita 10 — Sara Analisis Pasaran (Bahagian 3)",
-    content: "Ketika belanjawan dibentang, Sara menanda potensi insentif dan kesan fiskal.Analisisnya membantu ramai membuat keputusan tenang."
+    id: 783,
+    title: "Cerita 239 (Bahagian 2)",
+    content: "Kamera keselamatan memantau sambil menjaga privasi melalui penyulitan dan polisi jelas."
   },
   {
-    id: 654,
-    title: "Cerita 1 — Identiti Korporat (Bahagian 1)",
-    content: "Di studio seni, pereka grafik menghasilkan identiti korporat: logo, warna, tipografi,dan garis panduan. “Kesederhanaan yang jelas,” katanya, sambil menguji responsif padalaman web dan aplikasi. Dengan rakan juruvideo, dia merakam tutorial, menambah kapsyendan aksesibiliti."
+    id: 784,
+    title: "Cerita 239 (Bahagian 3)",
+    content: "Datuk bandar membentang indikator keberhasilan seperti masa perjalanan dan karbon yang menurun."
   },
   {
-    id: 655,
-    title: "Cerita 1 — Identiti Korporat (Bahagian 2)",
-    content: "Kempen dilancar di Instagram, TikTok, dan YouTube; kadar tontonan meningkatapabila naratif bersambung dengan nilai jenama. Pereka UX menambah butang panggilantindakan dan borang pendaftaran ringkas."
+    id: 785,
+    title: "Cerita 240 (Bahagian 1)",
+    content: "Sara menilai laporan suku tahunan, nisbah keuntungan dan unjuran syarikat tenaga bersih, fintech dan logistik."
   },
   {
-    id: 656,
-    title: "Cerita 1 — Identiti Korporat (Bahagian 3)",
-    content: "Ulasan pelanggan mengukuhkan reputasi. Di akhir projek, pasukan membukukanproses—sketsa, iterasi, dan rasional—mendidik klien tentang mengapa reka bentuk yangbaik ialah strategi, bukan hiasan."
+    id: 786,
+    title: "Cerita 240 (Bahagian 2)",
+    content: "Dia menerangkan inflasi dan kadar faedah dengan bahasa mudah sambil menasihati diversifikasi."
   },
   {
-    id: 657,
-    title: "Cerita 2 — Makmal AI (Bahagian 1)",
-    content: "Di makmal AI, pasukan membangunkan model pengecaman suara dwibahasa.Mereka mengurus data, privasi, dan bias. Jurutera menulis skrip, menguji latency, danmenala hiperparameter."
+    id: 787,
+    title: "Cerita 240 (Bahagian 3)",
+    content: "Sara menanda kesan fiskal ketika belanjawan dibentang, membantu pelabur membuat keputusan."
   },
   {
-    id: 658,
-    title: "Cerita 2 — Makmal AI (Bahagian 2)",
-    content: "Pengurus dasar menilai etika, garis panduan, dan tadbir urus AI. “Ketelusanpenting,” katanya, menerbitkan dokumentasi: dataset card, model card, dan hadpenggunaan. Dalam pelancaran beta, pengguna mencuba chatbot sokongan, transaksielektronik, dan bantuan khas OKU."
+    id: 788,
+    title: "Cerita 241 (Bahagian 1)",
+    content: "Di studio seni, pereka grafik menghasilkan identiti korporat: logo, warna, tipografi, dan garis panduan."
   },
   {
-    id: 659,
-    title: "Cerita 2 — Makmal AI (Bahagian 3)",
-    content: "Maklum balas menunjukkan manfaat besar, namun pasukan memperbaiki kesralat, memperkukuh keselamatan. “Inovasi bertanggungjawab,” ujar ketua, “ialahkemenangan jangka panjang yang tidak mengorbankan maruah manusia.”"
+    id: 789,
+    title: "Cerita 241 (Bahagian 2)",
+    content: "Dia menguji responsif pada laman web dan aplikasi, merakam tutorial dengan juruvideo, serta menambah kapsyen dan ciri aksesibiliti."
   },
   {
-    id: 660,
-    title: "Cerita 3 — Program Belia (Bahagian 1)",
-    content: "Program belia diadakan: debat, pidato, dan bengkel kepimpinan. Mentormengajar komunikasi berkesan, empati, serta pengurusan stres. Remaja merancangprojek—kempen kebersihan, pasar tani, dan kelas kod—mencari geran komuniti, mengatursukarelawan."
+    id: 790,
+    title: "Cerita 241 (Bahagian 3)",
+    content: "Kempen dilancar di Instagram, TikTok, dan YouTube; kadar tontonan meningkat apabila naratif bersambung dengan nilai jenama."
   },
   {
-    id: 661,
-    title: "Cerita 3 — Program Belia (Bahagian 2)",
-    content: "Di forum nasional, mereka mengemukakan saranan dasar: perpustakaan digital,taman rekreasi, dan keselamatan kejiranan. Panelis memuji data sokongan—soal selidik,rujukan, dan analisis kos-faedah."
+    id: 791,
+    title: "Cerita 241 (Bahagian 4)",
+    content: "Pereka UX menambah butang panggilan tindakan dan borang pendaftaran ringkas; ulasan pelanggan mengukuhkan reputasi."
   },
   {
-    id: 662,
-    title: "Cerita 3 — Program Belia (Bahagian 3)",
-    content: "“Kita bukan hanya bersuara,” kata ketua program, “kita melaksanakan.” Fotopameran mengabadikan perubahan kecil yang teratur, bukti bahawa tanggungjawab sosialsubur bila peluang dan bimbingan tepat bertemu."
+    id: 792,
+    title: "Cerita 241 (Bahagian 5)",
+    content: "Pasukan membukukan proses-sketsa, iterasi, dan rasional-mendidik klien bahawa reka bentuk yang baik ialah strategi, bukan hiasan."
   },
   {
-    id: 663,
-    title: "Cerita 4 — Kerajaan Digital (Bahagian 1)",
-    content: "Dalam bilik mesyuarat, projek kerajaan digital dibahas: integrasi pangkalan data,MyDigital ID, dan portal rasmi. CIO menuntut keselamatan maklumat, ujian penembusan,serta audit pematuhan. Vendor membentang pelan operasi, pelan komunikasi, dan garismasa pelaksanaan."
+    id: 793,
+    title: "Cerita 242 (Bahagian 1)",
+    content: "Di makmal AI, pasukan membangunkan model pengecaman suara dwibahasa sambil mengurus data, privasi, dan bias."
   },
   {
-    id: 664,
-    title: "Cerita 4 — Kerajaan Digital (Bahagian 2)",
-    content: "“Kualiti perkhidmatan lebih penting daripada gimik,” tegas ketua jabatan. Unitundang-undang meneliti peraturan, PDPA, dan perjanjian pemprosesan data."
+    id: 794,
+    title: "Cerita 242 (Bahagian 2)",
+    content: "Jurutera menulis skrip, menguji latency, dan menala hiperparameter; pengurus dasar menilai etika serta tadbir urus AI."
   },
   {
-    id: 665,
-    title: "Cerita 4 — Kerajaan Digital (Bahagian 3)",
-    content: "Pasukan operasi menyiapkan latihan, manual pengguna, dan pusat bantuan.Pada pelancaran, panggilan masuk melonjak tetapi chatbot menyerap beban. Keberkesananmeningkat, aduan berkurang, dan keyakinan awam mula pulih."
+    id: 795,
+    title: "Cerita 242 (Bahagian 3)",
+    content: "Dokumentasi seperti dataset card, model card, dan had penggunaan diterbitkan dengan menekankan ketelusan."
   },
   {
-    id: 666,
-    title: "Cerita 5 — Dokumentari Sejarah (Bahagian 1)",
-    content: "Sebuah dokumentari memaparkan sejarah Malaysia: penjajahan, kemerdekaan,dan pembinaan institusi. Arkib negara meminjamkan foto; sejarawan menerangkan rukunnegara, perlembagaan, dan demokrasi berparlimen. Wawancara bekas penjawat awammenyentuh etika, integriti, serta cabaran birokrasi."
+    id: 796,
+    title: "Cerita 242 (Bahagian 4)",
+    content: "Pengguna mencuba chatbot sokongan dan bantuan OKU; pasukan memperbaiki kes ralat serta keselamatan."
   },
   {
-    id: 667,
-    title: "Cerita 5 — Dokumentari Sejarah (Bahagian 2)",
-    content: "Generasi muda menonton di dewan universiti, mengaitkan naratif dengan isu kini:berita palsu, literasi media, dan semakan fakta. Selepas tayangan, forum terbukaberlangsung; pelajar bertanya tentang kuasa kehakiman, hak asasi, dan peranan media."
+    id: 797,
+    title: "Cerita 242 (Bahagian 5)",
+    content: "Ketua menegaskan: \"Inovasi bertanggungjawab ialah kemenangan jangka panjang yang tidak mengorbankan maruah manusia.\""
   },
   {
-    id: 668,
-    title: "Cerita 5 — Dokumentari Sejarah (Bahagian 3)",
-    content: "“Sejarah ialah cermin,” kata moderator, “namun masa depan ditulis oleh tindakanberprinsip hari ini.”"
+    id: 798,
+    title: "Cerita 243 (Bahagian 1)",
+    content: "Program belia menawarkan debat, pidato, dan bengkel kepimpinan sambil mengajar komunikasi berkesan dan empati."
   },
   {
-    id: 669,
-    title: "Cerita 6 — Pameran Sains (Bahagian 1)",
-    content: "Di muzium sains, pameran robotik menarik kanak-kanak. Mereka menggerakkanlengan mekanikal, memprogram rute, dan belajar keselamatan. Kurator menjelaskanRevolusi Industri 4.0: automasi, IoT, dan analitik."
+    id: 799,
+    title: "Cerita 243 (Bahagian 2)",
+    content: "Remaja merancang projek komuniti seperti kempen kebersihan dan pasar tani serta memohon geran."
   },
   {
-    id: 670,
-    title: "Cerita 6 — Pameran Sains (Bahagian 2)",
-    content: "Ibu bapa bertanya tentang kemahiran masa depan; fasilitator mengesyorkanpembelajaran kendiri, microlearning, dan projek kecil berulang. Di sudut tenaga, model hidrodan suria dipamer; grafik menjelaskan jejak karbon."
+    id: 800,
+    title: "Cerita 243 (Bahagian 3)",
+    content: "Di forum nasional, mereka mengemukakan saranan dasar seperti perpustakaan digital dan keselamatan kejiranan."
   },
   {
-    id: 671,
-    title: "Cerita 6 — Pameran Sains (Bahagian 3)",
-    content: "Kanak-kanak menampal pelekat “Saya sayang bumi” pada poster. Keluar daripameran, mereka berjanji mengurangkan plastik sekali guna dan berkongsi ilmu di sekolah.“Keingintahuan,” kata kurator, “adalah bahan bakar inovasi.”"
+    id: 801,
+    title: "Cerita 243 (Bahagian 4)",
+    content: "Panel memuji data sokongan; ketua program berkata mereka bukan hanya bersuara, tetapi melaksanakan."
   },
   {
-    id: 672,
-    title: "Cerita 7 — PRK Kampus (Bahagian 1)",
-    content: "Ketika pilihan raya kampus, calon MPP membentang manifesto: ketelusan bajet,kesejahteraan mental, dan ruang belajar 24 jam. Debat calon disiarkan dalam talian;moderator mengawal masa. Pelajar menganalisis isu, membanding program, danmemeriksa rekod."
+    id: 802,
+    title: "Cerita 243 (Bahagian 5)",
+    content: "Foto pameran mengabadikan perubahan kecil-bukti tanggungjawab sosial subur bila peluang dan bimbingan tepat bertemu."
+  },
+  {
+    id: 803,
+    title: "Cerita 244 (Bahagian 1)",
+    content: "Projek kerajaan digital dibahas: integrasi pangkalan data, MyDigital ID, dan portal rasmi."
+  },
+  {
+    id: 804,
+    title: "Cerita 244 (Bahagian 2)",
+    content: "CIO menuntut keselamatan maklumat, ujian penembusan, serta audit pematuhan."
+  },
+  {
+    id: 805,
+    title: "Cerita 244 (Bahagian 3)",
+    content: "Vendor membentang pelan operasi dan garis masa; unit undang-undang meneliti PDPA serta perjanjian pemprosesan data."
+  },
+  {
+    id: 806,
+    title: "Cerita 244 (Bahagian 4)",
+    content: "Latihan, manual pengguna, dan pusat bantuan disiapkan; chatbot membantu menyerap beban panggilan."
+  },
+  {
+    id: 807,
+    title: "Cerita 244 (Bahagian 5)",
+    content: "Keberkesanan meningkat, aduan berkurang, dan keyakinan awam mula pulih."
+  },
+  {
+    id: 808,
+    title: "Cerita 245 (Bahagian 1)",
+    content: "Sebuah dokumentari memaparkan sejarah Malaysia: penjajahan, kemerdekaan, dan pembinaan institusi."
+  },
+  {
+    id: 809,
+    title: "Cerita 245 (Bahagian 2)",
+    content: "Sejarawan menerangkan Rukun Negara, Perlembagaan, demokrasi berparlimen, serta etika pentadbiran."
+  },
+  {
+    id: 810,
+    title: "Cerita 245 (Bahagian 3)",
+    content: "Penonton mengaitkan sejarah dengan isu kini seperti berita palsu dan literasi media."
+  },
+  {
+    id: 811,
+    title: "Cerita 245 (Bahagian 4)",
+    content: "Pelajar bertanya tentang kuasa kehakiman, hak asasi, dan peranan media dalam forum terbuka."
+  },
+  {
+    id: 812,
+    title: "Cerita 245 (Bahagian 5)",
+    content: "Moderator berkata sejarah ialah cermin, tetapi masa depan ditulis melalui tindakan berprinsip hari ini."
   }
 ]

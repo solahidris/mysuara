@@ -1,242 +1,292 @@
 export const batch5Stories = [
   {
-    id: 193,
-    title: "Cerita 2 — Ramadan & Hari Raya (Bahagian 2)",
-    content: "Umat menempuh puasa Ramadan, bersahur awal (sahur), berbuka ketika azan(iftar), dan berterawih (tarawih) sambil mengejar keberkatan Lailatul Qadar."
-  },
-  {
-    id: 194,
-    title: "Cerita 2 — Ramadan & Hari Raya (Bahagian 3)",
-    content: "Selepas takbir, tiba Aidilfitri dan kemudian Aidiladha dengan ibadah korban;keluarga juga meraikan akikah (akikah) bayi sebagai syukur."
-  },
-  {
-    id: 195,
-    title: "Cerita 3 — Haji, Umrah & Ekosistem Halal (Bahagian 1)",
-    content: "Musim haji dan umrah menemukan jemaah di Mekah dan Madinah; visa hajidiurus rapi bersama pengurusan jemaah, tabung haji, pakej umrah, dan agensi pelanconganIslam."
-  },
-  {
-    id: 196,
-    title: "Cerita 3 — Haji, Umrah & Ekosistem Halal (Bahagian 2)",
-    content: "Makanan di tanah suci dipastikan bersijil sijil halal melalui pensijilan Jakim,menyokong industri halal dan penjual produk Muslim di tanah air."
-  },
-  {
-    id: 197,
-    title: "Cerita 4 — Ekonomi & Kewangan Islam (Bahagian 1)",
-    content: "Dasar ekonomi Islam menuntun kewangan Islam dan perbankan Islam yangmenyediakan takaful keluarga, takaful am, dan pilihan pelaburan syariah."
-  },
-  {
-    id: 198,
-    title: "Cerita 4 — Ekonomi & Kewangan Islam (Bahagian 2)",
-    content: "Kemaslahatan ummah diperkukuh oleh pengurusan wakaf, institusi zakat, sertaagihan Baitulmal; semuanya menghubungkan keperluan sosial dengan instrumen kewanganberetika."
-  },
-  {
-    id: 199,
-    title: "Cerita 5 — Pendidikan & Institusi Agama (Bahagian 1)",
-    content: "Di pusat Islam dan universiti Islam, agenda pendidikan Islam bersinergi dengansekolah agama, tahfiz, dan madrasah."
-  },
-  {
-    id: 200,
-    title: "Cerita 5 — Pendidikan & Institusi Agama (Bahagian 2)",
-    content: "Ustaz dan ustazah membimbing pelajar tahfiz dalam hafazan dan pengajianAl-Quran, disokong usrahdan program dakwah."
-  },
-  {
-    id: 201,
-    title: "Cerita 5 — Pendidikan & Institusi Agama (Bahagian 3)",
-    content: "Di aras dasar, mufti mengeluarkan fatwa; jabatan agama, Majlis FatwaKebangsaan, Jabatan Kemajuan Islam Malaysia (JAKIM), Jabatan Agama Islam Negeri, danMajlis Agama Islam Negerimenyelaras urus tadbir syariah."
-  },
-  {
-    id: 202,
-    title: "Cerita 6 — Undang-undang Keluarga Islam (Bahagian 1)",
-    content: "Kes pengurusan harta pusaka membabitkan instrumen hibah, wasiat, faraid, danisu harta sepencarian di mahkamah syariah."
-  },
-  {
-    id: 203,
-    title: "Cerita 6 — Undang-undang Keluarga Islam (Bahagian 2)",
-    content: "Peguam syarie berhujah di hadapan hakim syarie untuk mendapatkan perintahmahkamahberhubung tuntutan nafkah, hak penjagaan anak, penceraian, dan kemungkinanruju‘ jika pasangan berdamai."
-  },
-  {
-    id: 204,
-    title: "Cerita 7 — Perkahwinan & Adat (Bahagian 1)",
-    content: "Di hari nikah, wali menyerahkan pengantin dengan mas kahwin dan hantaran."
-  },
-  {
-    id: 205,
-    title: "Cerita 7 — Perkahwinan & Adat (Bahagian 2)",
-    content: "Majlis perkahwinan bermula dengan akad nikah, diikuti majlis resepsi serbameriah: pakaian pengantin, pelamin, dan jurugambar perkahwinan."
-  },
-  {
-    id: 206,
-    title: "Cerita 7 — Perkahwinan & Adat (Bahagian 3)",
-    content: "Tuan rumah mengatur kad jemputan, senarai tetamu, jamuan perkahwinan,katering, serta lokasi dewan perkahwinan."
-  },
-  {
-    id: 207,
-    title: "Cerita 7 — Perkahwinan & Adat (Bahagian 4)",
-    content: "Usai pendaftaran perkahwinan, pasangan menerima sijil nikah sebagai rekodsah."
-  },
-  {
-    id: 208,
-    title: "Cerita 8 — Keluarga & Tanggungjawab (Bahagian 1)",
-    content: "Dalam kehidupan berkeluarga, rumah tangga dipimpin pasangan suami isteribersama anak sulung, anak bongsu, atau anak angkat; ada juga ibu tiri dan bapa tirimenyatu dengan adik-beradik, nenek, datuk, dan cucumembentuk keluarga besar."
-  },
-  {
-    id: 209,
-    title: "Cerita 8 — Keluarga & Tanggungjawab (Bahagian 2)",
-    content: "Melalui majlis keluarga, eratnya hubungan kekeluargaan dipupuk dengan kasihsayang, tanggungjawab keluarga, pendidikan anak, dan disiplin anak; terserlah kasih ibu,pengorbanan ayah, serta kasih sayang suami isteri sebagai nilai kekeluargaan."
-  },
-  {
-    id: 210,
-    title: "Cerita 8 — Keluarga & Tanggungjawab (Bahagian 3)",
-    content: "Kukuhnya institusi keluarga menyumbang kepada kesejahteraan keluarga."
-  },
-  {
-    id: 211,
-    title: "Cerita 9 — Rumah, Keselamatan & Kelengkapan (Bahagian 1)",
-    content: "Pasangan membeli rumah mampu milik melalui skim perumahan, memohonpembiayaan rumah dan pinjaman bank mengikut kadar faedah serta cagaran; merekamelindungi aset dengan insurans rumah."
-  },
-  {
-    id: 212,
-    title: "Cerita 9 — Rumah, Keselamatan & Kelengkapan (Bahagian 2)",
-    content: "Bagi keselamatan kediaman, dipasang pagar keselamatan, sistem penggera,kamera litar tertutup, dan CCTV; pencahayaan luar rumah ditambah."
-  },
-  {
-    id: 213,
-    title: "Cerita 9 — Rumah, Keselamatan & Kelengkapan (Bahagian 3)",
-    content: "Dari sudut estetika: penjagaan landskap membentuk taman mini dengantumbuhan hiasanberlatarkan landskap tropika; hiasan dalaman dan reka bentuk rumahmengemas ruang tamu, dapur, bilik tidur, bilik mandi, balkoni, halaman, dan garaj."
-  },
-  {
-    id: 214,
-    title: "Cerita 9 — Rumah, Keselamatan & Kelengkapan (Bahagian 4)",
-    content: "Sentuhan akhir termasuk cat dinding, langsir, perabot seperti sofa, meja makan,kabinet, almari, katil, tilam, bantal, serta kelengkapan elektrik: kipas, penghawa dingin,lampu, suis, plug."
-  },
-  {
-    id: 215,
-    title: "Cerita 9 — Rumah, Keselamatan & Kelengkapan (Bahagian 5)",
-    content: "Utiliti dipastikan elok—paip air, sinki, tandas, pancuran mandi, pemanasair—serta peralatan: peti sejuk, dapur gas, ketuhar, periuk nasi, mesin basuh, penyeduthabuk, seterika, rak pinggan, dan pengering rambut."
-  },
-  {
-    id: 216,
-    title: "Cerita 10 — Penjagaan Rumah Seharian (Bahagian 1)",
-    content: "Untuk penjagaan rumah, keluarga membahagi kerja rumah dan tugas domestik:menyapu, mengelap, mencuci, membasuh, menyusun, mengemas, dan membuang sampahsambil mengamalkan kitar semula sisa."
-  },
-  {
-    id: 217,
-    title: "Cerita 10 — Penjagaan Rumah Seharian (Bahagian 2)",
-    content: "Penyelenggaraan harian dibantu pembantu rumah atau pekerja pembersihan;jika ada kerosakan besar, mereka menghubungi kontraktor servis yang bertauliah."
-  },
-  {
-    id: 218,
-    title: "Cerita 10 — Penjagaan Rumah Seharian (Bahagian 3)",
-    content: "Rumah terurus, hati pun tenang—seimbangkan ibadah, keluarga, dan amanahkehidupan."
-  },
-  {
-    id: 219,
-    title: "Cerita 1 — Servis Rumah & Pakar Tapak (Bahagian 1)",
-    content: "Syarikat kejiranan menyediakan servis penyelenggaraan termasuk servis elektrik,servis paip, dan servis penghawa dingin."
-  },
-  {
-    id: 220,
-    title: "Cerita 1 — Servis Rumah & Pakar Tapak (Bahagian 2)",
-    content: "Tukang paip membaiki kebocoran, tukang elektrik menyemak fius, tukang catmenyegar dinding, tukang kayu membina rak, manakala tukang besi memperkukuh pagar."
-  },
-  {
-    id: 221,
-    title: "Cerita 1 — Servis Rumah & Pakar Tapak (Bahagian 3)",
-    content: "Kerja kecil ini mengurangkan risiko besar dan menjimatkan kos kepada pemilikkediaman."
-  },
-  {
-    id: 222,
-    title: "Cerita 2 — Pasukan Projek & Tapak Binaan (Bahagian 1)",
-    content: "Untuk projek perumahan, kontraktor pembinaan dan syarikat pembinaanbekerjasama dengan arkitek, jurutera awam, juruteknik tapak, jurukur bahan, jurukur tanah,serta perunding projek."
-  },
-  {
-    id: 223,
-    title: "Cerita 2 — Pasukan Projek & Tapak Binaan (Bahagian 2)",
-    content: "Mereka menyiapkan pelan bangunan sehingga mendapat kelulusan pelan,memohon lesen pembinaan dan permit kerja, lalu membuka tapak pembinaan dengankawalan keselamatan rapi."
-  },
-  {
-    id: 224,
-    title: "Cerita 3 — Bahan, Sistem & Butiran Teknikal (Bahagian 1)",
-    content: "Senarai bahan binaan merangkumi simen, batu bata, keluli, pasir, konkrit, kayu,jubin, cat, dan kaca."
-  },
-  {
-    id: 225,
-    title: "Cerita 3 — Bahan, Sistem & Butiran Teknikal (Bahagian 2)",
-    content: "Pemasangan tingkap, pintu, dan bumbung diselaraskan bersama paip air sertapendawaian elektrik."
-  },
-  {
-    id: 226,
-    title: "Cerita 3 — Bahan, Sistem & Butiran Teknikal (Bahagian 3)",
-    content: "Infrastruktur asas meliputi sistem saliran, sistem kumbahan, sistem bekalan air,dan sistem elektrik; semuanya berpandukan reka bentuk struktur dan reka bentuk dalamanyang mematuhi kod."
-  },
-  {
-    id: 227,
-    title: "Cerita 4 — Kitar Tadbir Binaan (Bahagian 1)",
-    content: "Pelabur menilai pelan pembangunan, kos projek, serta bajet pembinaan sebelummemasuki tender kerajaan dan proses pembidaan."
-  },
-  {
-    id: 228,
-    title: "Cerita 4 — Kitar Tadbir Binaan (Bahagian 2)",
-    content: "Perjanjian dimeterai melalui kontrak pembinaan dan kontrak penyelenggaraan."
-  },
-  {
-    id: 229,
-    title: "Cerita 4 — Kitar Tadbir Binaan (Bahagian 3)",
-    content: "Pasukan menjalankan audit projek, menyediakan laporan kemajuan, membuatlawatan tapak, dan menunggu pengesahan akhir untuk sijil kelulusan, seterusnyapenghunian dan penyerahan kunci."
-  },
-  {
-    id: 230,
-    title: "Cerita 5 — Pasaran Hartanah & Perancangan Bandar (Bahagian 1)",
-    content: "Di pasaran, pemaju hartanah bekerjasama dengan ejen hartanah menilaipasaran hartanah, nilai pasaran, harga rumah, kadar sewa, serta peluang pelaburanhartanah tanpa terjerumus spekulasi pasaran."
-  },
-  {
-    id: 231,
-    title: "Cerita 5 — Pasaran Hartanah & Perancangan Bandar (Bahagian 2)",
-    content: "Kerajaan menata pembangunan bandar melalui zon perumahan, kawasankomersial, dan kawasan industri mengikut rancangan tempatan dan pelan struktur bandaryang dikawal majlis perbandaran (PBT)."
-  },
-  {
-    id: 232,
-    title: "Cerita 5 — Pasaran Hartanah & Perancangan Bandar (Bahagian 3)",
-    content: "Urusan cukai pintu, lesen perniagaan, permit iklan, dan papan tanda dipantau,sementara lampu jalan, sistem pembetungan, sistem longkang, pengurusan sisa pepejal, lorisampah, pusat kitar semula, kempen kebersihan, dan program gotong-royong memastikanpersekitaran bersih."
-  },
-  {
     id: 233,
-    title: "Cerita 6 — Komuniti Selamat & Urus Kondominium (Bahagian 1)",
-    content: "Dengan sokongan sukarelawan komuniti dan penduduk tempatan, rukuntetangga memperkukuh keselamatan kejiranan melalui kawalan keselamatan oleh pengawalkeselamatan, rondaan malam, kamera keselamatan, dan CCTV kawasan."
+    title: "Cerita 70 (Bahagian 4) - Warisan & Pelancongan",
+    content: "Setiap lawatan mengukuhkan jati diri, ekonomi setempat, dan hubungan budaya secara lestari."
   },
   {
     id: 234,
-    title: "Cerita 6 — Komuniti Selamat & Urus Kondominium (Bahagian 2)",
-    content: "Kondominium dilindungi sistem pagar automatik dan kad akses."
+    title: "Cerita 71 (Bahagian 1) - Rangka Alam & Tenaga Mampan",
+    content: "Pasukan menjalankan pemuliharaan alam serta konservasi biodiversiti untuk menyelamatkan flora dan fauna."
   },
   {
     id: 235,
-    title: "Cerita 6 — Komuniti Selamat & Urus Kondominium (Bahagian 3)",
-    content: "Dalam pengurusan kondominium, penghuni membayar yuran penyelenggaraan,menghadiri mesyuarat penduduk, menyemak laporan kewangan, mengurus akaun bersamadengan bendahari, serta memilih jawatankuasa penduduk—pengerusi, setiausaha, dan ahlijawatankuasa—melalui undian tahunan."
+    title: "Cerita 71 (Bahagian 2) - Rangka Alam & Tenaga Mampan",
+    content: "Di pesisir, pakar memulihara hidupan marin dan terumbu karang; di darat, program penanaman semula hutan memastikan kelestarian."
   },
   {
     id: 236,
-    title: "Cerita 6 — Komuniti Selamat & Urus Kondominium (Bahagian 4)",
-    content: "Semua aktiviti direkod dalam laporan aktiviti dan diraikan dalam majlis komuniti."
+    title: "Cerita 71 (Bahagian 3) - Rangka Alam & Tenaga Mampan",
+    content: "Bandar menggunakan tenaga boleh diperbaharui seperti suria, angin, hidro, dan biojisim, di samping langkah penjimatan tenaga."
   },
   {
     id: 237,
-    title: "Cerita 7 — Hari Komuniti & Kesihatan (Bahagian 1)",
-    content: "Kawasan ini menganjurkan sambutan tahunan dan hari keluarga dengansukaneka komuniti, pertandingan memasak, pertandingan mewarna, dan pamerankesihatan."
+    title: "Cerita 71 (Bahagian 4) - Rangka Alam & Tenaga Mampan",
+    content: "Dasar pengurusan sisa menekankan kitar semula dan pengasingan bahan buangan."
   },
   {
     id: 238,
-    title: "Cerita 7 — Hari Komuniti & Kesihatan (Bahagian 2)",
-    content: "Pengunjung menikmati pemeriksaan kesihatan percuma, menyertai derma darah,dan menghadiri ceramah kesedaran serta kempen kesihatan."
+    title: "Cerita 71 (Bahagian 5) - Rangka Alam & Tenaga Mampan",
+    content: "Untuk mengurangkan pencemaran udara, air, tanah, dan bunyi, kota memperkenalkan teknologi hijau, pensijilan hijau, bangunan hijau, dan reka bentuk mampan."
   },
   {
     id: 239,
-    title: "Cerita 7 — Hari Komuniti & Kesihatan (Bahagian 3)",
-    content: "Program aktiviti kebajikan digerakkan melalui pengumpulan dana, tabungkebajikan, bantuan masyarakat, sumbangan amal, zakat komuniti, sumbangan derma, dankempen derma."
+    title: "Cerita 72 (Bahagian 1) - Iklim & Tindak Balas Bencana",
+    content: "Majlis daerah mengaktifkan pelan adaptasi iklim dan mitigasi risiko bencana."
   },
   {
     id: 240,
-    title: "Cerita 8 — Belia, Kepimpinan & Keusahawanan (Bahagian 1)",
-    content: "Golongan muda digerakkan oleh sukarelawan belia menerusi program motivasi,bengkel keusahawanan, ceramah kerjaya, program latihan, dan latihan kemahiran."
+    title: "Cerita 72 (Bahagian 2) - Iklim & Tindak Balas Bencana",
+    content: "Terdapat pengurusan risiko banjir, siren amaran awal, dan sistem pemantauan berasaskan peta risiko."
+  },
+  {
+    id: 241,
+    title: "Cerita 72 (Bahagian 3) - Iklim & Tindak Balas Bencana",
+    content: "Program ketahanan komuniti melatih penduduk menghadapi krisis, menyediakan bantuan kecemasan, dan pelan pemulihan pasca bencana."
+  },
+  {
+    id: 242,
+    title: "Cerita 72 (Bahagian 4) - Iklim & Tindak Balas Bencana",
+    content: "Ribuan sukarelawan menyokong agensi pertahanan awam, bomba dan penyelamat, serta koordinasi bersama polis dan angkatan tentera."
+  },
+  {
+    id: 243,
+    title: "Cerita 73 (Bahagian 1) - Keselamatan & Pertahanan Serantau",
+    content: "Di sempadan, pasukan melaksana kawalan bersama imigresen dan kastam melalui penguatkuasaan undang-undang, rondaan keselamatan, dan operasi khas."
+  },
+  {
+    id: 244,
+    title: "Cerita 73 (Bahagian 2) - Keselamatan & Pertahanan Serantau",
+    content: "Latihan berkala memperkukuh kecekapan penggunaan senjata dan koordinasi pertahanan udara."
+  },
+  {
+    id: 245,
+    title: "Cerita 73 (Bahagian 3) - Keselamatan & Pertahanan Serantau",
+    content: "Melalui diplomasi keselamatan dan kerjasama pertahanan, negara turut menyertai misi pengaman dan bantuan kemanusiaan rentas rantau."
+  },
+  {
+    id: 246,
+    title: "Cerita 74 (Bahagian 1) - Diplomasi & Organisasi Global",
+    content: "Kementerian menyertai organisasi seperti PBB, ASEAN, OIC, Komanwel, APEC, WHO, UNICEF, UNESCO, Bank Dunia, IMF, OECD, dan WTO."
+  },
+  {
+    id: 247,
+    title: "Cerita 74 (Bahagian 2) - Diplomasi & Organisasi Global",
+    content: "Melalui rundingan perdagangan dan diplomasi ekonomi, negara menggalakkan pelaburan asing daripada syarikat multinasional."
+  },
+  {
+    id: 248,
+    title: "Cerita 74 (Bahagian 3) - Diplomasi & Organisasi Global",
+    content: "Negara meluaskan eksport utama dan menyeimbangkan import komoditi."
+  },
+  {
+    id: 249,
+    title: "Cerita 75 (Bahagian 1) - Enjin Sektor Utama",
+    content: "Komoditi seperti minyak sawit, getah asli, minyak mentah, gas asli, dan bijih timah menggerakkan ekonomi."
+  },
+  {
+    id: 250,
+    title: "Cerita 75 (Bahagian 2) - Enjin Sektor Utama",
+    content: "Pertanian moden memanfaatkan teknologi seperti dron pertanian, sistem pengairan, baja organik, dan kawalan racun perosak."
+  },
+  {
+    id: 251,
+    title: "Cerita 75 (Bahagian 3) - Enjin Sektor Utama",
+    content: "Ladang padi, kelapa sawit, dan getah melengkapi kebun sayur-sayuran dan buah-buahan."
+  },
+  {
+    id: 252,
+    title: "Cerita 75 (Bahagian 4) - Enjin Sektor Utama",
+    content: "Sektor ternakan seperti lembu, kambing, ayam, dan itik ditambah perikanan air tawar dan akuakultur kolam ikan."
+  },
+  {
+    id: 253,
+    title: "Cerita 75 (Bahagian 5) - Enjin Sektor Utama",
+    content: "Rantaian hasil laut diurus nelayan dari jeti, disokong koperasi serta agensi seperti FAMA, LPP, RISDA, FELDA, FELCRA, MARDI, dan LGM."
+  },
+  {
+    id: 254,
+    title: "Cerita 76 (Bahagian 1) - Desa & Rancangan Tanah",
+    content: "Luar bandar melaksana projek penanaman semula di kawasan rancangan, termasuk penempatan semula untuk pembangunan desa."
+  },
+  {
+    id: 255,
+    title: "Cerita 76 (Bahagian 2) - Desa & Rancangan Tanah",
+    content: "Kerajaan membina infrastruktur asas: bekalan air, bekalan elektrik, jalan luar bandar, dan kemudahan awam seperti klinik desa dan sekolah luar bandar."
+  },
+  {
+    id: 256,
+    title: "Cerita 76 (Bahagian 3) - Desa & Rancangan Tanah",
+    content: "Ekonomi kecil dipacu pasar tani, pusat komuniti, dewan serbaguna, balai raya, pejabat daerah, dan majlis daerah di bawah PBT."
+  },
+  {
+    id: 257,
+    title: "Cerita 76 (Bahagian 4) - Desa & Rancangan Tanah",
+    content: "Hasil negeri dipertingkat melalui kutipan hasil, penyelarasan lesen perniagaan, permit penjaja, dan pembangunan tapak pasar."
+  },
+  {
+    id: 258,
+    title: "Cerita 77 (Bahagian 1) - Reka Bandar & Nadi Perniagaan",
+    content: "Unit teknikal memacu perancangan bandar berasaskan pelan struktur dan pelan tempatan."
+  },
+  {
+    id: 259,
+    title: "Cerita 77 (Bahagian 2) - Reka Bandar & Nadi Perniagaan",
+    content: "Zonasi menetapkan zon perindustrian, kawasan perniagaan, pusat bandar, kawasan perumahan, taman industri, dan kawasan komersial."
+  },
+  {
+    id: 260,
+    title: "Cerita 77 (Bahagian 3) - Reka Bandar & Nadi Perniagaan",
+    content: "Pelabur membina bangunan pejabat, kompleks membeli-belah, pasar raya, dan kedai serbaneka."
+  },
+  {
+    id: 261,
+    title: "Cerita 77 (Bahagian 4) - Reka Bandar & Nadi Perniagaan",
+    content: "Ekosistem kulinari tumbuh di restoran, kafe, warung, medan selera, dan trak makanan."
+  },
+  {
+    id: 262,
+    title: "Cerita 78 (Bahagian 1) - Mobiliti & Pesanan Segera",
+    content: "Bandar menyokong perkhidmatan penghantaran dan e-hailing; pemandu beroperasi dengan selamat."
+  },
+  {
+    id: 263,
+    title: "Cerita 78 (Bahagian 2) - Mobiliti & Pesanan Segera",
+    content: "Permintaan penghantaran makanan meningkat melalui aplikasi pesanan yang menawarkan diskaun, promosi, baucar, dan pulangan tunai."
+  },
+  {
+    id: 264,
+    title: "Cerita 78 (Bahagian 3) - Mobiliti & Pesanan Segera",
+    content: "Usahawan kecil mengekalkan pelanggan setia, mengurus ulasan pelanggan, penarafan bintang, dan testimoni demi membina reputasi jenama."
+  },
+  {
+    id: 265,
+    title: "Cerita 79 (Bahagian 1) - Media Sosial & Ledakan Jualan",
+    content: "Jenama tempatan merancakkan kempen media sosial dengan pencipta kandungan dan pempengaruh."
+  },
+  {
+    id: 266,
+    title: "Cerita 79 (Bahagian 2) - Media Sosial & Ledakan Jualan",
+    content: "Melalui kolaborasi jenama, penajaan, dan acara promosi, mereka menyertai festival jualan yang meriah."
+  },
+  {
+    id: 267,
+    title: "Cerita 79 (Bahagian 3) - Media Sosial & Ledakan Jualan",
+    content: "Jualan memuncak ketika promosi mega 11.11, 12.12, dan jualan hujung tahun yang memacu trafik serta pesanan sepanjang hari."
+  },
+  {
+    id: 268,
+    title: "Cerita 80 (Bahagian 1) - Menjambatani Hijau & Perdagangan",
+    content: "Infrastruktur hijau dan bandar pintar menurunkan pelepasan, sementara diplomasi ekonomi membuka akses pasaran baharu."
+  },
+  {
+    id: 269,
+    title: "Cerita 80 (Bahagian 2) - Menjambatani Hijau & Perdagangan",
+    content: "Di desa, koperasi menghubung hasil tani ke pusat bandar; di pelabuhan, eksport komoditi bertemu piawaian global."
+  },
+  {
+    id: 270,
+    title: "Cerita 80 (Bahagian 3) - Menjambatani Hijau & Perdagangan",
+    content: "Apabila komuniti, kerajaan, dan industri bergerak seiring, ketahanan negara meningkat-alam dipelihara, ekonomi berdaya saing, dan kesejahteraan rakyat terus terjaga."
+  },
+  {
+    id: 271,
+    title: "Cerita 81 (Bahagian 1) - Ekosistem Platform & Pembeli Bijak",
+    content: "Sebuah platform e-dagang menghubungkan marketplace seperti Shopee, Lazada, TikTok Shop dan Zalora. Setiap akaun penjual disahkan sebelum menerima tempahan daripada akaun pembeli."
+  },
+  {
+    id: 272,
+    title: "Cerita 81 (Bahagian 2) - Ekosistem Platform & Pembeli Bijak",
+    content: "Pelanggan menilai melalui ulasan produk dan penilaian bintang sambil memburu penghantaran percuma, tawaran istimewa dan kupon diskaun."
+  },
+  {
+    id: 273,
+    title: "Cerita 81 (Bahagian 3) - Ekosistem Platform & Pembeli Bijak",
+    content: "Kedai menegaskan transaksi selamat, jaminan wang dikembalikan, polisi pemulangan, serta maklumat tempoh penghantaran dan penjejak pesanan."
+  },
+  {
+    id: 274,
+    title: "Cerita 81 (Bahagian 4) - Ekosistem Platform & Pembeli Bijak",
+    content: "Usahawan mengutamakan pembungkusan mesra alam untuk produk tempatan buatan Malaysia, termasuk barangan bersijil halal dan produk organik serta makanan sihat."
+  },
+  {
+    id: 275,
+    title: "Cerita 81 (Bahagian 5) - Ekosistem Platform & Pembeli Bijak",
+    content: "Rantaian nilai digital yang telus menjadikan pembelian dalam talian lebih dipercayai dan inklusif."
+  },
+  {
+    id: 276,
+    title: "Cerita 82 (Bahagian 1) - Kesejahteraan Diri Holistik",
+    content: "Kempen gaya hidup sihat menggalakkan senaman harian, kelas yoga dan kunjungan ke gimnasium demi kecergasan."
+  },
+  {
+    id: 277,
+    title: "Cerita 82 (Bahagian 2) - Kesejahteraan Diri Holistik",
+    content: "Panduan diet seimbang, pemakanan sihat, hidrasi dan tidur berkualiti menyokong kesejahteraan diri."
+  },
+  {
+    id: 278,
+    title: "Cerita 82 (Bahagian 3) - Kesejahteraan Diri Holistik",
+    content: "Bengkel kesihatan mental merangkumi pengurusan emosi, latihan meditasi dan pencarian ketenangan melalui kesedaran diri."
+  },
+  {
+    id: 279,
+    title: "Cerita 82 (Bahagian 4) - Kesejahteraan Diri Holistik",
+    content: "Dengan keseimbangan hidup yang baik dan masa berkualiti, warga lebih berdaya menghadapi rutin kerja dan hubungan sosial."
+  },
+  {
+    id: 280,
+    title: "Cerita 83 (Bahagian 1) - Jaringan Keluarga & Komuniti",
+    content: "Nilai perhubungan keluarga dipupuk oleh ibu bapa, anak dan pasangan dengan sokongan rakan serta jiran."
+  },
+  {
+    id: 281,
+    title: "Cerita 83 (Bahagian 2) - Jaringan Keluarga & Komuniti",
+    content: "Melalui hubungan sosial dan interaksi beretika, komuniti mengamalkan komunikasi berkesan, empati, hormat, toleransi, kasih sayang dan kepercayaan."
+  },
+  {
+    id: 282,
+    title: "Cerita 83 (Bahagian 3) - Jaringan Keluarga & Komuniti",
+    content: "Pusat komuniti menyediakan sokongan moral, bantuan kewangan dan bantuan psikologi, digerakkan sukarelawan sebagai manifestasi tanggungjawab sosial."
+  },
+  {
+    id: 283,
+    title: "Cerita 83 (Bahagian 4) - Jaringan Keluarga & Komuniti",
+    content: "Program pembangunan komuniti menaja inisiatif tempatan yang merapatkan jurang antara generasi."
+  },
+  {
+    id: 284,
+    title: "Cerita 84 (Bahagian 1) - Belia Memimpin",
+    content: "Program pembabitan belia melahirkan kepimpinan muda melalui pertubuhan belia dan Majlis Belia Malaysia."
+  },
+  {
+    id: 285,
+    title: "Cerita 84 (Bahagian 2) - Belia Memimpin",
+    content: "Aktiviti aktivisme sosial mengangkat suara rakyat, memupuk pendapat awam serta menganjurkan perbincangan dan konsultasi awam."
+  },
+  {
+    id: 286,
+    title: "Cerita 84 (Bahagian 3) - Belia Memimpin",
+    content: "Hasilnya, belia tampil yakin merangka cadangan dasar dan memimpin projek komuniti berimpak tinggi."
+  },
+  {
+    id: 287,
+    title: "Cerita 85 (Bahagian 1) - Demokrasi Dalam Tindakan",
+    content: "Ketika referendum atau pilihan raya, proses pengundian menampilkan calon daripada parti politik yang membawa manifesto."
+  },
+  {
+    id: 288,
+    title: "Cerita 85 (Bahagian 2) - Demokrasi Dalam Tindakan",
+    content: "Sepanjang kempen politik, ada debat calon di TV dan pengumuman keputusan oleh Suruhanjaya Pilihan Raya (SPR)."
+  },
+  {
+    id: 289,
+    title: "Cerita 85 (Bahagian 3) - Demokrasi Dalam Tindakan",
+    content: "Warga ke pusat mengundi, sementara undi pos dan undi awal disediakan."
+  },
+  {
+    id: 290,
+    title: "Cerita 85 (Bahagian 4) - Demokrasi Dalam Tindakan",
+    content: "Kelayakan diurus melalui daftar pemilih serta semakan kelayakan, dengan tumpuan kepada pengundi muda melalui agenda Undi18, pendidikan sivik dan kesedaran politik."
   }
 ]

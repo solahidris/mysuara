@@ -1,242 +1,292 @@
 export const batch10Stories = [
   {
-    id: 433,
-    title: "Cerita 5 — Biaya, Kampus & Kepimpinan Pelajar (Bahagian 2)",
-    content: "Di kampus, aktiviti kampus, kelab universiti, persatuan pelajar, dan MajlisPerwakilan Pelajar (MPP) menyemarakkan demokrasi melalui pilihan raya kampus, debatpelajar, forum ilmiah, seminar akademik, bengkel penyelidikan, dan pelbagai programakademik, termasuk kursus wajib universiti dan subjek elektif."
+    id: 523,
+    title: "Cerita 152 (Bahagian 1) - Naratif Nasional & Etika Media",
+    content: "Ketika krisis, kerajaan mengeluarkan kenyataan akhbar, sidang media dan wawancara khas untuk liputan tepat."
   },
   {
-    id: 434,
-    title: "Cerita 6 — Penilaian, Industri & Inovasi (Bahagian 1)",
-    content: "Menjelang peperiksaan akhir, pensyarah menanda markah peperiksaan; pelajarmemantau GPA dan CGPA dalam transkrip akademik sebelum menerima sijil tamatpengajian."
+    id: 524,
+    title: "Cerita 152 (Bahagian 2) - Naratif Nasional & Etika Media",
+    content: "Maklumat disiarkan melalui RTM, Bernama, Astro Awani, TV3 dan saluran berita lain."
   },
   {
-    id: 435,
-    title: "Cerita 6 — Penilaian, Industri & Inovasi (Bahagian 2)",
-    content: "Untuk kesiapsiagaan kerja, mereka menjalani latihan industri/internship,menyerahkan laporan latihan industri kepada penyelia akademik dan mentor pelajar untukpenilaian latihan serta refleksi diri."
+    id: 525,
+    title: "Cerita 152 (Bahagian 3) - Naratif Nasional & Etika Media",
+    content: "Setiap laporan menekankan berita sahih berdasarkan semakan fakta, menangkis berita palsu dan memupuk literasi media."
   },
   {
-    id: 436,
-    title: "Cerita 6 — Penilaian, Industri & Inovasi (Bahagian 3)",
-    content: "Nilai pembangunan kemahiran insaniah/soft skills, komunikasi profesional,kepimpinan pelajar, etika kerja, tanggungjawab sosial, dan keusahawanan pelajarditerjemah menjadi startup pelajar yang dibimbing program inkubasi, hab inovasi, pusatkeusahawanan, dan dibiayai dana inovasi."
+    id: 526,
+    title: "Cerita 152 (Bahagian 4) - Naratif Nasional & Etika Media",
+    content: "Portal berita mematuhi undang-undang komunikasi dan SKMM; wartawan menghasilkan laporan penyiasatan, editorial dan ruangan pendapat."
   },
   {
-    id: 437,
-    title: "Cerita 7 — Makmal, Geran & Penerbitan (Bahagian 1)",
-    content: "Pensyarah memohon geran penyelidikan untuk membiayai projek penyelidikan;hasilnya didokumenkan sebagai kertas penyelidikan, laporan projek, dan dipertahankandalam pembentangan hasil serta viva."
+    id: 527,
+    title: "Cerita 153 (Bahagian 1) - Di Balai Rakyat & Negara",
+    content: "Di Parlimen Malaysia, Dewan Rakyat dan Dewan Negara menilai usul dan rang undang-undang."
   },
   {
-    id: 438,
-    title: "Cerita 7 — Makmal, Geran & Penerbitan (Bahagian 2)",
-    content: "Penilaian penyelidikan menilai sumbangan dan etika, sebelum manuskripdihantar ke penerbitan jurnal/jurnal akademik atau prosiding persidangan yang diindeksScopus, Web of Science, dan MyCite."
+    id: 528,
+    title: "Cerita 153 (Bahagian 2) - Di Balai Rakyat & Negara",
+    content: "Semasa pembentangan bajet, dokumen melalui bacaan pertama dan kedua sebelum ke jawatankuasa pilihan."
   },
   {
-    id: 439,
-    title: "Cerita 7 — Makmal, Geran & Penerbitan (Bahagian 3)",
-    content: "Ekosistem ini diperkukuh oleh universiti penyelidikan, pusat kecemerlangan,pusat kajian, dan makmal penyelidikan dengan pengawasan etika penyelidikan sertakelulusan etika."
+    id: 529,
+    title: "Cerita 153 (Bahagian 3) - Di Balai Rakyat & Negara",
+    content: "Laporan jawatankuasa khas menjadi asas pindaan yang selaras Perlembagaan Persekutuan."
   },
   {
-    id: 440,
-    title: "Cerita 8 — Kaedah, Data & Dasar (Bahagian 1)",
-    content: "Penyiasatan bermula dengan persampelan dan pemilihan metodologi yangsesuai, diikuti analisis data sehingga membentuk dapatan kajian, perbincangan hasil, dankesimpulan penyelidikan serta cadangan kajian lanjutan."
+    id: 530,
+    title: "Cerita 154 (Bahagian 1) - Hak, Undang-Undang & Mahkamah",
+    content: "Negara menegakkan hak asasi manusia seperti kebebasan bersuara, beragama dan berhimpun."
   },
   {
-    id: 441,
-    title: "Cerita 8 — Kaedah, Data & Dasar (Bahagian 2)",
-    content: "Berbekal bukti empirikal daripada data kualitatif dan data kuantitatif, penyelidikmelakukan perbandingan antarabangsa, kajian kes, wawancara, soal selidik, dan kumpulanfokus; ketepatan dijaga dengan triangulasi data, kebolehpercayaan, kesahan, danpengenalpastian dapatan utama melalui analisis tema dan rujukan teori bagi menyokongdasar awam dan implikasi dasar."
+    id: 531,
+    title: "Cerita 154 (Bahagian 2) - Hak, Undang-Undang & Mahkamah",
+    content: "Sistem kehakiman merangkumi Mahkamah Persekutuan, Rayuan, Tinggi, Sesyen dan Majistret."
   },
   {
-    id: 442,
-    title: "Cerita 9 — Teori, Kerangka & Laporan (Bahagian 1)",
-    content: "Rangka intelektual dibina melalui teori sosial, teori politik, teori ekonomi, teoriundang-undang, teori pembangunan, teori persekutuan, teori pemisahan kuasa, dan teorikedaulatan undang-undang."
+    id: 532,
+    title: "Cerita 154 (Bahagian 3) - Hak, Undang-Undang & Mahkamah",
+    content: "Peranan Peguam Negara, Pendakwa Raya dan Suruhanjaya Kehakiman memastikan operasi undang-undang berasaskan akta dan peraturan."
   },
   {
-    id: 443,
-    title: "Cerita 9 — Teori, Kerangka & Laporan (Bahagian 2)",
-    content: "Penyelidik merangka kerangka konsep, menentukan pemboleh ubah, hipotesis,objektif kajian, persoalan kajian, dan limitasi kajian."
+    id: 533,
+    title: "Cerita 155 (Bahagian 1) - Proses Kehakiman Dalam Amalan",
+    content: "Kes jenayah bermula dengan siasatan sehingga perintah mahkamah selepas saman, rayuan, sabitan dan hukuman."
   },
   {
-    id: 444,
-    title: "Cerita 9 — Teori, Kerangka & Laporan (Bahagian 3)",
-    content: "Hasilnya dihimpun sebagai sumbangan kajian dalam laporan penyelidikanbeserta ringkasan eksekutif, hasil penemuan, cadangan polisi, penerbitan ilmiah, danpenyebaran ilmu kepada masyarakat."
+    id: 534,
+    title: "Cerita 155 (Bahagian 2) - Proses Kehakiman Dalam Amalan",
+    content: "Tertuduh boleh memohon jaminan sementara siasatan diteruskan."
   },
   {
-    id: 445,
-    title: "Cerita 10 — Jaringan Global & Pentas Ilmiah (Bahagian 1)",
-    content: "Komuniti diperteguh melalui komuniti penyelidik dan jaringan akademik yangmenjalin kolaborasi antarabangsamelalui MoU dan MoA."
+    id: 535,
+    title: "Cerita 155 (Bahagian 3) - Proses Kehakiman Dalam Amalan",
+    content: "Pendakwaan dan pembelaan mengemukakan saksi; keputusan hakim disertai alasan penghakiman."
   },
   {
-    id: 446,
-    title: "Cerita 10 — Jaringan Global & Pentas Ilmiah (Bahagian 2)",
-    content: "Program pertukaran pelajar, lawatan akademik, persidangan antarabangsa,simposium, sesi plenari, dan jemputan keynote speaker menyuburkan reputasi IPT."
+    id: 536,
+    title: "Cerita 156 (Bahagian 1) - Penguatkuasaan & Pematuhan",
+    content: "Agensi seperti PDRM, SPRM, Kastam, Imigresen, JPJ, JTK dan PBT melaksanakan penguatkuasaan undang-undang."
   },
   {
-    id: 447,
-    title: "Cerita 10 — Jaringan Global & Pentas Ilmiah (Bahagian 3)",
-    content: "Semua itu menzahirkan perpaduan nasionaldi kampus dan negara: ilmu untukkemajuan, hormat budaya, dan toleransi—asas Malaysia maju yang bersatu."
+    id: 537,
+    title: "Cerita 156 (Bahagian 2) - Penguatkuasaan & Pematuhan",
+    content: "Pemeriksaan premis menilai lesen, permit dan sijil pematuhan."
   },
   {
-    id: 448,
-    title: "Cerita 1 — Wacana Ilmiah di Kampus (Bahagian 1)",
-    content: "Di dewan kuliah, seorang penceramah jemputan berkongsi metodologi, diseliamoderator forum dan disusuli panel perbincangan antara pelbagai jabatan akademik difakulti. Peserta membentang kertas kerja lengkap abstrak, bibliografi, dan petikan rujukan,mematuhi gaya penulisan akademik untuk penulisan ilmiah dan laporan teknikal."
+    id: 538,
+    title: "Cerita 156 (Bahagian 3) - Penguatkuasaan & Pematuhan",
+    content: "Hasil diterbitkan sebagai laporan penguatkuasaan disusuli tindakan tatatertib, denda atau pendakwaan."
   },
   {
-    id: 449,
-    title: "Cerita 1 — Wacana Ilmiah di Kampus (Bahagian 2)",
-    content: "Pasukan penyelidik menyerahkan cadangan penyelidikan serta kertas cadangan,sebelum menyusun laporan akhir bagi penerbitan universiti. Di pejabat dekan, penyelarasprogram dan penasihat akademikmenyemak impak akademik dan memuktamadkan garismasa kajian."
+    id: 539,
+    title: "Cerita 157 (Bahagian 1) - Memulih & Melindungi",
+    content: "Sistem korektif menekankan pemulihan pesalah melalui khidmat masyarakat di pusat pemulihan."
   },
   {
-    id: 450,
-    title: "Cerita 2 — Mobiliti & Penarafan (Bahagian 1)",
-    content: "Musim pendaftaran kursus dibuka melalui sistem pelajar dan portal pelajar sambilmenyesuaikan jadual kuliahdengan pensyarah dan tutor."
+    id: 540,
+    title: "Cerita 157 (Bahagian 2) - Memulih & Melindungi",
+    content: "Program reintegrasi menyediakan peluang pekerjaan semula kepada bekas pesalah."
   },
   {
-    id: 451,
-    title: "Cerita 2 — Mobiliti & Penarafan (Bahagian 2)",
-    content: "Pelajar siswazah dan pelajar antarabangsa memohon pertukaran pelajar keuniversiti rakan, memperluas jaringan global dan pertukaran budaya melalui biasiswaantarabangsa, geran mobiliti, serta latihan luar negara untuk mengukuhkan pendidikanglobal."
+    id: 541,
+    title: "Cerita 157 (Bahagian 3) - Memulih & Melindungi",
+    content: "Negara memperkukuh bantuan sosial, perlindungan dan hak mangsa."
   },
   {
-    id: 452,
-    title: "Cerita 2 — Mobiliti & Penarafan (Bahagian 3)",
-    content: "Kampus yang universiti bertaraf duniameraikan kedudukan ranking universiti diTimes Higher Education dan QS Ranking, mengekalkan akreditasi antarabangsa sertapenarafan akademik dengan menitikberatkan kualiti pengajaran dan pengalamanpembelajaran."
+    id: 542,
+    title: "Cerita 158 (Bahagian 1) - Kejiranan Peka & Teknologi Pelapor",
+    content: "Komuniti memperhebat pencegahan jenayah melalui rondaan komuniti, rukun tetangga dan program kejiranan selamat."
   },
   {
-    id: 453,
-    title: "Cerita 3 — EdTech & LMS (Bahagian 1)",
-    content: "Pensyarah memanfaatkan teknologi pendidikan bagi e-pembelajaran danpembelajaran hibrid di pelbagai platform digital."
+    id: 543,
+    title: "Cerita 158 (Bahagian 2) - Kejiranan Peka & Teknologi Pelapor",
+    content: "Setiap kejadian direkod sebagai laporan polis melalui aplikasi VSP dan saluran aduan rasmi."
   },
   {
-    id: 454,
-    title: "Cerita 3 — EdTech & LMS (Bahagian 2)",
-    content: "Sistem pengurusan pembelajaran (LMS) seperti Moodle, Google Classroom,Microsoft Teams, dan Zoommenyokong rakaman kuliah."
+    id: 544,
+    title: "Cerita 158 (Bahagian 3) - Kejiranan Peka & Teknologi Pelapor",
+    content: "Usaha ini memperkukuh integriti awam, ketelusan pentadbiran dan akauntabiliti kerajaan."
   },
   {
-    id: 455,
-    title: "Cerita 3 — EdTech & LMS (Bahagian 3)",
-    content: "Koleksi sumber terbuka, bahan pembelajaran digital, video pendidikan, dankandungan interaktif diperkaya melalui gamifikasi, microlearning, MOOC, dan pelbagaikursus dalam talian."
+    id: 545,
+    title: "Cerita 159 (Bahagian 1) - Membina Kepercayaan Melalui Pembaharuan",
+    content: "Kerajaan memacu reformasi institusi, undang-undang dan perlembagaan."
   },
   {
-    id: 456,
-    title: "Cerita 3 — EdTech & LMS (Bahagian 4)",
-    content: "Mahasiswa mengamalkan pembelajaran kendiri untuk pembelajaran sepanjanghayat."
+    id: 546,
+    title: "Cerita 159 (Bahagian 2) - Membina Kepercayaan Melalui Pembaharuan",
+    content: "Ketelusan kehakiman dan kebebasan media dipertingkatkan melalui penyertaan awam dan konsultasi dasar."
   },
   {
-    id: 457,
-    title: "Cerita 4 — Kecekapan Abad ke-21 (Bahagian 1)",
-    content: "Kurikulum menekankan kemahiran masa depan, digital literacy, kemahiranteknologi, dan kemahiran komunikasi."
+    id: 547,
+    title: "Cerita 159 (Bahagian 3) - Membina Kepercayaan Melalui Pembaharuan",
+    content: "Dapatan maklum balas rakyat dihimpun dalam laporan konsultasi di portal rasmi."
   },
   {
-    id: 458,
-    title: "Cerita 4 — Kecekapan Abad ke-21 (Bahagian 2)",
-    content: "Aktiviti studio mengasah pemikiran kritikal, penyelesaian masalah, serta kreativitidan inovasimelalui projek kolaboratif yang menuntut kepimpinan, kerja berpasukan, adaptasiperubahan, dan daya tahan."
+    id: 548,
+    title: "Cerita 160 (Bahagian 1) - E-Partisipasi & Nilai Kebangsaan",
+    content: "Platform e-partisipasi menggerakkan e-rakyat untuk mendukung tadbir urus baik, kecekapan pentadbiran dan ketelusan dasar."
   },
   {
-    id: 459,
-    title: "Cerita 4 — Kecekapan Abad ke-21 (Bahagian 3)",
-    content: "Bengkel bimbingan menumbuhkan kecerdasan emosi, empati, profesionalisme,integriti, nilai moral, tanggungjawab sosial, serta etika pekerjaan sambil menjagakeseimbangan hidup."
+    id: 549,
+    title: "Cerita 160 (Bahagian 2) - E-Partisipasi & Nilai Kebangsaan",
+    content: "Penglibatan masyarakat memastikan pembangunan inklusif berasaskan penyertaan awam dan nilai demokrasi."
   },
   {
-    id: 460,
-    title: "Cerita 5 — Lintasan ke Dunia Kerja (Bahagian 1)",
-    content: "Pusat kerjaya menawarkan pembangunan kerjaya, bimbingan kerjaya, danpenempatan latihan industri untuk meluaskan pengalaman kerja."
+    id: 550,
+    title: "Cerita 160 (Bahagian 3) - E-Partisipasi & Nilai Kebangsaan",
+    content: "Pendidikan sivik menyemai patriotisme dan mengukuhkan integrasi nasional."
   },
   {
-    id: 461,
-    title: "Cerita 5 — Lintasan ke Dunia Kerja (Bahagian 2)",
-    content: "Melalui program mentor, pelajar menyertai pembangunan kepimpinan, latihanprofesional, kursus pendek, dan memperoleh sijil profesional serta akreditasi kemahiranyang relevan."
+    id: 551,
+    title: "Cerita 161 (Bahagian 1) - Perpaduan, Bendera & Sejarah",
+    content: "Semangat perpaduan terserlah ketika sambutan kemerdekaan; rakyat mengibar Jalur Gemilang dan menyanyikan Negaraku dengan patriotisme."
   },
   {
-    id: 462,
-    title: "Cerita 6 — Jambatan Industri–Akademia (Bahagian 1)",
-    content: "Ekosistem kampus memaju hubungan industri dan akademia melaluiperkongsian pintar, memacu inovasi industridan penyelidikan bersama."
+    id: 552,
+    title: "Cerita 161 (Bahagian 2) - Perpaduan, Bendera & Sejarah",
+    content: "Pameran di Muzium Negara dan Arkib Negara mengimbau sejarah Malaysia dari era penjajahan hingga kemerdekaan."
   },
   {
-    id: 463,
-    title: "Cerita 6 — Jambatan Industri–Akademia (Bahagian 2)",
-    content: "Hasilnya diterjemah menjadi pembangunan teknologi, dipercepatkan di pusatinovasi, taman teknologi, inkubator perniagaan, dan hab digital untuk pengkomersialan yanglestari."
+    id: 553,
+    title: "Cerita 161 (Bahagian 3) - Perpaduan, Bendera & Sejarah",
+    content: "Peringatan di Tugu Negara menyanjung pengorbanan tentera dan PDRM, menghidupkan semangat juang serta jati diri nasional."
   },
   {
-    id: 464,
-    title: "Cerita 7 — Rantaian Pemula & Dana (Bahagian 1)",
-    content: "Gelombang startup Malaysia melahirkan syarikat pemula dalam ekosisteminovasi yang disokong pelaburan modal teroka (VC), pembiayaan awal, dan angel investor."
+    id: 554,
+    title: "Cerita 162 (Bahagian 1) - Rukun, Perlembagaan & Sivik",
+    content: "Dalam pendidikan sivik, pelajar mempelajari Rukun Negara untuk memupuk keharmonian kaum dan toleransi agama."
   },
   {
-    id: 465,
-    title: "Cerita 7 — Rantaian Pemula & Dana (Bahagian 2)",
-    content: "Usahawan memohon geran permulaan melalui MyStartup, Cradle Fund, denganbimbingan agensi seperti MOSTI, MRANTI, MDEC, MaGIC, dan skim Dana MADANI untukmenembusi pasaran serantau."
+    id: 555,
+    title: "Cerita 162 (Bahagian 2) - Rukun, Perlembagaan & Sivik",
+    content: "Kursus ini meneguhkan faham perlembagaan serta menghubungkan nilai itu dengan sambutan Hari Kebangsaan dan Hari Malaysia."
   },
   {
-    id: 466,
-    title: "Cerita 8 — Dasar, AI & Ekonomi Digital (Bahagian 1)",
-    content: "Negara menyelaras Dasar Sains, Teknologi dan Inovasi Negara (NPSTI) danDasar Ekonomi Digital selari MyDigital serta Pelan Tindakan AI Nasional yang diterajuiNAIO."
+    id: 556,
+    title: "Cerita 162 (Bahagian 3) - Rukun, Perlembagaan & Sivik",
+    content: "Nilai-nilai ini memastikan identiti nasional terpelihara dari generasi ke generasi."
   },
   {
-    id: 467,
-    title: "Cerita 8 — Dasar, AI & Ekonomi Digital (Bahagian 2)",
-    content: "Di kampus, Rangka Kerja Etika AImenegaskan keselamatan AI, tadbir urus AI,dan pembangunan bertanggungjawab agar AI untuk kesejahteraandan AI dan produktivitimemacu ekonomi digital."
+    id: 557,
+    title: "Cerita 163 (Bahagian 1) - Sistem Sekolah & KPM",
+    content: "KPM bersama Jabatan Pendidikan Negeri dan PPD menyelaras kurikulum kebangsaan."
   },
   {
-    id: 468,
-    title: "Cerita 8 — Dasar, AI & Ekonomi Digital (Bahagian 3)",
-    content: "PKS memacu perniagaan digital dan PKS digital melalui transformasi digital,platform e-dagang, pembayaran tanpa tunai, data raya, analitik ramalan, dan automasiindustri."
+    id: 558,
+    title: "Cerita 163 (Bahagian 2) - Sistem Sekolah & KPM",
+    content: "Murid sekolah rendah dan menengah mempelajari subjek sejarah di SK, SJK dan sekolah agama."
   },
   {
-    id: 469,
-    title: "Cerita 8 — Dasar, AI & Ekonomi Digital (Bahagian 4)",
-    content: "Rantaian teknologi seperti rantaian blok, Internet benda, IoT Malaysia, 5G, sertarangkaian komunikasimengukuhkan infrastruktur digital, keselamatan siber, kepercayaandigital, data terbuka, dan pelindungan datamenuju inovasi beretika, tadbir urus korporatdigital, serta kepimpinan digital."
+    id: 559,
+    title: "Cerita 163 (Bahagian 3) - Sistem Sekolah & KPM",
+    content: "Pelajar cemerlang ke SBP dan MRSM; laluan teknikal ditawarkan di kolej vokasional, politeknik dan kolej komuniti."
   },
   {
-    id: 470,
-    title: "Cerita 9 — Bakat Digital & Kolaborasi (Bahagian 1)",
-    content: "Negara mempercepat pembangunan tenaga kerja digital dan kemahiran masahadapan melalui program latihan digital, inisiatif MyDigitalWorkforce, dan tajaan HRD Corp."
+    id: 560,
+    title: "Cerita 164 (Bahagian 1) - Ke Universiti & Konvokesyen",
+    content: "Lepasan matrikulasi atau asasi menyambung diploma dan ijazah di IPTA atau IPTS seperti UM, UPM, UKM, UNIMAS, UiTM dan lain-lain."
   },
   {
-    id: 471,
-    title: "Cerita 9 — Bakat Digital & Kolaborasi (Bahagian 2)",
-    content: "Sebuah pelan pembangunan bakat menyokong inisiatif AI Nasional denganlatihan tenaga kerja, upskilling, reskilling, dan literasi AI."
+    id: 561,
+    title: "Cerita 164 (Bahagian 2) - Ke Universiti & Konvokesyen",
+    content: "Selepas sarjana atau PhD, graduan diraikan dalam majlis konvokesyen yang meriah."
   },
   {
-    id: 472,
-    title: "Cerita 9 — Bakat Digital & Kolaborasi (Bahagian 3)",
-    content: "Komuniti membentuk komuniti AI antara penyelidik AI, syarikat industri teknologitinggi, dan makmal R&D nasional dalam ekosistem inovatif."
+    id: 562,
+    title: "Cerita 165 (Bahagian 1) - Biaya, Kampus & Kepimpinan Pelajar",
+    content: "Biasiswa, dermasiswa, PTPTN, MARA dan dana pendidikan menampung yuran pengajian serta penginapan pelajar."
   },
   {
-    id: 473,
-    title: "Cerita 9 — Bakat Digital & Kolaborasi (Bahagian 4)",
-    content: "Melalui kolaborasi awam-swasta, pemindahan teknologi dan pembangunanekosistem mendorong pertumbuhan ekonomi digital yang inklusif."
+    id: 563,
+    title: "Cerita 165 (Bahagian 2) - Biaya, Kampus & Kepimpinan Pelajar",
+    content: "Aktiviti kelab universiti, persatuan pelajar dan MPP menyemarakkan demokrasi dan program akademik."
   },
   {
-    id: 474,
-    title: "Cerita 10 — Kreatif & Warisan (Bahagian 1)",
-    content: "Lonjakan ekonomi kreatif memacu industri kandungan digital, termasuk industrianimasi, industri permainan, e-sukan, dan industri filem, beriringan muzik tempatan, senipersembahan, teater, tarian tradisional, serta lagu rakyat."
+    id: 564,
+    title: "Cerita 165 (Bahagian 3) - Biaya, Kampus & Kepimpinan Pelajar",
+    content: "Pilihan raya kampus, debat pelajar dan seminar ilmiah membentuk kepimpinan pelajar."
   },
   {
-    id: 475,
-    title: "Cerita 10 — Kreatif & Warisan (Bahagian 2)",
-    content: "Program menonjolkan kebudayaan Malaysia dan warisan budaya melaluipakaian tradisional, makanan tradisional, dan seni kraf tangan seperti batik Malaysia,songket, anyaman, ukiran kayu, tembikar."
+    id: 565,
+    title: "Cerita 166 (Bahagian 1) - Penilaian, Industri & Inovasi",
+    content: "Pensyarah menanda peperiksaan; pelajar memantau GPA dan CGPA dalam transkrip akademik."
   },
   {
-    id: 476,
-    title: "Cerita 10 — Kreatif & Warisan (Bahagian 3)",
-    content: "Pameran seni visual berlangsung di galeri seni dan pameran budaya, disokongmuzium warisan dan aneka program kebudayaan."
+    id: 566,
+    title: "Cerita 166 (Bahagian 2) - Penilaian, Industri & Inovasi",
+    content: "Latihan industri membina kesiapsiagaan kerja dengan laporan penilaian dan refleksi diri."
   },
   {
-    id: 477,
-    title: "Cerita 10 — Kreatif & Warisan (Bahagian 4)",
-    content: "Kota meraikan festival seni sepanjang bulan kebudayaan, memupuk identitinasional yang kreatif, lestari, dan berdaya saing."
+    id: 567,
+    title: "Cerita 166 (Bahagian 3) - Penilaian, Industri & Inovasi",
+    content: "Soft skills, profesionalisme dan keusahawanan diterjemah menjadi startup pelajar melalui hab inovasi dan inkubasi."
   },
   {
-    id: 478,
-    title: "Cerita 1 — Strategi Nasional & Nadi Ekonomi (Bahagian 1)",
-    content: "Negara memacu ekonomi berasaskan inovasi, merangkumi ekonomi kreatif,ekonomi hijau, ekonomi biru, dan ekonomi sirkular untuk pertumbuhan mampan."
+    id: 568,
+    title: "Cerita 167 (Bahagian 1) - Makmal, Geran & Penerbitan",
+    content: "Pensyarah memohon geran penyelidikan untuk membiayai projek dan menghasilkan laporan, kertas penyelidikan serta viva."
   },
   {
-    id: 479,
-    title: "Cerita 1 — Strategi Nasional & Nadi Ekonomi (Bahagian 2)",
-    content: "Melalui strategi pembangunan, Pelan Induk Perindustrian, Rancangan Malaysia,dan khususnya Rancangan Malaysia Ke-12, Kementerian Ekonomi serta Unit PerancangEkonomi (EPU) menyelaras strategi pelaburan berasaskan laporan prestasi ekonomi."
+    id: 569,
+    title: "Cerita 167 (Bahagian 2) - Makmal, Geran & Penerbitan",
+    content: "Manuskrip dihantar ke jurnal Scopus, WoS dan MyCite; disokong universiti penyelidikan dan pusat kecemerlangan."
   },
   {
-    id: 480,
-    title: "Cerita 1 — Strategi Nasional & Nadi Ekonomi (Bahagian 3)",
-    content: "Petunjuk seperti pertumbuhan KDNK, kadar pengangguran, kadar inflasi, danindeks harga pengguna dipantau; imbangan sektor luar dinilai melalui eksport komoditi,import barangan, risiko defisit perdagangan, serta peluang lebihan akaun semasa."
+    id: 570,
+    title: "Cerita 167 (Bahagian 3) - Makmal, Geran & Penerbitan",
+    content: "Makmal dan pusat kajian memastikan pematuhan etika penyelidikan."
+  },
+  {
+    id: 571,
+    title: "Cerita 168 (Bahagian 1) - Kaedah, Data & Dasar",
+    content: "Penyiasatan bermula dengan persampelan, metodologi dan analisis data sehingga dapatan dibentuk."
+  },
+  {
+    id: 572,
+    title: "Cerita 168 (Bahagian 2) - Kaedah, Data & Dasar",
+    content: "Penyelidik menggunakan perbandingan antarabangsa, kajian kes, soal selidik, wawancara dan kumpulan fokus."
+  },
+  {
+    id: 573,
+    title: "Cerita 168 (Bahagian 3) - Kaedah, Data & Dasar",
+    content: "Triangulasi, kebolehpercayaan dan kesahan menjamin ketepatan untuk menyokong dasar awam."
+  },
+  {
+    id: 574,
+    title: "Cerita 169 (Bahagian 1) - Teori, Kerangka & Laporan",
+    content: "Kerangka intelektual dibina melalui teori sosial, politik, ekonomi, pembangunan, persekutuan dan pemisahan kuasa."
+  },
+  {
+    id: 575,
+    title: "Cerita 169 (Bahagian 2) - Teori, Kerangka & Laporan",
+    content: "Penyelidik menentukan pemboleh ubah, hipotesis, objektif dan persoalan kajian."
+  },
+  {
+    id: 576,
+    title: "Cerita 169 (Bahagian 3) - Teori, Kerangka & Laporan",
+    content: "Hasil dihimpun sebagai laporan penyelidikan, ringkasan eksekutif dan cadangan polisi."
+  },
+  {
+    id: 577,
+    title: "Cerita 170 (Bahagian 1) - Jaringan Global & Pentas Ilmiah",
+    content: "Kolaborasi antarabangsa dijalin melalui MoU, MoA, pertukaran pelajar dan persidangan."
+  },
+  {
+    id: 578,
+    title: "Cerita 170 (Bahagian 2) - Jaringan Global & Pentas Ilmiah",
+    content: "Simposium, keynote speaker dan lawatan akademik menyuburkan reputasi IPT."
+  },
+  {
+    id: 579,
+    title: "Cerita 170 (Bahagian 3) - Jaringan Global & Pentas Ilmiah",
+    content: "Perpaduan kampus dan negara terbina melalui ilmu, hormat budaya dan toleransi."
+  },
+  {
+    id: 580,
+    title: "Cerita 171 (Bahagian 1) - Wacana Ilmiah di Kampus",
+    content: "Di dewan kuliah, penceramah jemputan berkongsi metodologi dan disusuli panel perbincangan."
   }
 ]

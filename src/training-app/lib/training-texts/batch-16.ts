@@ -1,267 +1,292 @@
 export const batch16Stories = [
   {
-    id: 721,
-    title: "Cerita 3 — Kelas Sivik & Undi18 (Bahagian 2)",
-    content: "Bengkel merumus garis panduan pengundi muda: nilai, bukti, dan integriti.“Demokrasi bukan sorakan semata,” ujar guru, “ia kerja sepi memeriksa butiran.”"
+    id: 871,
+    title: "Cerita 263 (Bahagian 2)",
+    content: "Mereka membanding data, mengesan berita palsu, dan mempraktik semakan fakta. Bengkel merumus garis panduan pengundi muda: nilai, bukti, dan integriti."
   },
   {
-    id: 722,
-    title: "Cerita 3 — Kelas Sivik & Undi18 (Bahagian 3)",
-    content: "Selepas kelas, pelajar membantu kempen kebersihan sekolah, membuktikanpolitik bermula dari tindakan kecil. Gambar kenangan disertai kapsyen: “Belajar berhujah,bukan bermusuh.” Mereka pulang dengan pandangan lebih matang."
+    id: 872,
+    title: "Cerita 263 (Bahagian 3)",
+    content: "\"Demokrasi bukan sorakan semata,\" ujar guru, \"ia kerja sepi memeriksa butiran.\" Selepas kelas, pelajar membantu kempen kebersihan sekolah."
   },
   {
-    id: 723,
-    title: "Cerita 4 — Portal Data Terbuka (Bahagian 1)",
-    content: "Pasukan produk kerajaan membina portal data terbuka. Mereka menerbitkan setdata: pengangkutan, kesihatan, pendidikan, dan persekitaran. Pembangun pihak ketigamembina aplikasi rute bas, indeks sekolah, dan peta risiko banjir."
+    id: 873,
+    title: "Cerita 263 (Bahagian 4)",
+    content: "Gambar kenangan disertai kapsyen: \"Belajar berhujah, bukan bermusuh.\" Mereka pulang dengan pandangan lebih matang."
   },
   {
-    id: 724,
-    title: "Cerita 4 — Portal Data Terbuka (Bahagian 2)",
-    content: "Polisi penggunaan jelas; lesen memudah perkongsian. Komuniti saintis datamenganjurkan hackathon; idea bernas lahir. Ketua projek menekankan kualiti metadata danversi dataset."
+    id: 874,
+    title: "Cerita 264 (Bahagian 1)",
+    content: "Pasukan produk kerajaan membina portal data terbuka. Mereka menerbitkan set data: pengangkutan, kesihatan, pendidikan, dan persekitaran."
   },
   {
-    id: 725,
-    title: "Cerita 4 — Portal Data Terbuka (Bahagian 3)",
-    content: "“Data tanpa konteks,” katanya, “seperti peta tanpa arah utara.” Portal bukansempurna, namun meningkatkan akauntabiliti dan inovasi. Orang ramai mula melihatkerajaan sebagai rakan, bukan semata-mata pengawal."
+    id: 875,
+    title: "Cerita 264 (Bahagian 2)",
+    content: "Pembangun pihak ketiga membina aplikasi rute bas, indeks sekolah, dan peta risiko banjir. Polisi penggunaan jelas; lesen memudahkan perkongsian."
   },
   {
-    id: 726,
-    title: "Cerita 5 — Rumah Panjang & Pendidikan (Bahagian 1)",
-    content: "Di rumah panjang, majlis keluarga mengatur pendidikan anak. Senarai buku teksdisemak, jadual belajar dibina, dan sokongan moral ditingkat. Seorang bapa berkongsipengalaman kerja jauh; seorang ibu menekankan disiplin lembut."
+    id: 876,
+    title: "Cerita 264 (Bahagian 3)",
+    content: "Komuniti saintis data menganjurkan hackathon; idea bernas lahir. Ketua projek menekankan kualiti metadata dan versi dataset."
   },
   {
-    id: 727,
-    title: "Cerita 5 — Rumah Panjang & Pendidikan (Bahagian 2)",
-    content: "Anak sulung membantu adik menyiapkan latihan matematik. Pada hujungminggu, mereka berkebun kecil—sayur, buah—mengajar tanggungjawab."
+    id: 877,
+    title: "Cerita 264 (Bahagian 4)",
+    content: "\"Data tanpa konteks,\" katanya, \"seperti peta tanpa arah utara.\" Portal meningkatkan akauntabiliti dan inovasi."
   },
   {
-    id: 728,
-    title: "Cerita 5 — Rumah Panjang & Pendidikan (Bahagian 3)",
-    content: "Malamnya, datuk bercerita tentang sejarah dan adat, mengikat identiti. “Akarnyakukuh,” katanya, “pokoknya berbuah.” Keluarga memahami bahawa institusipertama—rumah—memupuk nilai yang sekolah dan universiti tidak mampu lengkapkansendirian."
+    id: 878,
+    title: "Cerita 265 (Bahagian 1)",
+    content: "Di rumah panjang, majlis keluarga mengatur pendidikan anak. Senarai buku teks disemak, jadual belajar dibina, dan sokongan moral ditingkat."
   },
   {
-    id: 729,
-    title: "Cerita 6 — Pejabat Tanpa Kertas (Bahagian 1)",
-    content: "Studio inovasi bandar menguji “pejabat tanpa kertas”: tandatangan digital, arkibawan, dan aliran kerja automatik. Penjimatan kos nyata; audit memuji ketelusan. Latihanpengguna menekankan keselamatan, sandaran, dan pemulihan bencana."
+    id: 879,
+    title: "Cerita 265 (Bahagian 2)",
+    content: "Pada hujung minggu, mereka berkebun kecil mengajar tanggungjawab. Malamnya, datuk bercerita tentang sejarah dan adat."
   },
   {
-    id: 730,
-    title: "Cerita 6 — Pejabat Tanpa Kertas (Bahagian 2)",
-    content: "Beberapa kakitangan ragu; fasilitator sabar menerangkan. Dalam tiga bulan,masa proses turun separuh. Laporan integriti menunjukkan jejak tindakan jelas, sukardimanipulasi."
+    id: 880,
+    title: "Cerita 265 (Bahagian 3)",
+    content: "\"Akarnya kukuh,\" katanya, \"pokoknya berbuah.\" Rumah sebagai institusi pertama terus memupuk nilai."
   },
   {
-    id: 731,
-    title: "Cerita 6 — Pejabat Tanpa Kertas (Bahagian 3)",
-    content: "“Teknologi mengubah tabiat,” kata pengarah, “bukan hanya alat.” Projek kecil inimenjadi teladan negeri, membuktikan reformasi tidak perlu retorik besar—cukup keberanianmemulakan, ketekunan menyempurnakan."
+    id: 881,
+    title: "Cerita 266 (Bahagian 1)",
+    content: "Studio inovasi bandar menguji \"pejabat tanpa kertas\": tandatangan digital, arkib awan, dan aliran kerja automatik."
   },
   {
-    id: 732,
-    title: "Cerita 7 — Debat & Kedaulatan Undang-Undang (Bahagian 1)",
-    content: "Kelab debat universiti mengundang panel pakar membincang kedaulatanundang-undang. Soalan tajam: campur tangan eksekutif, kebebasan media, dan aksesguaman. Penceramah menjelaskan peranan mahkamah, pendakwa, dan pembela; bataskuasa; serta kepentingan alasan penghakiman."
+    id: 882,
+    title: "Cerita 266 (Bahagian 2)",
+    content: "Latihan pengguna menekankan keselamatan, sandaran, dan pemulihan bencana; beberapa kakitangan ragu, fasilitator sabar menerangkan."
   },
   {
-    id: 733,
-    title: "Cerita 7 — Debat & Kedaulatan Undang-Undang (Bahagian 2)",
-    content: "Pelajar memerhati nuansa, bukan sekadar slogan. Kertas kerja dikumpul,bibliografi dikemas kini. “Hujah tanpa bukti,” kata moderator, “ialah retorik kosong.”"
+    id: 883,
+    title: "Cerita 266 (Bahagian 3)",
+    content: "Projek menjimatkan kos dan masa proses turun separuh; laporan integriti menunjukkan jejak tindakan jelas."
   },
   {
-    id: 734,
-    title: "Cerita 7 — Debat & Kedaulatan Undang-Undang (Bahagian 3)",
-    content: "Sesi berlanjutan ke kafe kampus; perbualan lebih santai tetapi tidak kurangmendalam. Dari ruang kecil itu, lahir keberanian intelektual untuk menyoal, mendengar, danmembina."
+    id: 884,
+    title: "Cerita 266 (Bahagian 4)",
+    content: "\"Teknologi mengubah tabiat,\" kata pengarah. Projek kecil ini menjadi teladan negeri."
   },
   {
-    id: 735,
-    title: "Cerita 8 — Platform Pekerjaan TVET (Bahagian 1)",
-    content: "Platform pekerjaan komuniti dilancar untuk belia TVET. Resume digital danlatihan temuduga disediakan. Majikan industri menawarkan latihan praktikal; pensijilankemahiran diiktiraf."
+    id: 885,
+    title: "Cerita 267 (Bahagian 1)",
+    content: "Kelab debat universiti mengundang panel pakar membincang kedaulatan undang-undang. Soalan tajam: campur tangan eksekutif, media, dan akses guaman."
   },
   {
-    id: 736,
-    title: "Cerita 8 — Platform Pekerjaan TVET (Bahagian 2)",
-    content: "Kaunselor membantu pemilihan kursus, membina keyakinan. Statistikmenunjukkan penempatan kerja meningkat. Sesi maklum balas mendedahkancabaran—akses internet, peranti, dan kos perjalanan—lalu yayasan menaja baucar."
+    id: 886,
+    title: "Cerita 267 (Bahagian 2)",
+    content: "Penceramah menjelaskan peranan mahkamah dan pendakwa; pelajar memerhati nuansa, bukan slogan."
   },
   {
-    id: 737,
-    title: "Cerita 8 — Platform Pekerjaan TVET (Bahagian 3)",
-    content: "“Pekerjaan bermaruah,” kata pengarah program, “adalah benteng sosial.” Ceritakejayaan dikongsi, bukan untuk bermegah, tetapi memberi harapan. Setiap profil yanglengkap dan setiap panggilan diterima menandakan jurang mula mengecil."
+    id: 887,
+    title: "Cerita 267 (Bahagian 3)",
+    content: "\"Hujah tanpa bukti,\" kata moderator, \"ialah retorik kosong.\" Perbualan bersambung ke kafe kampus."
   },
   {
-    id: 738,
-    title: "Cerita 9 — Neutraliti Karbon (Bahagian 1)",
-    content: "Syarikat tenaga menandatangani pelan neutraliti karbon. Pelaburan dialihkankepada suria, hidro, dan biojisim. Audit tenaga mendedahkan inefisiensi; pelan penjimatandilaksana."
+    id: 888,
+    title: "Cerita 268 (Bahagian 1)",
+    content: "Platform pekerjaan komuniti dilancar untuk belia TVET. Resume digital dan latihan temu duga disediakan."
   },
   {
-    id: 739,
-    title: "Cerita 9 — Neutraliti Karbon (Bahagian 2)",
-    content: "Laporan karbon diterbitkan, diulas NGO dan pelabur. “Keberanian mengakuikelemahan,” ujar CEO, “ialah langkah pertama.” Di lapangan, stesen pengecas EV dibina;insentif mengubah tingkah laku pengguna."
+    id: 889,
+    title: "Cerita 268 (Bahagian 2)",
+    content: "Majikan menawarkan latihan praktikal; kaunselor membantu pemilihan kursus. Statistik menunjukkan penempatan meningkat."
   },
   {
-    id: 740,
-    title: "Cerita 9 — Neutraliti Karbon (Bahagian 3)",
-    content: "Kritikan tetap hadir—kos, tarif, keadilan akses. Syarikat membentuk panelpenasihat, melibatkan komuniti. Perubahan tidak dramatik, namun berterusan; sepertisungai yang mengukir batu, masa memihak pada haluan tekun."
+    id: 890,
+    title: "Cerita 268 (Bahagian 3)",
+    content: "Sesi maklum balas dedah cabaran-akses internet, peranti, kos perjalanan-lalu yayasan menaja baucar."
   },
   {
-    id: 741,
-    title: "Cerita 10 — Festival Warisan (Bahagian 1)",
-    content: "Festival warisan menampilkan tarian, nyanyian, dan seni anyaman. Bengkelbahasa menulis sajak dan cerpen pendek. Gerai makanan mempertemu nasi lemak,rendang, laksa, roti canai."
+    id: 891,
+    title: "Cerita 268 (Bahagian 4)",
+    content: "\"Pekerjaan bermaruah,\" kata pengarah, \"adalah benteng sosial.\" Cerita kejayaan dikongsi memberi harapan."
   },
   {
-    id: 742,
-    title: "Cerita 10 — Festival Warisan (Bahagian 2)",
-    content: "Jurugambar merakam, penulis melakar kapsyen, penyunting mengurus siaranlangsung. Penganjur memastikan kebersihan, keselamatan, dan akses OKU. Pelan trafikdiselaras dengan polis dan RELA."
+    id: 892,
+    title: "Cerita 269 (Bahagian 1)",
+    content: "Syarikat tenaga menandatangani pelan neutraliti karbon. Pelaburan dialihkan kepada suria, hidro, dan biojisim."
   },
   {
-    id: 743,
-    title: "Cerita 10 — Festival Warisan (Bahagian 3)",
-    content: "Di pentas akhir, ucapan menyanjung perpaduan, toleransi, dan hormat budaya.Tamu pulang dengan hati penuh; mereka tidak hanya kenyang, tetapi faham bahawawarisan ialah jambatan antara semalam dan esok."
+    id: 893,
+    title: "Cerita 269 (Bahagian 2)",
+    content: "Audit tenaga dedah inefisiensi; laporan karbon diterbitkan. \"Keberanian mengakui kelemahan,\" ujar CEO."
   },
   {
-    id: 744,
-    title: "Cerita 1 — Baca Bandar (Bahagian 1)",
-    content: "Program “baca bandar” memasang rak buku mini di stesen LRT. Penumpangmeminjam, pulang, dan berkongsi ulasan di portal. Penerbit tempatan menyumbangmajalah; perpustakaan mengurus katalog."
+    id: 894,
+    title: "Cerita 269 (Bahagian 3)",
+    content: "Stesen pengecas EV dibina; panel penasihat dibentuk untuk melibatkan komuniti."
   },
   {
-    id: 745,
-    title: "Cerita 1 — Baca Bandar (Bahagian 2)",
-    content: "Pasukan sukarelawan memantau kebersihan dan kehilangan. Kempen mediasosial mengajak warga memuat naik “gambar kenangan membaca.” Statistik menunjukkanpeningkatan minat."
+    id: 895,
+    title: "Cerita 269 (Bahagian 4)",
+    content: "Perubahan kecil tetapi berterusan seperti sungai yang mengukir batu."
   },
   {
-    id: 746,
-    title: "Cerita 1 — Baca Bandar (Bahagian 3)",
-    content: "“Kota ini bukan hanya batu dan besi,” tulis seorang remaja, “ia juga halamanyang kita buka bersama.” Projek kecil, kos rendah, tetapi impak sosial tinggi—membuktikanbahawa kebiasaan baik boleh tersebar seperti lagu yang melekat."
+    id: 896,
+    title: "Cerita 270 (Bahagian 1)",
+    content: "Festival warisan menampilkan tarian, nyanyian, dan seni anyaman. Bengkel bahasa menulis sajak dan cerpen."
   },
   {
-    id: 747,
-    title: "Cerita 2 — Etika & Ikrar (Bahagian 1)",
-    content: "Di pusat latihan, pegawai baharu belajar etika, integriti, dan akauntabiliti awam.Kajian kes mendedahkan pencabulan kecil yang berulang jadi besar. Jurulatih menekankandokumentasi dan semakan silang. Mereka mensimulasikan mesyuarat, menulis minit, dantindakan susulan."
+    id: 897,
+    title: "Cerita 270 (Bahagian 2)",
+    content: "Gerai makanan mempertemu pelbagai hidangan; penganjur memastikan kebersihan, keselamatan, dan akses OKU."
   },
   {
-    id: 748,
-    title: "Cerita 2 — Etika & Ikrar (Bahagian 2)",
-    content: "Sistem penilaian prestasi memasukkan indikator antirasuah. “Budaya,” katafasilitator, “terbina daripada tingkah laku harian, bukan poster.”"
+    id: 898,
+    title: "Cerita 270 (Bahagian 3)",
+    content: "Ucapan akhir menyanjung perpaduan dan hormat budaya. Tetamu pulang faham bahawa warisan ialah jambatan semalam-esok."
   },
   {
-    id: 749,
-    title: "Cerita 2 — Etika & Ikrar (Bahagian 3)",
-    content: "Pada akhir kursus, peserta menandatangani ikrar—bukan formaliti, tetapiperingatan peribadi. Organisasi tahu, tanpa manusia berniat baik, sebaik mana sistem pun,akhirnya akan runtuh."
+    id: 899,
+    title: "Cerita 271 (Bahagian 1)",
+    content: "Program \"baca bandar\" memasang rak buku mini di stesen LRT; penumpang meminjam dan berkongsi ulasan."
   },
   {
-    id: 750,
-    title: "Cerita 3 — Logistik Berintegriti (Bahagian 1)",
-    content: "Syarikat logistik kecil memodenkan operasi: jejak bungkusan, gudang pintar, dananalitik permintaan. Pemandu dilatih pemanduan berhemah; kenderaan disenggaramengikut jadual. Pusat khidmat pelanggan menggunakan skrip jelas dan SOP pemulangan.Polisi jaminan wang dikembalikan membina kepercayaan."
+    id: 900,
+    title: "Cerita 271 (Bahagian 2)",
+    content: "Penerbit menyumbang majalah; sukarelawan memantau kebersihan. Kempen media sosial mengajak muat naik gambar."
   },
   {
-    id: 751,
-    title: "Cerita 3 — Logistik Berintegriti (Bahagian 2)",
-    content: "Pada musim puncak 11.11, sistem hampir tepu; pasukan teknikalmengembangkan lebar jalur dan kapasiti awan. Pengurus tidak menyalahkan sesiapa; diamenekankan pembelajaran."
+    id: 901,
+    title: "Cerita 271 (Bahagian 3)",
+    content: "Seorang remaja menulis, \"Kota ini bukan hanya batu dan besi, ia halaman yang kita buka bersama.\" Projek kecil, kos rendah, impak tinggi."
   },
   {
-    id: 752,
-    title: "Cerita 3 — Logistik Berintegriti (Bahagian 3)",
-    content: "“Kita berjaya,” katanya selepas fasa kritikal, “kerana berani memikultanggungjawab kolektif.” Pelanggan kekal setia, bukan sebab tiada masalah, tetapi keranamasalah ditangani jujur."
+    id: 902,
+    title: "Cerita 272 (Bahagian 1)",
+    content: "Pegawai baharu belajar etika dan akauntabiliti awam; kajian kes tunjuk kecil jadi besar jika dibiarkan."
   },
   {
-    id: 753,
-    title: "Cerita 4 — Reka Bentuk Rumah (Bahagian 1)",
-    content: "Di kelas reka bentuk rumah, pelajar menilai ruang tamu, pencahayaan, dan aliranangin. Mereka mengira kecekapan tenaga, memilih bahan lestari, dan merancang kebunmini. Projek akhir menggabungkan pelan lantai, anggaran kos, dan simulasi 3D."
+    id: 903,
+    title: "Cerita 272 (Bahagian 2)",
+    content: "Mereka mensimulasikan mesyuarat, menulis minit, dan membuat tindakan susulan. Indikator antirasuah dimasukkan."
   },
   {
-    id: 754,
-    title: "Cerita 4 — Reka Bentuk Rumah (Bahagian 2)",
-    content: "Pensyarah menekankan fungsi dan keselesaan, bukan hanya estetika. “Rumahbaik,” katanya, “ialah perabot hati.”"
+    id: 904,
+    title: "Cerita 272 (Bahagian 3)",
+    content: "\"Budaya terbina daripada tingkah laku harian,\" kata fasilitator. Ikrar ditandatangani sebagai peringatan peribadi."
   },
   {
-    id: 755,
-    title: "Cerita 4 — Reka Bentuk Rumah (Bahagian 3)",
-    content: "Panel industri memuji kebolehan teknikal; mengingatkan pula realititapak—habuk, jadual, dan manusia. Pelajar belajar bahawa pelan tanpa empati akanmenghasilkan bangunan cantik tetapi kosong."
+    id: 905,
+    title: "Cerita 273 (Bahagian 1)",
+    content: "Syarikat logistik memodenkan operasi: jejak bungkusan, gudang pintar, analitik permintaan."
   },
   {
-    id: 756,
-    title: "Cerita 5 — Geran & Pembelajaran (Bahagian 1)",
-    content: "Inkubator perniagaan daerah menilai permohonan geran. Pitch dinilai padamasalah, bukti permintaan, dan strategi. Seorang pengasas membawa produk makananorganik; seorang lagi aplikasi mobiliti luar bandar. Panel mencadangkan percubaan kecilberbukti data."
+    id: 906,
+    title: "Cerita 273 (Bahagian 2)",
+    content: "Pada musim puncak 11.11, sistem hampir tepu; pasukan teknikal tambah kapasiti awan."
   },
   {
-    id: 757,
-    title: "Cerita 5 — Geran & Pembelajaran (Bahagian 2)",
-    content: "“Jangan lompat ke skala,” pesan ketua. Geran disalurkan berfasa, berikat kepadamilestone."
+    id: 907,
+    title: "Cerita 273 (Bahagian 3)",
+    content: "Pengurus menekankan pembelajaran kolektif; pelanggan kekal setia kerana kejujuran menangani masalah."
   },
   {
-    id: 758,
-    title: "Cerita 5 — Geran & Pembelajaran (Bahagian 3)",
-    content: "Penerima berkongsi kemajuan dalam laporan ringkas. Komuniti melihat prosestelus; kegagalan awal dilihat sebagai makmal, bukan tamat. Ekosistem mulabernafas—dengan ritma belajar-cuba-baik pulih yang sihat."
+    id: 908,
+    title: "Cerita 274 (Bahagian 1)",
+    content: "Di kelas reka bentuk rumah, pelajar menilai pencahayaan, aliran angin, bahan lestari dan simulasi 3D."
   },
   {
-    id: 759,
-    title: "Cerita 6 — Kesihatan Emosi Pekerja (Bahagian 1)",
-    content: "Pusat kaunseling menawarkan sesi pengurusan emosi untuk pekerja. Tekanankerja, keseimbangan hidup, dan komunikasi profesional dibincang. Majikan menyediakancuti gantian adil; budaya e-mel selepas waktu dikawal. Ahli psikologi memberi strategi: jurnalsyukur, batas sihat, rehat mikro."
+    id: 909,
+    title: "Cerita 274 (Bahagian 2)",
+    content: "Pensyarah menekankan fungsi dan keselesaan; panel industri puji kebolehan teknikal."
   },
   {
-    id: 760,
-    title: "Cerita 6 — Kesihatan Emosi Pekerja (Bahagian 2)",
-    content: "Data HR menunjukkan turun naik—manusia bukan graf lurus. “Kita mahuproduktiviti berkekalan,” kata ketua, “bukan sprint berbahaya.”"
+    id: 910,
+    title: "Cerita 274 (Bahagian 3)",
+    content: "Pelajar sedar pelan tanpa empati menghasilkan bangunan cantik tetapi kosong."
   },
   {
-    id: 761,
-    title: "Cerita 6 — Kesihatan Emosi Pekerja (Bahagian 3)",
-    content: "Pada akhir suku, kepuasan meningkat; bukan kerana foosball, tetapi rasadihargai. Organisasi belajar bahawa lembut tidak bermaksud lemah—ia bermakna matang."
+    id: 911,
+    title: "Cerita 275 (Bahagian 1)",
+    content: "Inkubator menilai pitch berdasarkan masalah, bukti permintaan, dan strategi."
   },
   {
-    id: 762,
-    title: "Cerita 7 — Repositori Terbuka (Bahagian 1)",
-    content: "Rangkaian perpustakaan universiti melancar repositori terbuka. Tesis, prosiding,dan artikel dimuat naik dengan lesen sesuai. Pelajar belajar menulis sitasi, menghindarplagiarisme. Kursus ringkas memperkenal alat pengurusan rujukan."
+    id: 912,
+    title: "Cerita 275 (Bahagian 2)",
+    content: "Geran diberi berfasa mengikut milestone; laporan kemajuan dikongsi."
   },
   {
-    id: 763,
-    title: "Cerita 7 — Repositori Terbuka (Bahagian 2)",
-    content: "Pustakawan menulis blog penerangan; pembaca memuji bahasa mudah. “Ilmu,”tulis seorang pensyarah, “mesti beredar.”"
+    id: 913,
+    title: "Cerita 275 (Bahagian 3)",
+    content: "Kegagalan awal dilihat sebagai makmal; ekosistem mula bernafas dengan ritma belajar-cuba-baik pulih."
   },
   {
-    id: 764,
-    title: "Cerita 7 — Repositori Terbuka (Bahagian 3)",
-    content: "Statistik muat turun meningkat; kerjasama antara fakulti menguat. Projek inimembuktikan bahawa teknologi, dasar, dan budaya boleh bersatu untuk satu tujuan:memanjangkan hayat pengetahuan melampaui sempadan kelas."
+    id: 914,
+    title: "Cerita 276 (Bahagian 1)",
+    content: "Pusat kaunseling menawarkan sesi pengurusan emosi; tekanan kerja dan keseimbangan hidup dibincang."
   },
   {
-    id: 765,
-    title: "Cerita 8 — Penjagaan Geriatri (Bahagian 1)",
-    content: "Klinik geriatri memperkenal program rumah: pemeriksaan rutin, fisioterapi, dansokongan keluarga. Jururawat mengajar cara menggunakan aplikasi notifikasi ubat.Sukarelawan menghantar makanan sihat; komuniti masjid menyediakan pengangkutan."
+    id: 915,
+    title: "Cerita 276 (Bahagian 2)",
+    content: "Ahli psikologi mencadang jurnal syukur, batas sihat, rehat mikro; HR melihat manusia bukan graf lurus."
   },
   {
-    id: 766,
-    title: "Cerita 8 — Penjagaan Geriatri (Bahagian 2)",
-    content: "Laporan menunjukkan kemasukan hospital berulang berkurang. “Penjagaanbaik,” kata doktor, “ialah koordinasi.”"
+    id: 916,
+    title: "Cerita 276 (Bahagian 3)",
+    content: "Kepuasan naik kerana rasa dihargai; organisasi sedar lembut tidak bermaksud lemah."
   },
   {
-    id: 767,
-    title: "Cerita 8 — Penjagaan Geriatri (Bahagian 3)",
-    content: "Anak-anak belajar mendengar, bukan hanya mengatur. Dalam kumpulansokongan, air mata dan ketawa bertukar giliran. Program kecil ini mengingatkan bahawaukuran keberkesanan bukan hanya angka, tetapi maruah yang dipelihara."
+    id: 917,
+    title: "Cerita 277 (Bahagian 1)",
+    content: "Perpustakaan universiti melancar repositori terbuka; tesis dan prosiding dimuat naik."
   },
   {
-    id: 768,
-    title: "Cerita 9 — Fotografi Bertanggungjawab (Bahagian 1)",
-    content: "Di studio fotografi, kursus kapsyen bertanggungjawab dianjurkan. Pesertamenimbang privasi, kebenaran, dan konteks. Mereka belajar membaca metadata, mengelakmanipulasi menipu."
+    id: 918,
+    title: "Cerita 277 (Bahagian 2)",
+    content: "Kursus memperkenal alat sitasi; pustakawan menulis blog; statistik muat turun meningkat."
   },
   {
-    id: 769,
-    title: "Cerita 9 — Fotografi Bertanggungjawab (Bahagian 2)",
-    content: "Tugasan akhir: dokumentasikan satu hari kehidupan pekerja bandar—dari trenpagi hingga lampu jalan malam. Hasilnya pelbagai, namun benang merahnya empati."
+    id: 919,
+    title: "Cerita 277 (Bahagian 3)",
+    content: "Projek membuktikan teknologi, dasar dan budaya boleh bersatu memanjangkan hayat pengetahuan."
   },
   {
-    id: 770,
-    title: "Cerita 9 — Fotografi Bertanggungjawab (Bahagian 3)",
-    content: "Kurator memilih karya yang jujur, bukan glamor. “Kamera,” katanya, “ialahcermin, bukan topeng.” Pameran kecil itu membuat penonton berjalan perlahan, mengingatbahawa setiap wajah ialah naratif penuh isi."
+    id: 920,
+    title: "Cerita 278 (Bahagian 1)",
+    content: "Klinik geriatri menawarkan pemeriksaan rutin, fisioterapi, dan sokongan keluarga."
   },
   {
-    id: 771,
-    title: "Cerita 10 — Hari Rumusan (Bahagian 1)",
-    content: "Akhir tahun, komuniti mengadakan “hari rumusan”: pasukan berbezamembentang hasil, kesihatan, pendidikan, digital, alam, budaya. Carta, jadual, danringkasan eksekutif memenuhi papan."
+    id: 921,
+    title: "Cerita 278 (Bahagian 2)",
+    content: "Sukarelawan menghantar makanan; laporan menunjukkan kemasukan hospital berulang berkurang."
   },
   {
-    id: 772,
-    title: "Cerita 10 — Hari Rumusan (Bahagian 2)",
-    content: "Bukan semua sasaran tercapai; beberapa kegagalan dibedah jujur. Namunkepercayaan tumbuh kerana proses telus."
+    id: 922,
+    title: "Cerita 278 (Bahagian 3)",
+    content: "Program mengingatkan bahawa keberkesanan bukan hanya angka, tetapi maruah yang dipelihara."
   },
   {
-    id: 773,
-    title: "Cerita 10 — Hari Rumusan (Bahagian 3)",
-    content: "Seorang remaja menutup majlis: “Kita belajar bergerak dari slogan ke sistem, dariniat ke indikator.” Semua bertepuk. Langkah seterusnya jelas: pelan tahun depan, bajet, danpenglibatan warga. Mereka pulang dengan rasa memiliki, bahawa kota, kampung, dannegara adalah projek bersama yang tidak pernah selesai."
+    id: 923,
+    title: "Cerita 279 (Bahagian 1)",
+    content: "Di studio fotografi, kursus kapsyen bertanggungjawab mengajar privasi, kebenaran, dan konteks."
+  },
+  {
+    id: 924,
+    title: "Cerita 279 (Bahagian 2)",
+    content: "Tugasan akhir mendokumentasi hari kehidupan pekerja bandar; kurator memilih karya jujur."
+  },
+  {
+    id: 925,
+    title: "Cerita 279 (Bahagian 3)",
+    content: "Pameran membuat penonton berjalan perlahan, mengingat bahawa setiap wajah ialah naratif."
+  },
+  {
+    id: 926,
+    title: "Cerita 280 (Bahagian 1)",
+    content: "Komuniti mengadakan \"hari rumusan\": pasukan membentang hasil-kesihatan, pendidikan, digital, alam, budaya."
+  },
+  {
+    id: 927,
+    title: "Cerita 280 (Bahagian 2)",
+    content: "Kegagalan dibedah jujur; kepercayaan tumbuh kerana proses telus."
+  },
+  {
+    id: 928,
+    title: "Cerita 280 (Bahagian 3)",
+    content: "Seorang remaja berkata: \"Kita belajar bergerak dari slogan ke sistem, dari niat ke indikator.\" Semua pulang dengan rasa memiliki."
   }
 ]

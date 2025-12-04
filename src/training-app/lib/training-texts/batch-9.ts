@@ -1,242 +1,292 @@
 export const batch9Stories = [
   {
-    id: 385,
-    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 3)",
-    content: "Pelaksanaan berpandukan pelan projek, garis masa pelaksanaan, dan bajetprojek; risiko ditangani menerusi pengurusan risiko."
+    id: 465,
+    title: "Cerita 134 (Bahagian 2) - Pasaran Modal & Isyarat Ekonomi",
+    content: "Pelabur meneliti laporan kewangan, penyata pendapatan dan nisbah keuntungan."
   },
   {
-    id: 386,
-    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 4)",
-    content: "Sepanjang tempoh, pasukan menerbitkan laporan kemajuan dan membuatpenilaian prestasi projek untuk memastikan hasil projek memenuhi sasaran."
+    id: 466,
+    title: "Cerita 134 (Bahagian 3) - Pasaran Modal & Isyarat Ekonomi",
+    content: "Bank pusat mengurus kadar faedah melalui dasar monetari; kerajaan menyusun dasar fiskal dan Belanjawan Negara."
   },
   {
-    id: 387,
-    title: "Cerita 10 — Penutup & Impak (Bahagian 1)",
-    content: "Sesi refleksi merangkum pelajaran yang dipelajari sebelum penutup projek."
+    id: 467,
+    title: "Cerita 135 (Bahagian 1) - Cukai & Pematuhan Digital",
+    content: "LHDN menyokong hasil negara melalui cukai individu, cukai korporat dan SST serta duti import dan eksport."
   },
   {
-    id: 388,
-    title: "Cerita 10 — Penutup & Impak (Bahagian 2)",
-    content: "Auditor menjalankan audit pasca pelaksanaan, dan pengurusan menerbitkanlaporan impak."
+    id: 468,
+    title: "Cerita 135 (Bahagian 2) - Cukai & Pematuhan Digital",
+    content: "Perniagaan menilai pengecualian, insentif pelaburan, potongan dan pelepasan cukai."
   },
   {
-    id: 389,
-    title: "Cerita 10 — Penutup & Impak (Bahagian 3)",
-    content: "Ekosistem digital yang dibina—daripada sempadan, pelabuhan, logistik,pembayaran, awan, media sosial, UX, sehinggalah operasi—mewujudkan aliran rentassempadan yang selamat, cekap, dan berdaya saing untuk semua pihak berkepentingan."
+    id: 469,
+    title: "Cerita 135 (Bahagian 3) - Cukai & Pematuhan Digital",
+    content: "Pematuhan ditambah baik dengan e-Filing, MyTax dan sistem resit rasmi."
   },
   {
-    id: 390,
-    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 1)",
-    content: "Unit strategi memulakan penilaian impak dan analisis hasil untuk menilaikeberkesanan dasar."
+    id: 470,
+    title: "Cerita 136 (Bahagian 1) - Perakaunan, Integriti & Anti-Rasuah",
+    content: "Setiap korporat menerbitkan laporan kewangan tahunan mengikut piawaian perakaunan dan disemak juruaudit."
   },
   {
-    id: 391,
-    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 2)",
-    content: "Mereka menyusun laporan prestasi berasaskan petunjuk utama prestasi (KPI)yang memacu objektif strategik."
+    id: 471,
+    title: "Cerita 136 (Bahagian 2) - Perakaunan, Integriti & Anti-Rasuah",
+    content: "Lembaga menuntut laporan integriti dan ketelusan untuk memperkukuh tadbir urus kewangan."
   },
   {
-    id: 392,
-    title: "Cerita 1 — Ukur Dahulu, Gerak Dengan Tersusun (Bahagian 3)",
-    content: "Sebuah pelan tindakan organisasi diselaraskan dengan strategi jangka panjang,manakala pelan komunikasi dan strategi komunikasi menguatkan hubungan awam agarmesej mudah difahami semua pemegang taruh."
+    id: 472,
+    title: "Cerita 136 (Bahagian 3) - Perakaunan, Integriti & Anti-Rasuah",
+    content: "Kes rasuah disiasat SPRM demi menjaga etika perkhidmatan awam."
   },
   {
-    id: 393,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 1)",
-    content: "Ketika krisis, kerajaan mengeluarkan kenyataan akhbar rasmi, mengadakansidang media dan wawancara khasuntuk memastikan liputan berita tepat."
+    id: 473,
+    title: "Cerita 137 (Bahagian 1) - Tanah, Kelulusan & Hasil PBT",
+    content: "Pejabat Tanah dan Galian mengesahkan hak milik, geran, sempadan dan pelan kadaster."
   },
   {
-    id: 394,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 2)",
-    content: "Kenyataan rasmi kerajaan dan pengumuman awam menyokong kempenkesedaran nasional dengan mesej utama yang disampaikan jurucakap kerajaan melaluipengurusan krisis yang rapi."
+    id: 474,
+    title: "Cerita 137 (Bahagian 2) - Tanah, Kelulusan & Hasil PBT",
+    content: "Pemaju mengemukakan pelan pembangunan, lesen pembinaan dan permit sementara untuk pengesahan majlis."
   },
   {
-    id: 395,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 3)",
-    content: "Maklumat disiarkan di siaran rasmi televisyen dan radio nasional seperti RTM,Bernama, Astro Awani, TV3dan pelbagai saluran berita."
+    id: 475,
+    title: "Cerita 137 (Bahagian 3) - Tanah, Kelulusan & Hasil PBT",
+    content: "PBT memungut cukai tempatan, fi lesen, caj pengurusan dan menerbitkan laporan kewangan serta belanjawan daerah."
   },
   {
-    id: 396,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 4)",
-    content: "Setiap laporan berita menekankan berita terkini dan maklumat sahih berasaskansemakan fakta untuk menangkis berita palsu, memupuk literasi media serta mengekalkanetika kewartawanan dan kebebasan media."
+    id: 476,
+    title: "Cerita 138 (Bahagian 1) - Infrastruktur, Hijau & Masyarakat",
+    content: "Projek awam menaik taraf jalan raya, lampu jalan, bekalan air, elektrik, sistem pembetungan dan sistem sisa pepejal."
   },
   {
-    id: 397,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 5)",
-    content: "Penerbitan mematuhi undang-undang komunikasi, Akta Komunikasi danMultimedia, kawal selia SKMM, dan memerlukan lesen penyiaran."
+    id: 477,
+    title: "Cerita 138 (Bahagian 2) - Infrastruktur, Hijau & Masyarakat",
+    content: "Bandar menguatkan pengasingan sisa, kitar semula dan pusat kitar semula."
   },
   {
-    id: 398,
-    title: "Cerita 2 — Naratif Nasional & Etika Media (Bahagian 6)",
-    content: "Di era saluran digital dan portal berita dalam talian, wartawan mengasahpenulisan artikel, laporan penyiasatan, editorial, dan ruangan pendapat, sambil memfasilitasiforum awam, perbincangan nasional, serta debat dasar yang matang."
+    id: 478,
+    title: "Cerita 138 (Bahagian 3) - Infrastruktur, Hijau & Masyarakat",
+    content: "Gotong-royong komuniti membina tanggungjawab sosial dan memperluas penglibatan NGO serta koperasi."
   },
   {
-    id: 399,
-    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 1)",
-    content: "Di parlimen Malaysia, Dewan Rakyat dan Dewan Negara mengadakan sesiperbahasan untuk menilai usul parlimen dan setiap rang undang-undang."
+    id: 479,
+    title: "Cerita 138 (Bahagian 4) - Infrastruktur, Hijau & Masyarakat",
+    content: "Kerjasama sektor awam, swasta dan pertubuhan sosial menguatkan daya tahan bandar."
   },
   {
-    id: 400,
-    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 2)",
-    content: "Semasa pembentangan bajet, dokumen melalui bacaan pertama dan bacaankedua sebelum dibawa ke jawatankuasa pilihan."
+    id: 480,
+    title: "Cerita 139 (Bahagian 1) - Pengguna, Harga & Rantai Bekalan",
+    content: "Persatuan pengguna memperjuangkan hak dan perlindungan melalui tribunal pengguna."
   },
   {
-    id: 401,
-    title: "Cerita 3 — Di Balai Rakyat & Negara (Bahagian 3)",
-    content: "Akhirnya, laporan parlimen dan dapatan jawatankuasa khas menjadi asaspindaan perlembagaan yang mendukung Perlembagaan Persekutuan."
+    id: 481,
+    title: "Cerita 139 (Bahagian 2) - Pengguna, Harga & Rantai Bekalan",
+    content: "KPDN melaksana kawalan harga, memantau harga siling dan ketersediaan bekalan barangan."
   },
   {
-    id: 402,
-    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 1)",
-    content: "Negara menegakkan hak asasi manusia, termasuk kebebasan bersuara,kebebasan beragama, kebebasan berhimpun, dan kebebasan media, selari kedaulatanundang-undang dan kuasa kehakiman."
+    id: 482,
+    title: "Cerita 139 (Bahagian 3) - Pengguna, Harga & Rantai Bekalan",
+    content: "Pemantauan memastikan pasaran kekal adil ketika kejutan permintaan."
   },
   {
-    id: 403,
-    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 2)",
-    content: "Rangka sistem kehakiman merangkumi mahkamah—Mahkamah Persekutuan,Mahkamah Rayuan, Mahkamah Tinggi, Mahkamah Sesyen, dan MahkamahMajistret—ditadbir oleh hakim yang bebas, dibantu peguam bela, peguam cara, dan peguamsyarie."
+    id: 483,
+    title: "Cerita 140 (Bahagian 1) - Perdagangan Luar & Kastam",
+    content: "Usahawan eksport-import mematuhi syarat seperti permit import, permit eksport dan dokumen kastam."
   },
   {
-    id: 404,
-    title: "Cerita 4 — Hak, Undang-Undang & Mahkamah (Bahagian 3)",
-    content: "Peranan Peguam Negara, Pendakwa Raya, Jabatan Peguam Negara, sertaSuruhanjaya Kehakiman menjamin operasi sistem undang-undang yang berasaskan akta,peraturan, ordinan, enakmen, undang-undang negeri, dan undang-undang persekutuan."
+    id: 484,
+    title: "Cerita 140 (Bahagian 2) - Perdagangan Luar & Kastam",
+    content: "Kastam Diraja Malaysia menilai duti, memeriksa deklarasi dan mempercepat pelepasan import melalui sistem digital."
   },
   {
-    id: 405,
-    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 1)",
-    content: "Kes jenayah bermula dengan pindaan undang-undang yang relevan dan berakhirdi perintah mahkamah selepas saman, rayuan, sabitan, dan hukuman diputuskan."
+    id: 485,
+    title: "Cerita 140 (Bahagian 3) - Perdagangan Luar & Kastam",
+    content: "Aliran dagang telus menyokong kestabilan ekonomi dan melindungi kepentingan negara serta pengguna."
   },
   {
-    id: 406,
-    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 2)",
-    content: "Tertuduh boleh memohon jaminan semasa tahanan atau remansementarasiasatan polis diteruskan."
+    id: 486,
+    title: "Cerita 141 (Bahagian 1) - Sempadan & Imigresen",
+    content: "Di lapangan terbang dan pintu masuk antarabangsa, pegawai menjalankan pemeriksaan kastam serta kawalan sempadan bersama Imigresen Malaysia (JIM)."
   },
   {
-    id: 407,
-    title: "Cerita 5 — Proses Kehakiman Dalam Amalan (Bahagian 3)",
-    content: "Di mahkamah, pendakwaan dan pembelaan mengemukakan keterangansaksidan bukti dokumentari sebelum keputusan hakim dikeluarkan, disertai alasanpenghakiman serta laporan kehakiman yang telus."
+    id: 487,
+    title: "Cerita 141 (Bahagian 2) - Sempadan & Imigresen",
+    content: "Usahawan asing memohon permit kerja, pelajar antarabangsa menerima visa pelajar, dan pelancong diberi visa pelancong atau pas lawatan sosial; eksekutif global memegang pas ekspatriat."
   },
   {
-    id: 408,
-    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 1)",
-    content: "Pelaksanaan dasar memerlukan pelaksanaan undang-undang danpenguatkuasaan undang-undang oleh agensi penguatkuasaan seperti Polis Diraja Malaysia(PDRM), SPRM, Jabatan Kastam, Imigresen Malaysia, MARA, JPJ, Jabatan Tenaga Kerja(JTK), dan agensi penguatkuasa tempatan."
+    id: 488,
+    title: "Cerita 141 (Bahagian 3) - Sempadan & Imigresen",
+    content: "Proses kawalan kemasukan memastikan warga asing, pekerja asing serta pekerja domestik mematuhi undang-undang, dibantu agensi berlesen yang memiliki lesen agensi pekerjaan."
   },
   {
-    id: 409,
-    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 2)",
-    content: "Melalui rondaan keselamatan, operasi bersepadu, serta pemeriksaan premis,pihak berkuasa menilai lesen perniagaan, permit operasi, sijil pematuhan, dan menjalankanaudit pematuhan."
+    id: 489,
+    title: "Cerita 141 (Bahagian 4) - Sempadan & Imigresen",
+    content: "Di terminal kargo, pemeriksaan dokumen dan muatan dilaksana selari piawaian keselamatan."
   },
   {
-    id: 410,
-    title: "Cerita 6 — Penguatkuasaan & Pematuhan (Bahagian 3)",
-    content: "Hasilnya diterbitkan sebagai laporan penguatkuasaan, disusuli tindakantatatertib, amaran rasmi, denda kompaun, atau pendakwaan mahkamah yang bolehmembawa hukuman denda, penjara, parol, atau tahanan rumah."
+    id: 490,
+    title: "Cerita 142 (Bahagian 1) - Nadi Pelabuhan",
+    content: "Rantaian maritim bertumpu di Pelabuhan Klang, Pelabuhan Tanjung Pelepas, Pelabuhan Bintulu dan Pelabuhan Kuantan."
   },
   {
-    id: 411,
-    title: "Cerita 7 — Memulih & Melindungi (Bahagian 1)",
-    content: "Sistem korektif menekankan pemulihan pesalah melalui khidmat masyarakat dipusat pemulihan, termasuk fasiliti khusus seperti penjara wanita dan pusat juvana."
+    id: 491,
+    title: "Cerita 142 (Bahagian 2) - Nadi Pelabuhan",
+    content: "Pasukan pengurusan pelabuhan menyelaras pengendalian kargo untuk pengangkutan laut dan industri perkapalan."
   },
   {
-    id: 412,
-    title: "Cerita 7 — Memulih & Melindungi (Bahagian 2)",
-    content: "Sebuah sistem pemulihan menyantuni kebajikan banduan dan menyediakanprogram reintegrasi serta peluang pekerjaan semula."
+    id: 492,
+    title: "Cerita 142 (Bahagian 3) - Nadi Pelabuhan",
+    content: "Kapal dagang berlabuh, memunggah kontena dan muatan di dok pelabuhan sebelum meneruskan pelayaran."
   },
   {
-    id: 413,
-    title: "Cerita 7 — Memulih & Melindungi (Bahagian 3)",
-    content: "Dalam masa sama, negara memperkukuh bantuan sosial, perlindungan mangsa,dan menegaskan hak mangsa."
+    id: 493,
+    title: "Cerita 143 (Bahagian 1) - Logistik Pintar",
+    content: "Syarikat memperkemas penghantaran antarabangsa melalui rangka logistik global dan pelbagai perkhidmatan penghantaran."
   },
   {
-    id: 414,
-    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 1)",
-    content: "Komuniti memperhebat program kesedaran jenayah dan pencegahan jenayahdengan rondaan komuniti, rukun tetangga, program kejiranan selamat, serta rondaanmalam."
+    id: 494,
+    title: "Cerita 143 (Bahagian 2) - Logistik Pintar",
+    content: "Kurier antarabangsa seperti DHL dan FedEx bergandingan dengan Pos Malaysia untuk penghantaran domestik."
   },
   {
-    id: 415,
-    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 2)",
-    content: "Setiap kejadian direkod sebagai laporan polis dan disalurkan melalui aplikasiVSP, aduan awam, serta saluran aduan rasmi."
+    id: 495,
+    title: "Cerita 143 (Bahagian 3) - Logistik Pintar",
+    content: "Di pusat logistik, gudang penyimpanan menjejak inventori; pengurusan rantaian bekalan diselaraskan oleh sistem digital masa nyata."
   },
   {
-    id: 416,
-    title: "Cerita 8 — Kejiranan Peka & Teknologi Pelapor (Bahagian 3)",
-    content: "Usaha ini memperkukuh integriti awam, ketelusan pentadbiran, dan akauntabilitikerajaan di peringkat akar umbi."
+    id: 496,
+    title: "Cerita 144 (Bahagian 1) - Perdagangan Rentas Sempadan & Keselamatan Siber",
+    content: "Peniaga memanfaatkan e-dagang antarabangsa dan platform jualan rentas sempadan."
   },
   {
-    id: 417,
-    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 1)",
-    content: "Kerajaan memacu pembaharuan institusi, reformasi undang-undang, danreformasi perlembagaan; prinsip pemisahan kuasa, kebebasan kehakiman, serta kebebasanpendakwaan diperteguh untuk pembaharuan sistemyang menyeluruh."
+    id: 497,
+    title: "Cerita 144 (Bahagian 2) - Perdagangan Rentas Sempadan & Keselamatan Siber",
+    content: "Transaksi disokong pembayaran antarabangsa seperti PayPal, kad kredit, e-dompet, DuitNow dan FPX."
   },
   {
-    id: 418,
-    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 2)",
-    content: "Ketelusan badan kehakiman dan kebebasan media ditingkatkan bersamapenyertaan awammenerusi rundingan awam, konsultasi dasar, bengkel dasar, dialognasional, majlis perundingan, jawatankuasa bersama, majlis penasihat, dan panel pakar."
+    id: 498,
+    title: "Cerita 144 (Bahagian 3) - Perdagangan Rentas Sempadan & Keselamatan Siber",
+    content: "Risiko penipuan dan jenayah siber diurus melalui PDPA, privasi data, pengesahan identiti, 2FA dan penyulitan data."
   },
   {
-    id: 419,
-    title: "Cerita 9 — Membina Kepercayaan Melalui Pembaharuan (Bahagian 3)",
-    content: "Dapatan dihimpun dalam laporan konsultasi hasil maklum balas rakyat melaluiportal maklum balas."
+    id: 499,
+    title: "Cerita 144 (Bahagian 4) - Perdagangan Rentas Sempadan & Keselamatan Siber",
+    content: "Organisasi melapor insiden, menjalankan audit keselamatan dan mengaktifkan pasukan tindak balas siber bersama CyberSecurity Malaysia dan SKMM."
   },
   {
-    id: 420,
-    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 1)",
-    content: "Platform sistem e-partisipasi menggerakkan e-rakyat untuk menyokong tadbirurus baik, kebertanggungjawaban, kecekapan pentadbiran, dan ketelusan dasar."
+    id: 500,
+    title: "Cerita 145 (Bahagian 1) - Awan & IR4.0",
+    content: "Kerajaan dan industri memusatkan data dalam pusat data serta beralih ke storan awan, sandaran data dan pemulihan data."
   },
   {
-    id: 421,
-    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 2)",
-    content: "Tingkat penglibatan masyarakat memastikan pembangunan inklusif berpaksikandasar penyertaan awam dan nilai demokrasi."
+    id: 501,
+    title: "Cerita 145 (Bahagian 2) - Awan & IR4.0",
+    content: "Kilang menerapkan automasi industri IR4.0 menggunakan IoT, AI, rantaian blok dan pembelajaran mesin."
   },
   {
-    id: 422,
-    title: "Cerita 10 — E-Partisipasi & Nilai Kebangsaan (Bahagian 3)",
-    content: "Melalui pendidikan sivik serta kesedaran perlembagaan, rakyat menghayatitanggungjawab warganegara, menyemai semangat patriotik, dan memperkukuh integrasinasional."
+    id: 502,
+    title: "Cerita 145 (Bahagian 3) - Awan & IR4.0",
+    content: "Pasukan analitik data mengolah maklumat daripada pangkalan data bagi menaik taraf teknologi maklumat."
   },
   {
-    id: 423,
-    title: "Cerita 1 — Perpaduan, Bendera & Sejarah (Bahagian 1)",
-    content: "Semangat perpaduan nasional terserlah ketika sambutan kemerdekaan danperarakan merdeka; rakyat mengibar bendera Malaysia Jalur Gemilang, menyanyikan lagukebangsaan Negaraku dengan cinta tanah air dan patriotisme."
+    id: 503,
+    title: "Cerita 146 (Bahagian 1) - Web & Media Sosial",
+    content: "Syarikat melancarkan aplikasi mudah alih sambil membangunkan laman sesawang utama."
   },
   {
-    id: 424,
-    title: "Cerita 1 — Perpaduan, Bendera & Sejarah (Bahagian 2)",
-    content: "Pameran di muzium negara dan arkib negara mengimbau sejarah Malaysia—erapenjajahan hingga kemerdekaan—sementara peringatan nasional di Tugu Negaramenyanjung pengorbanan wira negara seperti tentera Malaysia dan Polis Diraja Malaysia,menghidupkan semangat juang dan bangga beridentitikan identiti nasional serta semangatkenegaraan."
+    id: 504,
+    title: "Cerita 146 (Bahagian 2) - Web & Media Sosial",
+    content: "Pasukan IT mengurus domain, hos web dan SEO; pemasaran menggerakkan pemasaran digital di Facebook, Instagram, TikTok, YouTube, X dan Threads."
   },
   {
-    id: 425,
-    title: "Cerita 2 — Rukun, Perlembagaan & Sivik (Bahagian 1)",
-    content: "Dalam pendidikan sivik, pelajar mempelajari rukun negara dan prinsip rukunnegara—kepercayaan kepada Tuhan, kesetiaan kepada raja dan negara, keluhuranperlembagaan, kedaulatan undang-undang, kesopanan dan kesusilaan—bagi memupukkeharmonian kaum, toleransi agama, dan penghormatan budaya."
+    id: 505,
+    title: "Cerita 146 (Bahagian 3) - Web & Media Sosial",
+    content: "Algoritma membantu pempengaruh menjalankan kempen dan menganalisis penglibatan, tontonan dan klik."
   },
   {
-    id: 426,
-    title: "Cerita 2 — Rukun, Perlembagaan & Sivik (Bahagian 2)",
-    content: "Kursus ini meneguhkan faham perlembagaan dan menghubungkan nilai itudengan Hari Kebangsaan serta Hari Malaysia, agar identiti nasional terpelihara generasi kegenerasi."
+    id: 506,
+    title: "Cerita 146 (Bahagian 4) - Web & Media Sosial",
+    content: "Semuanya sejajar identiti korporat, grafik, warna korporat, tipografi dan garis panduan jenama."
   },
   {
-    id: 427,
-    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 1)",
-    content: "Di bawah Kementerian Pendidikan (KPM), Jabatan Pendidikan Negeri danPejabat Pendidikan Daerahmenyelaras kurikulum kebangsaan."
+    id: 507,
+    title: "Cerita 147 (Bahagian 1) - Reka Bentuk Mesra Pengguna & Sokongan",
+    content: "Portal dibina dengan UX mesra pengguna melalui antaramuka interaktif dan navigasi jelas."
   },
   {
-    id: 428,
-    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 2)",
-    content: "Murid sekolah rendah dan sekolah menengah belajar subjek sejarah dalamsekolah kebangsaan, sekolah jenis kebangsaan, dan sekolah agama; yang cemerlangditerima ke sekolah berasrama penuh dan MRSM."
+    id: 508,
+    title: "Cerita 147 (Bahagian 2) - Reka Bentuk Mesra Pengguna & Sokongan",
+    content: "Borang pendaftaran dan butang tindakan mempermudah urusan; reka bentuk responsif memastikan akses mudah alih."
   },
   {
-    id: 429,
-    title: "Cerita 3 — Sistem Sekolah & KPM (Bahagian 3)",
-    content: "Laluan teknikal ditawar di kolej vokasional, politeknik, dan kolej komuniti,mengarusperdanakan kepelbagaian bakat."
+    id: 509,
+    title: "Cerita 147 (Bahagian 3) - Reka Bentuk Mesra Pengguna & Sokongan",
+    content: "Keselamatan diperkukuh dengan SSL, anti-spam, pemantauan kelajuan dan SEO."
   },
   {
-    id: 430,
-    title: "Cerita 4 — Ke Universiti & Konvokesyen (Bahagian 1)",
-    content: "Lepasan kolej matrikulasi atau program asasi menyambung diploma dan ijazahsarjana muda di universiti awam (IPTA) atau universiti swasta (IPTS)—termasuk UTM, UM,UKM, UPM, USM, UNIMAS, UUM, UiTM, UMS, UPSI serta universiti teknikal."
+    id: 510,
+    title: "Cerita 147 (Bahagian 4) - Reka Bentuk Mesra Pengguna & Sokongan",
+    content: "Sokongan pelanggan melalui chatbot, sistem tiket, FAQ, panduan pengguna, video tutorial dan dokumentasi teknikal."
   },
   {
-    id: 431,
-    title: "Cerita 4 — Ke Universiti & Konvokesyen (Bahagian 2)",
-    content: "Selepas sarjana dan kedoktoran/PhD, pelajar siswazah diraikan sebagaigraduandalam majlis konvokesyen yang meriah."
+    id: 511,
+    title: "Cerita 148 (Bahagian 1) - Kitar Hayat Perisian",
+    content: "Selepas kemas kini, pasukan melepaskan versi baharu dengan pembetulan pepijat dan penambahbaikan sistem."
   },
   {
-    id: 432,
-    title: "Cerita 5 — Biaya, Kampus & Kepimpinan Pelajar (Bahagian 1)",
-    content: "Akses diperkasa melalui biasiswa, dermasiswa, pinjaman PTPTN, pembiayaanMARA, dan dana pendidikan yang menampung yuran pengajian, penginapan pelajar di kolejkediaman, serta yuran kolej."
+    id: 512,
+    title: "Cerita 148 (Bahagian 2) - Kitar Hayat Perisian",
+    content: "Program ujian beta mengumpul maklum balas pengguna awal dan menjalankan ujian prestasi serta keselamatan."
+  },
+  {
+    id: 513,
+    title: "Cerita 149 (Bahagian 1) - Pelancaran & Operasi",
+    content: "Hari pelancaran tiba bersama pengumuman rasmi, siaran media dan kempen pelancaran."
+  },
+  {
+    id: 514,
+    title: "Cerita 149 (Bahagian 2) - Pelancaran & Operasi",
+    content: "Pengurus produk menyelaras pembangunan, reka bentuk, pemasaran, jualan dan operasi."
+  },
+  {
+    id: 515,
+    title: "Cerita 149 (Bahagian 3) - Pelancaran & Operasi",
+    content: "Pelaksanaan berpandukan pelan projek, garis masa dan bajet; risiko dikawal melalui pengurusan risiko."
+  },
+  {
+    id: 516,
+    title: "Cerita 149 (Bahagian 4) - Pelancaran & Operasi",
+    content: "Laporan kemajuan dan penilaian prestasi memastikan hasil memenuhi sasaran."
+  },
+  {
+    id: 517,
+    title: "Cerita 150 (Bahagian 1) - Penutup & Impak",
+    content: "Sesi refleksi merangkum pelajaran yang dipelajari; juruaudit menjalankan audit pasca pelaksanaan."
+  },
+  {
+    id: 518,
+    title: "Cerita 150 (Bahagian 2) - Penutup & Impak",
+    content: "Pengurusan menerbitkan laporan impak ekosistem digital merangkumi sempadan, pelabuhan, logistik, pembayaran, awan dan media sosial."
+  },
+  {
+    id: 519,
+    title: "Cerita 150 (Bahagian 3) - Penutup & Impak",
+    content: "Keseluruhan sistem mewujudkan aliran rentas sempadan yang selamat, cekap dan berdaya saing."
+  },
+  {
+    id: 520,
+    title: "Cerita 151 (Bahagian 1) - Ukur Dahulu, Gerak Dengan Tersusun",
+    content: "Unit strategi memulakan penilaian impak dan analisis hasil untuk menilai keberkesanan dasar."
+  },
+  {
+    id: 521,
+    title: "Cerita 151 (Bahagian 2) - Ukur Dahulu, Gerak Dengan Tersusun",
+    content: "Laporan prestasi disusun berdasarkan KPI yang memacu objektif strategik."
+  },
+  {
+    id: 522,
+    title: "Cerita 151 (Bahagian 3) - Ukur Dahulu, Gerak Dengan Tersusun",
+    content: "Pelan tindakan diselaraskan dengan strategi jangka panjang; strategi komunikasi menguatkan hubungan awam."
   }
 ]

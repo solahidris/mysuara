@@ -1,242 +1,292 @@
 export const batch8Stories = [
   {
-    id: 337,
-    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 3)",
-    content: "Pematuhan ditambah baik dengan audit cukai dan laporan pematuhan cukaimenggunakan sistem e-Filing, pembayaran cukai dalam talian, sistem MyTax, dan akaunpembayar cukai yang mengeluarkan resit rasmi."
+    id: 407,
+    title: "Cerita 117 (Bahagian 3) - Kelestarian & Tenaga Rendah Karbon",
+    content: "NGO dan aktivis hijau menyokong projek pemuliharaan, pemeliharaan sungai, kempen pembersihan dan penanaman pokok."
   },
   {
-    id: 338,
-    title: "Cerita 5 — Cukai & Pematuhan Digital (Bahagian 4)",
-    content: "Syarikat yang berdisiplin mendapat kelulusan audit tanpa teguran."
+    id: 408,
+    title: "Cerita 117 (Bahagian 4) - Kelestarian & Tenaga Rendah Karbon",
+    content: "Komuniti hijau dan pendidikan hijau memupuk budaya lestari."
   },
   {
-    id: 339,
-    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 1)",
-    content: "Setiap korporat menerbitkan laporan kewangan tahunan mengikut piawaianperakaunan, disemak MIA, juruaudit bertauliah, dan akauntan profesional."
+    id: 409,
+    title: "Cerita 118 (Bahagian 1) - Tenaga Baharu & Mobiliti Bandar",
+    content: "R&D menumpu inovasi tenaga, teknologi rendah karbon dan skala tenaga boleh baharu yang disokong penyimpanan tenaga."
   },
   {
-    id: 340,
-    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 2)",
-    content: "Lembaga menuntut laporan integriti, laporan ketelusan, dan memperkukuh tadbirurus kewangan, demi ketelusan awam dan akauntabiliti kerajaan bagi projek bersama sektorpublik."
+    id: 410,
+    title: "Cerita 118 (Bahagian 2) - Tenaga Baharu & Mobiliti Bandar",
+    content: "Pengangkutan bandar beralih kepada kenderaan elektrik, bas elektrik dan motosikal elektrik."
   },
   {
-    id: 341,
-    title: "Cerita 6 — Perakaunan, Integriti & Anti-Rasuah (Bahagian 3)",
-    content: "Pendedahan laporan rasuah disiasat Suruhanjaya Pencegahan Rasuah Malaysia(SPRM) untuk memelihara integriti awam, nilai etika, kod tingkah laku, dan etikaperkhidmatan awam dalam kalangan penjawat awam di jabatan kerajaan, kementerian, danagensi pelaksana."
+    id: 411,
+    title: "Cerita 118 (Bahagian 3) - Tenaga Baharu & Mobiliti Bandar",
+    content: "Kerajaan memperkenalkan cukai karbon, dasar pengurangan pelepasan, laporan karbon dan pengauditan karbon."
   },
   {
-    id: 342,
-    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 1)",
-    content: "Di peringkat negeri, jabatan negeri menyelaras pentadbiran daerah bersamapejabat daerah dan majlis perbandaran selaku pihak berkuasa tempatan (PBT)."
+    id: 412,
+    title: "Cerita 118 (Bahagian 4) - Tenaga Baharu & Mobiliti Bandar",
+    content: "Pelan mitigasi dan adaptasi iklim mengukuhkan daya tahan iklim."
   },
   {
-    id: 343,
-    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 2)",
-    content: "Jabatan teknikal dan unit pengurusan tanah di pejabat tanah dan galianmengesahkan hak milik tanah, geran tanah, sempadan tanah, pelan kadaster, serta ukurantanah."
+    id: 413,
+    title: "Cerita 119 (Bahagian 1) - Kesiapsiagaan & Bantuan",
+    content: "Ketika bencana alam, rangka pengurusan bencana mengaktifkan kesiapsiagaan, latihan kecemasan dan bantuan kemanusiaan."
   },
   {
-    id: 344,
-    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 3)",
-    content: "Pemaju mengemukakan pelan pembangunan, permohonan kelulusan, pelanbangunan, lesen pembinaan, dan permit sementara untuk pengesahan majlis, diiringipembayaran fi, yuran perkhidmatan, dan penyata hasil kerajaan."
+    id: 414,
+    title: "Cerita 119 (Bahagian 2) - Kesiapsiagaan & Bantuan",
+    content: "Sukarelawan dan penyelamat berganding bahu dalam operasi mencari dan menyelamat."
   },
   {
-    id: 345,
-    title: "Cerita 7 — Tanah, Kelulusan & Hasil Pihak Berkuasa Tempatan (Bahagian 4)",
-    content: "PBT memungut cukai tempatan, fi lesen, caj pengurusan, bayaran perkhidmatan,dan kutipan hasil, kemudian menerbitkan laporan kewangan majlis, belanjawan daerah,serta laporan pembangunan selaras rancangan struktur, pelan tindakan tempatan, dan zonperancangan yang menyokong pembangunan bandar dan pembangunan desa."
+    id: 415,
+    title: "Cerita 119 (Bahagian 3) - Kesiapsiagaan & Bantuan",
+    content: "Mangsa ditempatkan di pusat pemindahan sambil menerima bantuan kecemasan dan pelan pemulihan."
   },
   {
-    id: 346,
-    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 1)",
-    content: "Projek kemudahan awam menaik taraf jalan raya, lampu jalan, bekalan air,bekalan elektrik, sistem pembetungan, sistem longkang, dan sistem sisa pepejal."
+    id: 416,
+    title: "Cerita 119 (Bahagian 4) - Kesiapsiagaan & Bantuan",
+    content: "Selepas krisis, agensi menjalankan penilaian risiko dan menyusun strategi pemulihan."
   },
   {
-    id: 347,
-    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 2)",
-    content: "Bandar menguatkan pengurusan sampah, kempen kebersihan, amalan hijau,kitar semula, pengasingan sisa, dan membina pusat kitar semula."
+    id: 417,
+    title: "Cerita 120 (Bahagian 1) - Menghubungkan Semua Benang Merah",
+    content: "Di mesyuarat lembaga, CEO, COO, CFO dan CIO menilai kemajuan projek teknologi hijau dan ekonomi berasaskan data."
   },
   {
-    id: 348,
-    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 3)",
-    content: "Melalui program gotong-royong, sukarelawan komuniti memupuk tanggungjawabsosial, menganjur kempen kesedaran, dan memperluas penglibatan masyarakat denganperanan NGO."
+    id: 418,
+    title: "Cerita 120 (Bahagian 2) - Menghubungkan Semua Benang Merah",
+    content: "Penganalisis pasaran menunjukkan impak CSR, manakala pegawai hubungan awam mengatur naratif kenyataan dasar."
   },
   {
-    id: 349,
-    title: "Cerita 8 — Infrastruktur, Hijau & Masyarakat (Bahagian 4)",
-    content: "Kerjasama sektor awam, sektor swasta, dan sektor ketiga—termasuk koperasidan pertubuhan sosial—menguatkan daya tahan bandar."
+    id: 419,
+    title: "Cerita 120 (Bahagian 3) - Menghubungkan Semua Benang Merah",
+    content: "HR mengumumkan promosi dalaman bagi bakat AI serta anugerah prestasi dan program kebajikan komuniti."
   },
   {
-    id: 350,
-    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 1)",
-    content: "Persatuan pengguna memperjuangkan hak pengguna dan perlindunganpengguna melalui tribunal pengguna yang menangani aduan pengguna."
+    id: 420,
+    title: "Cerita 120 (Bahagian 4) - Menghubungkan Semua Benang Merah",
+    content: "Organisasi menutup tahun dengan laporan tahunan yang menyatukan akauntabiliti, inovasi dan empati."
   },
   {
-    id: 351,
-    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 2)",
-    content: "Pihak penguatkuasaan undang-undang dan KPDN melaksana kawalan harga,memantau harga siling, ketersediaan bekalan barangan, serta keutuhan rantai bekalandaripada pengeluar kepada pemborong, peruncit, dan platform pengedaran."
+    id: 421,
+    title: "Cerita 121 (Bahagian 1) - Patuh Jalan, Selamat Semua",
+    content: "Untuk menjaga keselamatan awam dan ketenteraman awam, polis meningkatkan rondaan keselamatan dan kawalan trafik."
   },
   {
-    id: 352,
-    title: "Cerita 9 — Pengguna, Harga & Rantai Bekalan (Bahagian 3)",
-    content: "Langkah bersepadu memastikan pasaran kekal adil ketika kejutan permintaan."
+    id: 422,
+    title: "Cerita 121 (Bahagian 2) - Patuh Jalan, Selamat Semua",
+    content: "Unit polis trafik bekerjasama dengan Jabatan Pengangkutan Jalan (JPJ) dalam operasi bersepadu; saman trafik dikeluarkan ketika operasi keselamatan jalan dan kempen keselamatan jalan raya."
   },
   {
-    id: 353,
-    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 1)",
-    content: "Usahawan eksport-import mematuhi syarat pengimport dan pengeksporttermasuk permit import, permit eksport, dan pengisian dokumen kastam."
+    id: 423,
+    title: "Cerita 121 (Bahagian 3) - Patuh Jalan, Selamat Semua",
+    content: "Papan peringatan menekankan pemanduan berhemah, had laju serta pematuhan undang-undang; sesi kaunseling diberi kepada pesalah yang menerima denda kompaun."
   },
   {
-    id: 354,
-    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 2)",
-    content: "Di pintu masuk, duti kastam dinilai oleh kastam Diraja Malaysia dan JabatanKastam; proses pengisytiharan barangan, semakan kastam, dan pelepasan importdipercepat melalui sistem digital."
+    id: 424,
+    title: "Cerita 122 (Bahagian 1) - Dari Sekolah Memandu ke Jalan Raya",
+    content: "Calon memohon lesen memandu, lulus ujian memandu, bermula dengan lesen sementara sebelum memperoleh lesen kompeten."
   },
   {
-    id: 355,
-    title: "Cerita 10 — Perdagangan Luar & Kastam (Bahagian 3)",
-    content: "Keseluruhan aliran dagang yang telus membantu kestabilan ekonomi sertamelindungi kepentingan negara dan pengguna."
+    id: 425,
+    title: "Cerita 122 (Bahagian 2) - Dari Sekolah Memandu ke Jalan Raya",
+    content: "Mereka menjalani ujian komputer JPJ, latihan memandu di sekolah memandu, dan proses pengujian kenderaan termasuk pemeriksaan PUSPAKOM."
   },
   {
-    id: 356,
-    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 1)",
-    content: "Di lapangan terbang dan pintu masuk antarabangsa, pegawai menjalankanpemeriksaan kastam serta kawalan sempadan bersama imigresen Malaysia di bawahJabatan Imigresen."
+    id: 426,
+    title: "Cerita 122 (Bahagian 3) - Dari Sekolah Memandu ke Jalan Raya",
+    content: "Syarat jalan meliputi cukai jalan dan insurans kenderaan; bagi kenderaan komersial seperti lori, van, bas sekolah, bas ekspres, teksi serta e-hailing, standard keselamatan penumpang dipantau rapi."
   },
   {
-    id: 357,
-    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 2)",
-    content: "Usahawan asing memohon permit kerja, pelajar antarabangsa menerima visapelajar, manakala pelancong diberi visa pelancong atau pas lawatan sosial; eksekutif globalmemegang pas ekspatriat."
+    id: 427,
+    title: "Cerita 123 (Bahagian 1) - Transit Pintar Bandar",
+    content: "Kota memperluas sistem tambang tanpa tunai seperti MyRapid, Touch 'n Go dan kad pengangkutan awam."
   },
   {
-    id: 358,
-    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 3)",
-    content: "Proses kawalan kemasukan dan permit keluar masuk memastikan warga asing,pekerja asing, serta pekerja domestik mematuhi undang-undang, dibantu agensi berlesenyang memiliki lesen agensi pekerjaan."
+    id: 428,
+    title: "Cerita 123 (Bahagian 2) - Transit Pintar Bandar",
+    content: "Kecekapan meningkat di stesen MRT, sepanjang laluan LRT dan laluan monorel, serta perkhidmatan bas awam melalui integrasi pengangkutan dalam sistem transit pintar."
   },
   {
-    id: 359,
-    title: "Cerita 1 — Sempadan & Imigresen (Bahagian 4)",
-    content: "Di terminal kargo, pemeriksaan dokumen dan muatan dilaksana selari piawaiankeselamatan."
+    id: 429,
+    title: "Cerita 123 (Bahagian 3) - Transit Pintar Bandar",
+    content: "Hasilnya, mobiliti bandar dan jaringan pengangkutan bertambah baik, mengurangkan kesesakan lalu lintas dengan pengurusan trafik dan sistem lampu isyarat disokong kamera AES."
   },
   {
-    id: 360,
-    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 1)",
-    content: "Rantaian maritim bertumpu di pelabuhan Klang, pelabuhan Tanjung Pelepas,pelabuhan Bintulu, dan pelabuhan Kuantan."
+    id: 430,
+    title: "Cerita 124 (Bahagian 1) - Lebuh Raya Musim Perayaan",
+    content: "Di tol, kutipan di lebuh raya utama-PLUS, LPT, DASH, SUKE-dipermudah melalui sistem RFID dan pembayaran tol elektronik."
   },
   {
-    id: 361,
-    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 2)",
-    content: "Pasukan pengurusan pelabuhan menyelaras pengendalian kargo untukpengangkutan laut dan industri perkapalan."
+    id: 431,
+    title: "Cerita 124 (Bahagian 2) - Lebuh Raya Musim Perayaan",
+    content: "Ketika cuti perayaan, aliran trafik tinggi diurus melalui operasi khas raya dan kempen balik kampung."
   },
   {
-    id: 362,
-    title: "Cerita 2 — Nadi Pelabuhan (Bahagian 3)",
-    content: "Kapal dagang berlabuh, memunggah kontena dan muatan kapal di dokpelabuhan serta dermagayang sibuk, sebelum meneruskan pelayaran ke destinasiseterusnya."
+    id: 432,
+    title: "Cerita 124 (Bahagian 3) - Lebuh Raya Musim Perayaan",
+    content: "Pasukan memastikan keselamatan musim perayaan dengan pemantauan polis, bantuan kecemasan, rondaan lebuh raya dan trak tunda."
   },
   {
-    id: 363,
-    title: "Cerita 3 — Logistik Pintar (Bahagian 1)",
-    content: "Syarikat memperkemas penghantaran antarabangsa melalui rangka logistikglobal dan pelbagai perkhidmatan penghantaran."
+    id: 433,
+    title: "Cerita 124 (Bahagian 4) - Lebuh Raya Musim Perayaan",
+    content: "Setiap laporan kemalangan dianalisis demi keselamatan pengguna jalan raya dan peningkatan kesedaran awam terhadap peranan pemandu bertanggungjawab."
   },
   {
-    id: 364,
-    title: "Cerita 3 — Logistik Pintar (Bahagian 2)",
-    content: "Kurier antarabangsa seperti DHL dan FedEx bergandingan dengan Pos Malaysiauntuk penghantaran domestik dan penghantaran ekspres."
+    id: 434,
+    title: "Cerita 125 (Bahagian 1) - Kenderaan Sihat, Nyawa Selamat",
+    content: "Hari pemeriksaan bermula dengan pemeriksaan kenderaan: keadaan tayar, tahap minyak enjin, keberkesanan brek serta lampu isyarat kenderaan."
   },
   {
-    id: 365,
-    title: "Cerita 3 — Logistik Pintar (Bahagian 3)",
-    content: "Di pusat logistik, gudang penyimpanan menjejak inventori; pengurusan rantaianbekalan, perancangan permintaan, dan pengedaran barangan diselaraskan oleh sistemdigital masa nyata."
+    id: 435,
+    title: "Cerita 125 (Bahagian 2) - Kenderaan Sihat, Nyawa Selamat",
+    content: "Cermin diperiksa-cermin sisi, cermin pandang belakang-dan pengelap cermin diuji."
   },
   {
-    id: 366,
-    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 1)",
-    content: "Peniaga memanfaatkan e-dagang antarabangsa dan platform jualan rentassempadan dalam arus perdagangan digital."
+    id: 436,
+    title: "Cerita 125 (Bahagian 3) - Kenderaan Sihat, Nyawa Selamat",
+    content: "Di kabin, tali pinggang keledar dan beg udara diwajibkan; teknologi keselamatan seperti ABS, kawalan kestabilan, amaran jarak, kamera belakang dan penderia parkir ditambah."
   },
   {
-    id: 367,
-    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 2)",
-    content: "Transaksi dalam talian disokong pembayaran antarabangsa: PayPal, kad kredit,kad debit, e-dompet, DuitNow, FPX, serta sistem pembayaran elektronik lain, dilindungikeselamatan transaksi."
+    id: 437,
+    title: "Cerita 125 (Bahagian 4) - Kenderaan Sihat, Nyawa Selamat",
+    content: "Menuju kereta pintar dan kenderaan autonomi, piawaian keselamatan AI digubal selari dasar kenderaan masa depan dan mobiliti pintar."
   },
   {
-    id: 368,
-    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 3)",
-    content: "Risiko penipuan dalam talian, jenayah siber, dan penggodaman data diurusmelalui perlindungan maklumat, pematuhan akta perlindungan data (PDPA), penjagaankeselamatan privasi, pengesahan identiti, log masuk dua faktor, dan amalan kata laluankukuh dengan penyulitan data."
+    id: 438,
+    title: "Cerita 126 (Bahagian 1) - EV untuk Mobiliti Hijau",
+    content: "Bandar melaksanakan pengangkutan elektrik dengan insentif cukai EV, membina pengecas awam dan jaringan pengecas."
   },
   {
-    id: 369,
-    title: "Cerita 4 — Perdagangan Rentas Sempadan & Keselamatan Siber (Bahagian 4)",
-    content: "Organisasi membina sistem keselamatan digital, menjalankan audit keselamatan,melaporkan laporan insiden siber, dan mengaktifkan pasukan tindak balas kecemasansiberdengan sokongan CyberSecurity Malaysia serta Suruhanjaya Komunikasi danMultimedia (SKMM) di bawah pelan keselamatan siber nasional, selaras dasar perlindungandata, tadbir urus digital, dan keselamatan maklumat."
+    id: 439,
+    title: "Cerita 126 (Bahagian 2) - EV untuk Mobiliti Hijau",
+    content: "Pelan mobiliti hijau menolak emisi, menyokong pengangkutan mampan, dan menyelaras keperluan penetapan tarif serta ruang parkir khusus EV."
   },
   {
-    id: 370,
-    title: "Cerita 5 — Awan & IR4.0 (Bahagian 1)",
-    content: "Kerajaan dan industri memusatkan data di pusat data dan beralih ke pelayanawan, storan awan, backup data, dan pemulihan data dalam infrastruktur awan berasaskanpengkomputeran awan untuk skala perkhidmatan digital."
+    id: 440,
+    title: "Cerita 127 (Bahagian 1) - Tenaga untuk Negara",
+    content: "Kerangka dasar tenaga menjamin bekalan elektrik melalui TNB dan grid nasional disokong pusat janakuasa."
   },
   {
-    id: 371,
-    title: "Cerita 5 — Awan & IR4.0 (Bahagian 2)",
-    content: "Kilang menerapkan automasi industri seiring Revolusi Industri 4.0 (IR4.0),mengguna teknologi pintar, IoT, blockchain, kecerdasan buatan (AI), dan pembelajaranmesin."
+    id: 441,
+    title: "Cerita 127 (Bahagian 2) - Tenaga untuk Negara",
+    content: "Campuran bahan api dipelbagaikan: hidroelektrik, suria, angin, biojisim, serta storan tenaga bateri litium dan pengecas pantas."
   },
   {
-    id: 372,
-    title: "Cerita 5 — Awan & IR4.0 (Bahagian 3)",
-    content: "Pasukan analitik data, sains data, dan visualisasi data mengolah maklumatdaripada pangkalan data dan pengurusan maklumat bagi menaik taraf teknologi maklumatdan sistem maklumat."
+    id: 442,
+    title: "Cerita 127 (Bahagian 3) - Tenaga untuk Negara",
+    content: "Dasar tenaga boleh diperbaharui selari pelan tindakan tenaga, penjimatan dan kecekapan tenaga."
   },
   {
-    id: 373,
-    title: "Cerita 6 — Web & Media Sosial (Bahagian 1)",
-    content: "Syarikat melancarkan aplikasi mudah alih sambil meneruskan pembangunanperisian, reka bentuk aplikasi, dan pembangunan web untuk laman sesawang utama."
+    id: 443,
+    title: "Cerita 127 (Bahagian 4) - Tenaga untuk Negara",
+    content: "Pengurusan tenaga menilai tenaga nuklear dengan penekanan keselamatan; kajian alternatif mengukuhkan ekonomi tenaga negara."
   },
   {
-    id: 374,
-    title: "Cerita 6 — Web & Media Sosial (Bahagian 2)",
-    content: "Pasukan IT mengurus domain, hos web, dan SEO; pemasaran menggerakkanpemasaran digital serta pengiklanan dalam talian di media sosial seperti Facebook,Instagram, TikTok, YouTube, X (Twitter), dan Threads."
+    id: 444,
+    title: "Cerita 127 (Bahagian 5) - Tenaga untuk Negara",
+    content: "Suruhanjaya Tenaga dan kementerian menjejak sasaran tenaga hijau, laporan kemajuan dan audit tenaga menuju neutraliti karbon."
   },
   {
-    id: 375,
-    title: "Cerita 6 — Web & Media Sosial (Bahagian 3)",
-    content: "Di platform kandungan, algoritma media sosial membantu pencipta kandungandan pempengaruh digital menjalankan kempen pemasaran, mengukur penglibatanpengguna, kadar tontonan, kadar klik, paparan iklan, serta analitik media sosial."
+    id: 445,
+    title: "Cerita 128 (Bahagian 1) - SDG: Ukur, Lapor, Tindak",
+    content: "Negara komited kepada Agenda 2030 dan SDG Malaysia melalui pelaporan dan pemantauan kemajuan."
   },
   {
-    id: 376,
-    title: "Cerita 6 — Web & Media Sosial (Bahagian 4)",
-    content: "Semua itu sejajar strategi kandungan, pengurusan jenama, reputasi digital,identiti korporat, logo syarikat, reka bentuk grafik, warna korporat, tipografi, dan garispanduan jenama."
+    id: 446,
+    title: "Cerita 128 (Bahagian 2) - SDG: Ukur, Lapor, Tindak",
+    content: "Antara teras SDG: kemiskinan sifar, kesihatan baik, pendidikan berkualiti, tenaga bersih, bandar mampan, tindakan iklim dan keamanan."
   },
   {
-    id: 377,
-    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 1)",
-    content: "Portal dibina berasaskan pengalaman pengguna dengan reka bentuk mesrapengguna, antaramuka interaktif, dan sistem navigasi jelas di laman utama serta halamanproduk."
+    id: 447,
+    title: "Cerita 128 (Bahagian 3) - SDG: Ukur, Lapor, Tindak",
+    content: "Setiap tahun, laporan pembangunan dan penilaian kemajuan merujuk indikator nasional berasaskan data."
   },
   {
-    id: 378,
-    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 2)",
-    content: "Borang pendaftaran dipermudah melalui borang pendaftaran dan butangpanggilan tindakan; laman kekal lincah dengan reka bentuk responsif dan akses mudahalih."
+    id: 448,
+    title: "Cerita 129 (Bahagian 1) - Data untuk Dasar",
+    content: "Kementerian ekonomi, EPU dan DOSM menggunakan bancian, laporan statistik serta indikator sosial dan ekonomi."
   },
   {
-    id: 379,
-    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 3)",
-    content: "Perlindungan ditambah melalui keselamatan laman web, sijil SSL, perlindunganspam, serta pemantauan kelajuan muat naik dan pengoptimuman SEO."
+    id: 449,
+    title: "Cerita 129 (Bahagian 2) - Data untuk Dasar",
+    content: "Mereka memantau kadar kemiskinan, pendapatan isi rumah, B40, M40, T20, ketidaksamaan ekonomi dan jurang pendapatan."
   },
   {
-    id: 380,
-    title: "Cerita 7 — Reka Bentuk Mesra Pengguna & Sokongan (Bahagian 4)",
-    content: "Selepas jualan, pemasaran menghantar pemasaran e-mel kepada pangkalanpelanggan; operasi mengurus pengurusan pelanggan dan CRM, memantau kepuasanpelanggan, mengutip maklum balas pengguna. Bantuan disalur melalui sokonganpelanggan, chatbot sokongan, sistem tiket bantuan, pangkalan pengetahuan, FAQ, panduanpengguna, tutorial video, dan dokumentasi teknikal."
+    id: 450,
+    title: "Cerita 129 (Bahagian 3) - Data untuk Dasar",
+    content: "Dapatan ini memandu reka bentuk intervensi yang lebih tepat sasaran."
   },
   {
-    id: 381,
-    title: "Cerita 8 — Kitar Hayat Perisian (Bahagian 1)",
-    content: "Selepas kemas kini perisian, pasukan melepaskan versi baharu yangmerangkumi pembetulan pepijat dan penambahbaikan sistem."
+    id: 451,
+    title: "Cerita 130 (Bahagian 1) - Jaringan Perlindungan Sosial",
+    content: "Kerajaan mengukuhkan bantuan kewangan, skim subsidi dan perlindungan rakyat di bawah program bantuan nasional."
   },
   {
-    id: 382,
-    title: "Cerita 8 — Kitar Hayat Perisian (Bahagian 2)",
-    content: "Program ujian beta mengumpul maklum balas pengguna awal, merekod laporanpepijat, menjalankan pengujian prestasi dan ujian keselamatan bagi memastikan kestabilansebelum peluncuran besar-besaran."
+    id: 452,
+    title: "Cerita 130 (Bahagian 2) - Jaringan Perlindungan Sosial",
+    content: "STR dan bantuan tunai langsung membantu keluarga menampung kos sara hidup."
   },
   {
-    id: 383,
-    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 1)",
-    content: "Hari pelancaran produk tiba bersama pengumuman rasmi, siaran media, dankempen pelancaran."
+    id: 453,
+    title: "Cerita 130 (Bahagian 3) - Jaringan Perlindungan Sosial",
+    content: "Inisiatif ini melengkapkan tenaga hijau, pengangkutan selamat dan pembangunan berasaskan data."
   },
   {
-    id: 384,
-    title: "Cerita 9 — Pelancaran & Operasi (Bahagian 2)",
-    content: "Pengurus produk menyelaras pasukan pembangunan, pasukan reka bentuk,pasukan pemasaran, pasukan jualan, dan pasukan operasi."
+    id: 454,
+    title: "Cerita 131 (Bahagian 1) - Jaringan Bantuan & Perlindungan Sosial",
+    content: "Selepas banjir, kerajaan melancarkan bantuan khas dan bantuan bulanan."
+  },
+  {
+    id: 455,
+    title: "Cerita 131 (Bahagian 2) - Jaringan Bantuan & Perlindungan Sosial",
+    content: "Pusat setempat menyelaras bantuan pendidikan, bantuan kesihatan, bantuan OKU, warga emas, ibu tunggal dan pelajar miskin."
+  },
+  {
+    id: 456,
+    title: "Cerita 131 (Bahagian 3) - Jaringan Bantuan & Perlindungan Sosial",
+    content: "Bantuan bencana diaktifkan melalui tabung kecemasan dan dana khas kerajaan."
+  },
+  {
+    id: 457,
+    title: "Cerita 131 (Bahagian 4) - Jaringan Bantuan & Perlindungan Sosial",
+    content: "PERKESO menyediakan skim insurans sosial dengan faedah pengangguran."
+  },
+  {
+    id: 458,
+    title: "Cerita 132 (Bahagian 1) - Persaraan, Pencen & KWSP",
+    content: "Penjawat menerima pencen pesara melalui skim pencen kerajaan atau pesara tentera."
+  },
+  {
+    id: 459,
+    title: "Cerita 132 (Bahagian 2) - Persaraan, Pencen & KWSP",
+    content: "Di sektor swasta, pekerja memilih skim persaraan swasta atau simpanan KWSP."
+  },
+  {
+    id: 460,
+    title: "Cerita 132 (Bahagian 3) - Persaraan, Pencen & KWSP",
+    content: "Pengeluaran KWSP dibenarkan mengikut keperluan tetapi fokus kekal pada simpanan hari tua yang mampan."
+  },
+  {
+    id: 461,
+    title: "Cerita 133 (Bahagian 1) - Pelaburan Persaraan & Syariah",
+    content: "Agensi menilai kadar dividen, keuntungan tahunan dan menerbitkan laporan pelaburan."
+  },
+  {
+    id: 462,
+    title: "Cerita 133 (Bahagian 2) - Pelaburan Persaraan & Syariah",
+    content: "Portfolio merentasi hartanah, saham dan bon termasuk dana patuh syariah."
+  },
+  {
+    id: 463,
+    title: "Cerita 133 (Bahagian 3) - Pelaburan Persaraan & Syariah",
+    content: "Pengurus dana menimbang risiko berbanding pulangan demi kestabilan jangka panjang."
+  },
+  {
+    id: 464,
+    title: "Cerita 134 (Bahagian 1) - Pasaran Modal & Isyarat Ekonomi",
+    content: "Aktiviti pasaran saham dipandu indeks komposit dan prestasi syarikat."
   }
 ]
