@@ -38,8 +38,6 @@ yarn-error.log*
 .env*.local
 
 # Allow committed environment templates
-!.env.development
-!.env.production
 !.env.example
 
 # vercel
